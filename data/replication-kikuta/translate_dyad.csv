@@ -1,0 +1,4213 @@
+new_id,old_id,name,type_of_violence
+399,462,Government of Bolivia - Popular Revolutionary Movement,1
+400,463,Government of Bolivia - MNR,1
+401,464,Government of Bolivia - ELN,1
+402,654,Government of France - Khmer Issarak,1
+403,466,Government of China - PLA,1
+404,467,Government of Greece - DSE,1
+405,657,Government of Netherlands - Indonesian People's Army,1
+406,260,Government of Iran - KDPI,1
+407,468,Government of Iran - Republic of Azerbaijan,1
+408,665,Government of United Kingdom - IZL [Etzel],1
+409,666,Government of France - Lao Issara,1
+410,469,Government of Philippines - Huk,1
+411,217,Government of Philippines - CPP,1
+412,220,"Government of Philippines - Military faction (forces of Honasan, Abenina & Zumel)",1
+413,478,Government of Russia (Soviet Union) - Forest Brothers,1
+414,481,Government of Russia (Soviet Union) - LNPA,1
+415,479,Government of Russia (Soviet Union) - LTS(p)A,1
+416,482,Government of Russia (Soviet Union) - BDPS,1
+417,483,Government of Russia (Soviet Union) - UPA,1
+418,484,Government of France - Government of Thailand,1
+419,579,Government of Albania - Government of United Kingdom,1
+420,668,Government of France - Viet minh,1
+421,580,Government of China - Taiwanese insurgents,1
+422,345,Government of India - Government of Pakistan,1
+423,669,Government of France - MDRM,1
+424,673,"Government of Paraguay - Opposition coalition (Febreristas, Liberals and Communists)",1
+425,671,Government of Paraguay - Military faction (forces of Alfredo Stroessner),1
+426,474,Government of Paraguay - Military faction (forces of Andres Rodriguez),1
+427,790,Government of Myanmar (Burma) - KNUP,1
+428,306,Government of Myanmar (Burma) - KNU,1
+429,314,Government of Myanmar (Burma) - God's Army,1
+430,805,Government of Myanmar (Burma) - DKBA 5,1
+431,305,Government of Myanmar (Burma) - CPB,1
+432,677,Government of Myanmar (Burma) - CPB-RF,1
+433,678,"Government of Myanmar (Burma) - PVO - ""White Band"" faction",1
+434,322,Government of Myanmar (Burma) - ABSDF,1
+435,799,Government of Myanmar (Burma) - APLP,1
+436,800,Government of Myanmar (Burma) - Mujahid Party,1
+437,801,Government of Myanmar (Burma) - ANLP,1
+438,802,Government of Myanmar (Burma) - CPA,1
+439,794,Government of Myanmar (Burma) - RPF,1
+440,795,Government of Myanmar (Burma) - ALP,1
+441,323,Government of Myanmar (Burma) - ARIF,1
+442,312,Government of Myanmar (Burma) - RSO,1
+443,683,Government of Myanmar (Burma) - MFL-MUF,1
+444,684,Government of Myanmar (Burma) - MPF,1
+445,310,Government of Myanmar (Burma) - NMSP,1
+446,326,Government of Myanmar (Burma) - BMA,1
+447,581,Government of Costa Rica - National Liberation Army,1
+448,757,Government of Hyderabad - Government of India,1
+449,689,Government of India - CPI,1
+450,690,Government of India - CPI-ML,1
+451,405,Government of India - PWG,1
+452,406,Government of India - MCC,1
+453,451,Government of India - CPI-Maoist,1
+454,619,"Egypt, Iraq, Jordan, Lebanon, Syria - Government of Israel",1
+455,693,Government of United Kingdom - CPM,1
+456,615,Government of Yemen (North Yemen) - Opposition coalition,1
+457,616,Government of Yemen (North Yemen) - Royalists,1
+458,617,Government of Yemen (North Yemen) - NDF,1
+459,784,Government of Yemen (North Yemen) - AQAP,1
+460,753,Government of Myanmar (Burma) - PNDF,1
+461,304,Government of Myanmar (Burma) - KIO,1
+462,608,Government of China - Government of Taiwan,1
+463,621,Government of Guatemala - Military faction,1
+464,622,Government of Guatemala - Forces of Carlos Castillo Armas,1
+465,624,Government of Guatemala - FAR I,1
+466,694,Government of Guatemala - FAR II,1
+467,625,Government of Guatemala - EGP,1
+468,627,Government of Guatemala - ORPA,1
+469,228,Government of Guatemala - URNG,1
+470,695,Government of Israel - Palestinian insurgents,1
+471,696,Government of Israel - Non PLO groups,1
+472,781,Government of Israel - PLO,1
+473,780,Government of Israel - Rejectionist Front,1
+474,419,Government of Israel - PFLP,1
+475,428,Government of Israel - PFLP-GC,1
+476,377,Government of Israel - Fatah,1
+477,381,Government of Israel - Hamas,1
+478,380,Government of Israel - PIJ,1
+479,427,Government of Israel - PNA,1
+480,426,Government of Israel - AMB,1
+481,629,Government of Israel - PRC,1
+482,618,Government of North Korea - Government of South Korea,1
+483,606,Government of China - Tibet,1
+484,605,Government of Indonesia - Republic of South Moluccas,1
+485,698,Government of United States of America - Puerto Rican Nationalist Party,1
+486,604,Government of Egypt - Government of United Kingdom,1
+487,598,Government of Thailand - Military faction (navy),1
+488,599,Government of Thailand - CPT,1
+489,699,Government of United Kingdom - Mau Mau,1
+490,600,Government of Cuba - M-26-7,1
+491,602,Government of Cuba - Cuban Revolutionary Council,1
+492,595,Government of Indonesia - Darul Islam,1
+493,752,Government of Indonesia - Permesta Movement,1
+494,596,Government of Indonesia - PRRI,1
+495,702,Government of France - Istiqlal,1
+496,705,Government of France - National Liberation Army,1
+497,707,Government of France - FLN,1
+498,709,Government of France - MNA,1
+499,590,Government of Argentina - Military faction (forces of Eduardo A. Lonardi Doucet),1
+500,810,Government of Argentina - Military faction (forces of Samuel Toranzo Caldern),1
+501,592,Government of Argentina - Military faction (colorados),1
+502,594,Government of Argentina - ERP,1
+503,593,Government of Argentina - Montoneros,1
+504,710,Government of United Kingdom - EOKA,1
+505,614,Government of South Vietnam - FNL,1
+506,603,Government of Hungary - Government of Russia (Soviet Union),1
+507,711,Government of India - NNC,1
+508,286,Government of India - NSCN-IM,1
+509,453,Government of India - NSCN-K,1
+510,620,"Government of Egypt - France, Israel, United Kingdom",1
+511,311,Government of Myanmar (Burma) - KNPP,1
+512,713,Government of France - UPC,1
+513,591,Government of Honduras - Government of Nicaragua,1
+514,715,Government of France - NLA,1
+515,716,Government of Spain - NLA,1
+516,607,Government of Oman - State of Oman/Free Oman,1
+517,717,Government of Iraq - Military faction (free Officers Movement),1
+518,718,Government of Iraq - Military faction (forces of Abdul Wahab al-Shawaf),1
+519,719,Government of Iraq - Military faction (forces of Abd as-Salam Arif),1
+520,720,Government of Iraq - NCRC,1
+521,298,Government of Iraq - SCIRI,1
+523,443,Government of Iraq - Ansar al-Islam,1
+524,448,Government of Iraq - IS,1
+525,578,Government of Iraq - RJF,1
+526,570,Government of Lebanon - Independent Nasserite Movement,1
+527,722,Government of Lebanon - NSF,1
+528,723,Government of Lebanon - LAA,1
+529,724,Government of Lebanon - Amal,1
+530,725,Government of Lebanon - NUF,1
+531,726,Government of Lebanon - Lebanese Forces - Hobeika faction,1
+532,376,Government of Lebanon - Forces of Michel Aoun,1
+533,383,Government of Lebanon - Lebanese Forces,1
+534,585,Government of Malaysia - CPM,1
+535,734,Government of Laos - Pathet Lao,1
+536,736,Government of Laos - Neutralists,1
+537,382,Government of Laos - LRM,1
+538,739,Government of Portugal - FNLA,1
+539,738,Government of Portugal - MPLA,1
+540,740,Government of Portugal - UNITA,1
+541,742,Government of Myanmar (Burma) - NSH,1
+542,743,Government of Myanmar (Burma) - SSIA,1
+543,744,Government of Myanmar (Burma) - SNUF,1
+544,746,Government of Myanmar (Burma) - SSA,1
+545,748,Government of Myanmar (Burma) - SSNLO,1
+546,747,Government of Myanmar (Burma) - SURA,1
+547,750,Government of Myanmar (Burma) - SSRA,1
+548,751,Government of Myanmar (Burma) - TRC,1
+549,308,Government of Myanmar (Burma) - MTA,1
+550,307,Government of Myanmar (Burma) - RCSS,1
+551,587,Government of DR Congo (Zaire) - State of Katanga,1
+552,588,Government of DR Congo (Zaire) - Independent Mining State of South Kasai,1
+553,755,Government of Ethiopia - Military faction (forces of Mengistu Neway),1
+554,50,Government of Ethiopia - EPRP,1
+555,46,Government of Ethiopia - TPLF,1
+556,754,Government of Ethiopia - EDU,1
+557,47,Government of Ethiopia - EPDM,1
+558,48,Government of Ethiopia - EPRDF,1
+559,49,Government of Ethiopia - Military faction (forces of Amsha Desta and Merid Negusie),1
+560,589,Government of Ethiopia - Government of Somalia,1
+561,652,Government of Nepal - NC,1
+562,349,Government of Nepal - CPN-M,1
+563,584,Government of France - OAS,1
+564,279,Government of Iraq - KDP,1
+565,285,Government of Iraq - PUK,1
+566,653,Government of Iraq - KDP-QM,1
+567,609,Government of France - Government of Tunisia,1
+568,655,Government of United Kingdom - North Kalimantan Liberation Army,1
+569,613,Government of China - Government of India,1
+570,667,Government of Ethiopia - ELF,1
+571,53,Government of Ethiopia - EPLF,1
+572,612,Government of Indonesia - Government of Netherlands,1
+573,672,Government of Venezuela - Military faction (navy),1
+574,778,Government of Venezuela - Bandera Roja,1
+575,475,Government of Venezuela - Military faction (forces of Hugo Chvez),1
+576,611,Government of Algeria - Government of Morocco,1
+577,675,Government of Portugal - PAIGC,1
+578,586,Government of Malaysia - CCO,1
+579,610,Government of Indonesia - Government of Malaysia,1
+580,676,Government of Sudan - SSLM,1
+581,679,Government of DR Congo (Zaire) - CNL,1
+582,680,Government of DR Congo (Zaire) - Military Faction (Forces of Jean Schramme),1
+583,681,Government of DR Congo (Zaire) - FLNC,1
+584,39,Government of DR Congo (Zaire) - AFDL,1
+585,41,Government of DR Congo (Zaire) - MLC,1
+586,40,Government of DR Congo (Zaire) - RCD,1
+587,42,Government of DR Congo (Zaire) - RCD-ML,1
+588,646,Government of DR Congo (Zaire) - CNDP,1
+589,583,Government of Gabon - Military faction (forces loyal to Lon M'Ba),1
+590,685,Government of Portugal - Frelimo,1
+591,686,Government of United Kingdom - FLOSY,1
+592,485,Government of Burundi - Military faction (forces loyal to Gervais Nyangoma),1
+593,11,Government of Burundi - Palipehutu,1
+594,12,Government of Burundi - CNDD,1
+595,13,Government of Burundi - Frolina,1
+596,15,Government of Burundi - Palipehutu-FNL,1
+597,14,Government of Burundi - CNDD-FDD,1
+598,656,Government of Chad - Frolinat,1
+599,658,Government of Chad - First Liberation Army,1
+600,659,Government of Chad - Second Liberation Army,1
+601,660,Government of Chad - FAN,1
+602,661,Government of Chad - FAP,1
+603,662,Government of Chad - FAT,1
+604,663,Government of Chad - GUNT,1
+605,664,Government of Chad - CDR,1
+606,20,Government of Chad - Islamic Legion,1
+607,19,Government of Chad - MOSANAT,1
+608,18,Government of Chad - Revolutionary Forces of 1 April,1
+609,23,Government of Chad - MPS,1
+610,25,Government of Chad - MDD,1
+611,777,Government of Chad - Military faction (forces of Maldoum Bada Abbas),1
+612,22,Government of Chad - CNR,1
+613,21,Government of Chad - CSNPD,1
+614,24,Government of Chad - FNT,1
+615,26,Government of Chad - FARF,1
+616,27,Government of Chad - MDJT,1
+617,455,Government of Chad - FUCD,1
+618,633,Government of Chad - RAFD,1
+619,634,Government of Chad - UFDD,1
+620,767,Government of Chad - AN,1
+621,783,Government of Chad - UFR,1
+622,807,Government of Chad - PFNR,1
+623,237,Government of Colombia - FARC,1
+624,342,Government of Colombia - ELN,1
+625,495,Government of Colombia - M-19,1
+626,343,Government of Colombia - EPL,1
+627,493,Government of Dominican Republic - Military faction (constitutionalists),1
+628,498,Government of Indonesia - OPM,1
+629,500,Government of Peru - ELN,1
+630,499,Government of Peru - MIR,1
+631,235,Government of Peru - Sendero Luminoso,1
+632,319,Government of Peru - MRTA,1
+633,803,Government of South Vietnam - Government of Vietnam (North Vietnam),1
+634,517,Government of Cambodia (Kampuchea) - Government of Thailand,1
+635,502,Government of Ghana - NLC,1
+636,503,Government of Ghana - Military faction (forces of Jerry John Rawlings),1
+637,504,Government of Ghana - Military faction (forces of Ekow Dennis and Edward Adjei-Ampofo),1
+638,505,Government of India - MNF,1
+639,494,Government of Nigeria - Military faction (forces of Patrick Nzeogwu),1
+640,793,Government of Nigeria - Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,1
+641,516,Government of South Africa - SWAPO,1
+642,518,Government of Syria - Military faction (forces loyal to Nureddin Atassi and Youssef Zeayen),1
+643,519,Government of Syria - Muslim Brotherhood,1
+644,364,Government of Cambodia (Kampuchea) - KR,1
+645,553,Government of Cambodia (Kampuchea) - KNUFNS,1
+646,378,Government of Cambodia (Kampuchea) - KPNLF,1
+647,379,Government of Cambodia (Kampuchea) - FUNCINPEC,1
+648,530,Government of Israel - Government of Jordan,1
+649,531,Government of Israel - Government of Syria,1
+650,528,Government of Nigeria - Republic of Biafra,1
+651,532,Government of China - Government of Myanmar (Burma),1
+652,533,Government of China - Government of Russia (Soviet Union),1
+653,534,Government of El Salvador - Government of Honduras,1
+654,57,Government of Guinea - RFDG,1
+655,507,Government of Philippines - MIM,1
+656,247,Government of Philippines - MNLF,1
+657,242,Government of Philippines - MILF,1
+658,249,Government of Philippines - ASG,1
+659,252,Government of Philippines - MNLF - NM,1
+660,647,Government of Philippines - MNLF - HM,1
+661,520,Government of Sudan - Sudanese Communist Party,1
+662,521,Government of Sudan - Islamic Charter Front,1
+663,641,Government of Sudan - SPLM/A,1
+664,645,Government of Sudan - NDA,1
+665,434,Government of Sudan - JEM,1
+666,433,Government of Sudan - SLM/A,1
+667,630,Government of Sudan - NRF,1
+668,631,Government of Sudan - SLM/A - MM,1
+669,648,Government of Sudan - SLM/A-Unity,1
+670,808,Government of Sudan - SSDM/A,1
+671,540,Government of Madagascar - Monima,1
+672,541,Government of Morocco - Military faction (forces of Mohamed Madbouh),1
+673,542,Government of Pakistan - Mukti Bahini,1
+674,256,Government of Sri Lanka - JVP,1
+675,554,Government of Uganda - Military faction (forces of Idi Amin),1
+676,700,Government of Uganda - Kikosi Maalum,1
+677,555,Government of Uganda - Military faction (forces of Charles Arube),1
+678,701,Government of Uganda - Fronasa,1
+679,556,Government of Uganda - UNLF,1
+680,703,Government of Uganda - FUNA,1
+681,574,Government of Uganda - NRA,1
+682,704,Government of Uganda - UNRF,1
+683,575,Government of Uganda - UFM,1
+684,149,Government of Uganda - HSM,1
+685,706,Government of Uganda - UPDA,1
+686,148,Government of Uganda - UPA,1
+687,708,Government of Uganda - Lord's Army,1
+688,151,Government of Uganda - LRA,1
+689,153,Government of Uganda - ADF,1
+690,152,Government of Uganda - WNBF,1
+691,431,Government of Uganda - UNRF II,1
+692,216,Government of United Kingdom - PIRA,1
+693,248,Government of United Kingdom - RIRA,1
+694,514,Government of El Salvador - Military faction (forces of Benjamin Mejia),1
+695,510,Government of El Salvador - ERP,1
+696,508,Government of El Salvador - FPL,1
+697,225,Government of El Salvador - FMLN,1
+698,561,Government of Oman - PFLO,1
+699,565,Government of Zimbabwe (Rhodesia) - ZAPU,1
+700,560,Government of Zimbabwe (Rhodesia) - ZANU,1
+701,712,Government of Zimbabwe (Rhodesia) - PF,1
+702,491,Government of Uruguay - MLN/Tupamaros,1
+703,563,Government of South Yemen - Government of Yemen (North Yemen),1
+704,490,"Government of Chile - Military faction (forces of Augusto Pinochet, Toribio Merino and Leigh Guzman)",1
+705,223,Government of Bangladesh - JSS/SB,1
+706,492,Government of Cyprus - Government of Turkey,1
+707,543,Government of Iran - Government of Iraq,1
+708,544,Government of Pakistan - BLF,1
+709,639,Government of Pakistan - BLA,1
+710,638,Government of Pakistan - Baloch Ittehad,1
+711,774,Government of Pakistan - BRA,1
+712,435,Government of Eritrea - EIJM - AS,1
+713,568,Government of Angola - FNLA,1
+714,7,Government of Angola - UNITA,1
+715,545,Government of Cambodia (Kampuchea) - Government of Vietnam (North Vietnam),1
+716,792,Government of Ethiopia - Ogaden Liberation Front,1
+717,522,Government of Ethiopia - WSLF,1
+718,283,Government of Ethiopia - AIAI,1
+719,54,Government of Ethiopia - ONLF,1
+720,344,Government of Indonesia - Fretilin,1
+721,98,Government of Morocco - POLISARIO,1
+722,99,Government of Mozambique - Renamo,1
+723,727,Government of Afghanistan - PDPA,1
+724,411,Government of Afghanistan - Jam'iyyat-i Islami-yi Afghanistan,1
+725,731,Government of Afghanistan - Harakat-i Inqilab-i Islami-yi Afghanistan,1
+726,412,Government of Afghanistan - Hizb-i Islami-yi Afghanistan,1
+727,760,Government of Afghanistan - Hizb-i Islami-yi Afghanistan - Khalis faction,1
+728,733,Government of Afghanistan - Jabha-yi Nijat-i Milli-yi Afghanistan,1
+729,732,Government of Afghanistan - Mahaz-i Milli-yi Islami-yi Afghanistan,1
+730,735,Government of Afghanistan - Ittihad-i Islami Bara-yi Azadi-yi Afghanistan,1
+731,737,Government of Afghanistan - Harakat-i Islami-yi Afghanistan,1
+732,413,Government of Afghanistan - Hizb-i Wahdat,1
+733,476,Government of Afghanistan - Military faction (forces of Shahnawaz Tanay),1
+734,422,Government of Afghanistan - Junbish-i Milli-yi Islami,1
+735,327,Government of Afghanistan - Taleban,1
+736,423,Government of Afghanistan - UIFSA,1
+737,550,Government of China - Government of Vietnam (North Vietnam),1
+738,515,Government of India - TNV,1
+739,262,Government of India - ATTF,1
+740,269,Government of India - NLFT,1
+741,567,Government of Nicaragua - FSLN,1
+742,231,Government of Nicaragua - Contras/FDN,1
+743,209,Government of Somalia - SSDF,1
+744,207,Government of Somalia - SNM,1
+745,208,Government of Somalia - SPM,1
+746,210,Government of Somalia - USC/SSA,1
+747,211,Government of Somalia - USC/SNA,1
+748,212,Government of Somalia - SRRC,1
+749,632,Government of Somalia - ARS/UIC,1
+750,770,Government of Somalia - Al-Shabaab,1
+751,771,Government of Somalia - Harakat Ras Kamboni,1
+752,804,Government of Somalia - Hizbul Islam,1
+753,246,Government of Iran - MEK,1
+754,459,Government of Iran - PJAK,1
+755,640,Government of Iran - Jondullah,1
+756,546,Government of Iran - APCO,1
+757,548,Government of Saudi Arabia - JSM,1
+758,525,Government of Liberia - Military faction (forces of Samuel Doe),1
+759,93,Government of Liberia - NPFL,1
+760,94,Government of Liberia - INPFL,1
+761,95,Government of Liberia - LURD,1
+762,352,Government of Liberia - MODEL,1
+763,366,Government of Spain - ETA,1
+764,551,Government of Tunisia - Rsistance Arme Tunisienne,1
+765,547,Government of Gambia - NRC,1
+766,558,Government of South Africa - ANC,1
+767,489,Government of Argentina - Government of United Kingdom,1
+768,325,Government of India - PLA,1
+769,336,Government of India - UNLF,1
+770,764,Government of India - KCP,1
+771,766,Government of India - PREPAK,1
+772,536,Government of Kenya - Military faction (forces of Hezekiah Ochuka),1
+773,535,Government of Chad - Government of Nigeria,1
+774,573,Government of Grenada - Government of United States of America,1
+775,387,Government of India - Sikh insurgents,1
+776,243,Government of Sri Lanka - LTTE,1
+777,526,Government of Sri Lanka - TELO,1
+778,687,Government of Sri Lanka - EPRLF,1
+779,692,Government of Cameroon - UPC,1
+780,539,Government of Cameroon - Military faction (forces of Ibrahim Saleh),1
+781,333,Government of Turkey - PKK,1
+782,538,Government of Burkina Faso - Government of Mali,1
+783,537,Government of Laos - Government of Thailand,1
+784,559,Government of Suriname - SLA,1
+785,471,Government of Togo - MTD,1
+786,564,Government of South Yemen - Yemenite Socialist Party - Abdul Fattah Ismail faction,1
+787,487,Government of Burkina Faso - Popular Front,1
+788,486,Government of Chad - Government of Libya,1
+789,158,Government of Comoros - Presidential guard,1
+790,51,Government of Ethiopia - ALF,1
+791,52,Government of Ethiopia - ARDUF,1
+792,355,Government of India - Kashmir insurgents,1
+793,296,Government of India - ULFA,1
+794,347,Government of Indonesia - GAM,1
+795,461,Government of Panama - Military faction (forces of Moiss Giroldi),1
+796,233,Government of Panama - Government of United States of America,1
+797,337,Government of Papua New Guinea - BRA,1
+798,357,Government of Rumania - NSF,1
+799,320,Government of Iraq - Government of Kuwait,1
+800,96,Government of Mali - MPA,1
+801,97,Government of Mali - FIAA,1
+802,650,Government of Mali - ATNMC,1
+803,111,Government of Niger - CRA,1
+804,127,Government of Rwanda - FPR,1
+805,128,Government of Rwanda - ALiR,1
+806,129,Government of Senegal - MFDC,1
+807,370,Government of Russia (Soviet Union) - Republic of Armenia,1
+808,373,Government of Russia (Soviet Union) - APF,1
+809,219,Government of Trinidad and Tobago - Jamaat al-Muslimeen,1
+810,43,Government of Djibouti - FRUD,1
+811,44,Government of Djibouti - FRUD - AD,1
+812,239,Government of Georgia - National Guard and Mkhedrioni,1
+813,289,Government of Georgia - Zviadists,1
+814,244,Government of Haiti - Military faction (forces of Himmler Rebu and Guy Francois),1
+815,251,Government of Haiti - Military faction (forces of Raol Cdras),1
+816,440,Government of Haiti - FLRN,1
+817,441,Government of Haiti - OP Lavalas (Chimres),1
+818,130,Government of Sierra Leone - RUF,1
+819,131,Government of Sierra Leone - AFRC,1
+820,132,Government of Sierra Leone - Kamajors,1
+821,714,Government of Sierra Leone - WSB,1
+822,330,Government of Turkey - Devrimci Sol,1
+823,457,Government of Turkey - MKP,1
+824,281,Government of Serbia (Yugoslavia) - Republic of Slovenia,1
+825,273,Government of Serbia (Yugoslavia) - Croatian irregulars,1
+826,272,Government of Serbia (Yugoslavia) - Republic of Croatia,1
+827,2,Government of Algeria - Takfir wa'l Hijra,1
+828,1,Government of Algeria - AIS,1
+829,3,Government of Algeria - GIA,1
+830,4,Government of Algeria - AQIM,1
+831,191,Government of Angola - FLEC-R,1
+832,190,Government of Angola - FLEC-FAC,1
+833,361,Government of Azerbaijan - Republic of Nagorno-Karabakh,1
+834,300,Government of Bosnia-Herzegovina - Serbian irregulars,1
+835,292,Government of Bosnia-Herzegovina - Serbian Republic of Bosnia-Herzegovina,1
+836,291,Government of Croatia - Serbian irregulars,1
+837,303,Government of Croatia - Serbian Republic of Krajina,1
+838,241,Government of Egypt - al-Gama'a al-Islamiyya,1
+839,259,Government of Georgia - Republic of Abkhazia,1
+840,297,Government of Georgia - Republic of South Ossetia,1
+841,367,Government of Moldova - PMR,1
+842,353,Government of Tajikistan - UTO,1
+843,415,Government of Tajikistan - Forces of Khudoberdiyev,1
+844,362,Government of Azerbaijan - Military faction (forces of Suret Husseinov),1
+845,407,Government of Azerbaijan - OPON Forces,1
+846,294,Government of Bosnia-Herzegovina - Autonomous Province of Western Bosnia,1
+847,301,Government of Bosnia-Herzegovina - Croatian irregulars,1
+848,293,Government of Bosnia-Herzegovina - Croatian Republic of Bosnia-Herzegovina,1
+849,350,Government of Russia (Soviet Union) - Parliamentary Forces,1
+850,230,Government of Mexico - EZLN,1
+851,299,Government of Mexico - EPR,1
+852,348,Government of Russia (Soviet Union) - Chechen Republic of Ichkeria,1
+853,375,Government of Yemen (North Yemen) - Democratic Republic of Yemen,1
+854,227,Government of Ecuador - Government of Peru,1
+855,340,Government of Pakistan - MQM,1
+856,721,Government of Pakistan - TNSM,1
+857,768,Government of Pakistan - TTP,1
+858,16,Government of Cameroon - Government of Nigeria,1
+859,113,Government of Niger - FDR,1
+860,35,Government of Comoros - MPA/Republic of Anjouan,1
+861,36,Government of Congo - Ninjas,1
+862,189,Government of Congo - Cobras,1
+863,37,Government of Congo - Cocoyes,1
+864,38,Government of Congo - Ntsiloulous,1
+865,45,Government of Eritrea - Government of Ethiopia,1
+866,58,"Government of Guinea-Bissau - Military Junta for the Consolidation of Democracy, Peace and Justice",1
+867,92,Government of Lesotho - Military faction,1
+868,295,Government of Serbia (Yugoslavia) - UCK,1
+869,55,Government of Ethiopia - OLF,1
+870,368,Government of Russia (Soviet Union) - Wahhabi movement of the Buinaksk district,1
+871,363,Government of Uzbekistan - IMU,1
+872,444,Government of Uzbekistan - JIG,1
+873,17,Government of Central African Republic - Military faction (forces of Andr Kolingba),1
+874,287,Government of Central African Republic - Forces of Francois Bozize,1
+875,628,Government of Central African Republic - UFDR,1
+876,782,Government of Central African Republic - CPJP,1
+877,341,"Government of Macedonia, FYR - UCK",1
+878,360,Government of United States of America - al-Qaida,1
+879,89,Government of Ivory Coast - MPCI,1
+880,91,Government of Ivory Coast - MPIGO,1
+881,245,Government of Ivory Coast - MJP,1
+882,439,Government of Ivory Coast - FRCI,1
+883,332,"Government of Australia, Government of United Kingdom, Government of United States of America - Government of Iraq",1
+884,309,Government of India - ABSU,1
+885,313,Government of India - NDFB,1
+886,785,Government of India - NDFB - RD,1
+887,321,Government of Myanmar (Burma) - UWSA,1
+888,472,Government of Thailand - Patani insurgents,1
+889,446,Government of Nigeria - Ahlul Sunnah Jamaa,1
+890,473,Government of Nigeria - NDPVF,1
+891,643,Government of Israel - Hezbollah,1
+892,741,Government of Tanzania - Government of Uganda,1
+893,745,Government of Mauritania - POLISARIO,1
+894,651,Government of DR Congo (Zaire) - BDK,1
+895,761,Government of Niger - FLAA,1
+896,762,Government of Niger - UFRA,1
+897,749,Government of Niger - MNJ,1
+898,758,Government of Afghanistan - Government of Russia (Soviet Union),1
+899,773,Government of Russia (Soviet Union) - Forces of the Caucasus Emirate,1
+900,765,Government of India - DHD - BW,1
+901,772,Government of India - PULF,1
+902,776,Government of Djibouti - Government of Eritrea,1
+903,796,Government of Ethiopia - SALF,1
+904,791,Government of Ethiopia - SLM,1
+905,788,Government of India - KNF,1
+906,798,Government of Myanmar (Burma) - MNDAA,1
+907,797,Government of Myanmar (Burma) - LNUP,1
+908,809,Government of Tajikistan - IMU,1
+909,806,Government of Mauritania - AQIM,1
+910,2,Government of United States of America - Civilians,3
+911,41,Government of Haiti - Civilians,3
+912,90,Government of Guatemala - Civilians,3
+913,100,Government of Colombia - Civilians,3
+914,101,Government of Venezuela - Civilians,3
+915,140,Government of Brazil - Civilians,3
+916,344,Government of Croatia - Civilians,3
+917,345,Government of Serbia (Yugoslavia) - Civilians,3
+918,346,Government of Bosnia-Herzegovina - Civilians,3
+919,360,Government of Rumania - Civilians,3
+920,365,Government of Russia (Soviet Union) - Civilians,3
+921,432,Government of Mali - Civilians,3
+922,433,Government of Senegal - Civilians,3
+923,436,Government of Niger - Civilians,3
+924,437,Government of Ivory Coast - Civilians,3
+925,438,Government of Guinea - Civilians,3
+926,450,Government of Liberia - Civilians,3
+927,451,Government of Sierra Leone - Civilians,3
+928,461,Government of Togo - Civilians,3
+929,471,Government of Cameroon - Civilians,3
+930,475,Government of Nigeria - Civilians,3
+931,482,Government of Central African Republic - Civilians,3
+932,483,Government of Chad - Civilians,3
+933,484,Government of Congo - Civilians,3
+934,490,Government of DR Congo (Zaire) - Civilians,3
+935,500,Government of Uganda - Civilians,3
+936,501,Government of Kenya - Civilians,3
+937,510,Government of Tanzania - Civilians,3
+938,516,Government of Burundi - Civilians,3
+939,517,Government of Rwanda - Civilians,3
+940,520,Government of Somalia - Civilians,3
+941,530,Government of Ethiopia - Civilians,3
+942,540,Government of Angola - Civilians,3
+943,552,Government of Zimbabwe (Rhodesia) - Civilians,3
+944,560,Government of South Africa - Civilians,3
+945,580,Government of Madagascar - Civilians,3
+946,620,Government of Libya - Civilians,3
+947,625,Government of Sudan - Civilians,3
+948,645,Government of Iraq - Civilians,3
+949,651,Government of Egypt - Civilians,3
+950,666,Government of Israel - Civilians,3
+951,700,Government of Afghanistan - Civilians,3
+952,702,Government of Tajikistan - Civilians,3
+953,710,Government of China - Civilians,3
+954,750,Government of India - Civilians,3
+955,775,Government of Myanmar (Burma) - Civilians,3
+956,780,Government of Sri Lanka - Civilians,3
+957,790,Government of Nepal - Civilians,3
+958,800,Government of Thailand - Civilians,3
+959,812,Government of Laos - Civilians,3
+960,850,Government of Indonesia - Civilians,3
+961,910,Government of Papua New Guinea - Civilians,3
+962,1010,CPP - Civilians,3
+963,1021,KNU - Civilians,3
+964,1035,PWG - Civilians,3
+965,1036,MCC - Civilians,3
+966,1037,CPI-Maoist - Civilians,3
+967,1050,PIJ - Civilians,3
+968,1051,Hamas - Civilians,3
+969,1053,AMB - Civilians,3
+970,1065,NSCN-IM - Civilians,3
+972,1075,Ansar al-Islam - Civilians,3
+973,1076,IS - Civilians,3
+974,1100,CPN-M - Civilians,3
+975,1112,KR - Civilians,3
+976,1118,MILF - Civilians,3
+977,1119,ASG - Civilians,3
+978,1123,JVP - Civilians,3
+979,1127,JSS/SB - Civilians,3
+980,1129,BLA - Civilians,3
+981,1146,Taleban - Civilians,3
+982,1147,UIFSA - Civilians,3
+983,1149,ATTF - Civilians,3
+984,1150,NLFT - Civilians,3
+985,1153,Jondullah - Civilians,3
+986,1162,Sikh insurgents - Civilians,3
+987,1163,LTTE - Civilians,3
+988,1166,PKK - Civilians,3
+989,1168,Kashmir insurgents - Civilians,3
+990,1169,ULFA - Civilians,3
+991,1170,GAM - Civilians,3
+992,1181,Republic of Nagorno-Karabakh - Civilians,3
+993,1184,al-Gama'a al-Islamiyya - Civilians,3
+994,1185,Republic of Abkhazia - Civilians,3
+995,1193,Croatian Republic of Bosnia-Herzegovina - Civilians,3
+996,1195,Chechen Republic of Ichkeria - Civilians,3
+997,1199,TTP - Civilians,3
+998,1206,NDFB - Civilians,3
+999,1208,Patani insurgents - Civilians,3
+1000,1210,Forces of the Caucasus Emirate - Civilians,3
+1001,1211,DHD - BW - Civilians,3
+1002,1216,BLTF - Civilians,3
+1003,1225,Gazotan Murdash - Civilians,3
+1004,1226,GICM - Civilians,3
+1005,1228,Jamaat Jund al-Sahaba - Civilians,3
+1006,1229,Jemaah Islamiya - Civilians,3
+1007,1232,LeJ - Civilians,3
+1008,1236,Ranvir Sena - Civilians,3
+1009,1237,Salafia Jihadia - Civilians,3
+1010,1238,SIMI - Civilians,3
+1011,1239,Tawhid wal Jihad - Civilians,3
+1012,1240,UPDS - Civilians,3
+1013,1241,VHP - Civilians,3
+1014,1268,AFDL - Civilians,3
+1015,1270,RCD - Civilians,3
+1016,1271,RCD-ML  - Civilians,3
+1017,1272,CNDP - Civilians,3
+1018,1278,Palipehutu-FNL - Civilians,3
+1019,1280,CNDD-FDD  - Civilians,3
+1020,1297,FARF - Civilians,3
+1021,1312,SPLM/A - Civilians,3
+1022,1315,JEM - Civilians,3
+1023,1316,SLM/A - Civilians,3
+1024,1318,SLM/A - MM - Civilians,3
+1025,1334,UPA - Civilians,3
+1026,1336,LRA - Civilians,3
+1027,1337,ADF - Civilians,3
+1028,1346,ONLF - Civilians,3
+1029,1347,Renamo - Civilians,3
+1030,1352,USC/SSA - Civilians,3
+1031,1358,NPFL - Civilians,3
+1032,1359,INPFL - Civilians,3
+1033,1360,LURD - Civilians,3
+1034,1374,FIAA - Civilians,3
+1035,1379,FPR - Civilians,3
+1036,1380,FDLR - Civilians,3
+1037,1381,MFDC - Civilians,3
+1038,1384,RUF - Civilians,3
+1039,1390,GIA - Civilians,3
+1040,1391,AQIM - Civilians,3
+1041,1398,Cobras - Civilians,3
+1042,1401,Ntsiloulous - Civilians,3
+1043,1410,MPCI - Civilians,3
+1044,1411,MPIGO - Civilians,3
+1045,1421,UNITA - Civilians,3
+1046,1428,AFL - Civilians,3
+1047,1440,AWB - Civilians,3
+1048,1442,Bakassi boys - Civilians,3
+1049,1457,FAPC - Civilians,3
+1050,1460,FNI - Civilians,3
+1051,1474,Hutu rebels - Civilians,3
+1052,1478,"Interahamwe, ex-FAR - Civilians",3
+1053,1485,Janjaweed  - Civilians,3
+1054,1496,LPC - Civilians,3
+1055,1502,Mayi Mayi - Chinja Chinja - Civilians,3
+1056,1505,Mayi Mayi - Civilians,3
+1057,1507,MFDC - FN - Civilians,3
+1058,1518,Mayi Mayi - Ngilima  - Civilians,3
+1059,1524,PAC - Civilians,3
+1060,1531,Rastas - Civilians,3
+1061,1534,RCD - LN - Civilians,3
+1062,1538,RRA - Civilians,3
+1063,1539,RTC - Civilians,3
+1064,1546,SSDF - Civilians,3
+1065,1556,ULIMO - J - Civilians,3
+1066,1557,ULIMO - K - Civilians,3
+1067,1558,ULIMO - Civilians,3
+1068,1565,SLDF - Civilians,3
+1069,1575,Mungiki - Civilians,3
+1070,1576,MPGK  - Civilians,3
+1071,1578,Al-Shabaab - Civilians,3
+1072,1604,FARC - Civilians,3
+1073,1605,ELN - Civilians,3
+1074,1611,Sendero Luminoso - Civilians,3
+1075,1630,al-Qaida  - Civilians,3
+1076,1631,ACCU - Civilians,3
+1077,1632,AUC - Civilians,3
+1078,1635,Medelln Cartel - Civilians,3
+1079,1639,Mara Salvatrucha (Honduras) - Civilians,3
+1080,1640,Paz y Justicia - Civilians,3
+1081,1748,Ampatuan militia - Civilians,3
+1082,1749,DHD - Civilians,3
+1083,1750,KRA - Civilians,3
+1084,1751,HPC - Civilians,3
+1085,1752,AAH - Civilians,3
+1086,1763,PARECO - Civilians,3
+1087,1852,SPM/SNA  - Civilians,3
+1088,1926,RCD - CP  - Civilians,3
+1089,1928,Buxton gang - Civilians,3
+1090,1929,Fedayeen Islam - Civilians,3
+1091,1930,Indian Mujahideen - Civilians,3
+1092,1950,NDFB - RD - Civilians,3
+1093,1954,Lashkar-e-Taiba - Civilians,3
+1094,1960,UPC - Civilians,3
+1095,1961,FRPI - Civilians,3
+1096,1973,Los Zetas - Civilians,3
+1097,1989,Laskar Jihad - Civilians,3
+1098,1999,Mayi Mayi Complet - Civilians,3
+1099,1182,Serbian Republic of Bosnia-Herzegovina - Civilians,3
+1100,1511,RCD-N - Civilians,3
+1101,1650,RCD-K-ML  - Civilians,3
+1102,1927,MAGRIVI  - Civilians,3
+1103,20,Government of Canada - Civilians,3
+1104,40,Government of Cuba - Civilians,3
+1105,42,Government of Dominican Republic - Civilians,3
+1106,52,Government of Trinidad and Tobago - Civilians,3
+1107,55,Government of Grenada - Civilians,3
+1108,70,Government of Mexico - Civilians,3
+1109,91,Government of Honduras - Civilians,3
+1110,92,Government of El Salvador - Civilians,3
+1111,93,Government of Nicaragua - Civilians,3
+1112,94,Government of Costa Rica - Civilians,3
+1113,95,Government of Panama - Civilians,3
+1114,115,Government of Suriname - Civilians,3
+1115,130,Government of Ecuador - Civilians,3
+1116,135,Government of Peru - Civilians,3
+1117,145,Government of Bolivia - Civilians,3
+1118,150,Government of Paraguay - Civilians,3
+1119,155,Government of Chile - Civilians,3
+1120,160,Government of Argentina - Civilians,3
+1121,165,Government of Uruguay - Civilians,3
+1122,200,Government of United Kingdom - Civilians,3
+1123,205,Government of Ireland - Civilians,3
+1124,210,Government of Netherlands - Civilians,3
+1125,211,Government of Belgium - Civilians,3
+1126,212,Government of Luxembourg - Civilians,3
+1127,220,Government of France - Civilians,3
+1128,225,Government of Switzerland - Civilians,3
+1129,230,Government of Spain - Civilians,3
+1130,235,Government of Portugal - Civilians,3
+1131,260,Government of Germany - Civilians,3
+1132,290,Government of Poland - Civilians,3
+1133,305,Government of Austria - Civilians,3
+1134,310,Government of Hungary - Civilians,3
+1135,315,Government of Czechoslovakia - Civilians,3
+1136,316,Government of Czech Republic - Civilians,3
+1137,317,Government of Slovakia - Civilians,3
+1138,325,Government of Italy - Civilians,3
+1139,339,Government of Albania - Civilians,3
+1140,341,Government of Montenegro - Civilians,3
+1141,343,"Government of Macedonia, FYR - Civilians",3
+1142,349,Government of Slovenia - Civilians,3
+1143,350,Government of Greece - Civilians,3
+1144,352,Government of Cyprus - Civilians,3
+1145,355,Government of Bulgaria - Civilians,3
+1146,359,Government of Moldova - Civilians,3
+1147,366,Government of Estonia - Civilians,3
+1148,367,Government of Latvia - Civilians,3
+1149,368,Government of Lithuania - Civilians,3
+1150,369,Government of Ukraine - Civilians,3
+1151,371,Government of Armenia - Civilians,3
+1152,372,Government of Georgia - Civilians,3
+1153,373,Government of Azerbaijan - Civilians,3
+1154,375,Government of Finland - Civilians,3
+1155,380,Government of Sweden - Civilians,3
+1156,385,Government of Norway - Civilians,3
+1157,390,Government of Denmark - Civilians,3
+1158,395,Government of Iceland - Civilians,3
+1159,404,Government of Guinea-Bissau - Civilians,3
+1160,420,Government of Gambia - Civilians,3
+1161,435,Government of Mauritania - Civilians,3
+1162,439,Government of Burkina Faso - Civilians,3
+1163,452,Government of Ghana - Civilians,3
+1164,481,Government of Gabon - Civilians,3
+1165,522,Government of Djibouti - Civilians,3
+1166,531,Government of Eritrea - Civilians,3
+1167,541,Government of Mozambique - Civilians,3
+1168,565,Government of Namibia - Civilians,3
+1169,570,Government of Lesotho - Civilians,3
+1170,571,Government of Botswana - Civilians,3
+1171,581,Government of Comoros - Civilians,3
+1172,600,Government of Morocco - Civilians,3
+1173,615,Government of Algeria - Civilians,3
+1174,616,Government of Tunisia - Civilians,3
+1175,626,Government of South Sudan - Civilians,3
+1176,630,Government of Iran - Civilians,3
+1177,640,Government of Turkey - Civilians,3
+1178,652,Government of Syria - Civilians,3
+1179,660,Government of Lebanon - Civilians,3
+1180,663,Government of Jordan - Civilians,3
+1181,670,Government of Saudi Arabia - Civilians,3
+1182,678,Government of Yemen (North Yemen) - Civilians,3
+1183,680,Government of South Yemen - Civilians,3
+1184,690,Government of Kuwait - Civilians,3
+1185,692,Government of Bahrain - Civilians,3
+1186,694,Government of Qatar - Civilians,3
+1187,696,Government of United Arab Emirates - Civilians,3
+1188,698,Government of Oman - Civilians,3
+1189,703,Government of Kyrgyzstan - Civilians,3
+1190,704,Government of Uzbekistan - Civilians,3
+1191,705,Government of Kazakhstan - Civilians,3
+1192,712,Government of Mongolia - Civilians,3
+1193,713,Government of Taiwan - Civilians,3
+1194,731,Government of North Korea - Civilians,3
+1195,732,Government of South Korea - Civilians,3
+1196,740,Government of Japan - Civilians,3
+1197,770,Government of Pakistan - Civilians,3
+1198,771,Government of Bangladesh - Civilians,3
+1199,811,Government of Cambodia (Kampuchea) - Civilians,3
+1200,816,Government of Vietnam (North Vietnam) - Civilians,3
+1201,817,Government of South Vietnam - Civilians,3
+1202,820,Government of Malaysia - Civilians,3
+1203,830,Government of Singapore - Civilians,3
+1204,840,Government of Philippines - Civilians,3
+1205,900,Government of Australia - Civilians,3
+1206,920,Government of New Zealand - Civilians,3
+1207,972,Government of Tonga - Civilians,3
+1208,1001,Khmer Issarak - Civilians,3
+1209,1002,PLA - Civilians,3
+1210,1003,DSE - Civilians,3
+1211,1004,Indonesian People's Army - Civilians,3
+1212,1005,KDPI - Civilians,3
+1213,1006,Republic of Azerbaijan - Civilians,3
+1214,1007,IZL [Etzel] - Civilians,3
+1215,1008,Lao Issara - Civilians,3
+1216,1009,Huk - Civilians,3
+1217,1011,"Military faction (forces of Honasan, Abenina & Zumel) - Civilians",3
+1218,1012,Forest Brothers - Civilians,3
+1219,1013,LNPA - Civilians,3
+1220,1014,LTS(p)A - Civilians,3
+1221,1015,BDPS - Civilians,3
+1222,1016,UPA - Civilians,3
+1223,1017,Viet minh - Civilians,3
+1224,1018,Taiwanese insurgents - Civilians,3
+1225,1019,CPI - Civilians,3
+1226,1020,MDRM - Civilians,3
+1227,1022,God's Army - Civilians,3
+1228,1023,CPB - Civilians,3
+1229,1024,CPB-RF - Civilians,3
+1230,1025,"PVO - ""White Band"" faction - Civilians",3
+1231,1026,ABSDF - Civilians,3
+1232,1028,ARIF - Civilians,3
+1233,1029,RSO - Civilians,3
+1234,1030,MFL-MUF - Civilians,3
+1235,1031,MPF - Civilians,3
+1236,1032,NMSP - Civilians,3
+1237,1033,BMA - Civilians,3
+1238,1034,CPI-ML - Civilians,3
+1239,1038,CPM - Civilians,3
+1240,1039,Opposition coalition - Civilians,3
+1241,1040,Royalists - Civilians,3
+1242,1041,NDF - Civilians,3
+1243,1042,PNDF - Civilians,3
+1244,1043,KIO - Civilians,3
+1245,1044,Palestinian insurgents - Civilians,3
+1246,1045,Non PLO groups - Civilians,3
+1247,1046,PLO - Civilians,3
+1248,1047,PFLP - Civilians,3
+1249,1048,PFLP-GC - Civilians,3
+1250,1049,Fatah - Civilians,3
+1251,1052,PNA - Civilians,3
+1252,1054,PRC - Civilians,3
+1253,1055,Tibet - Civilians,3
+1254,1056,Republic of South Moluccas - Civilians,3
+1255,1057,Military faction (navy) - Civilians,3
+1256,1058,CPT - Civilians,3
+1257,1059,Darul Islam - Civilians,3
+1258,1060,Permesta Movement - Civilians,3
+1259,1061,PRRI - Civilians,3
+1260,1062,EOKA - Civilians,3
+1261,1063,FNL - Civilians,3
+1262,1064,NNC - Civilians,3
+1263,1066,NSCN-K - Civilians,3
+1264,1067,KNPP - Civilians,3
+1265,1068,State of Oman/Free Oman - Civilians,3
+1266,1069,Military faction (free Officers Movement) - Civilians,3
+1267,1070,Military faction (forces of Abdul Wahab al-Shawaf) - Civilians,3
+1268,1071,Military faction (forces of Abd as-Salam Arif) - Civilians,3
+1269,1072,NCRC - Civilians,3
+1270,1073,SCIRI - Civilians,3
+1271,1077,RJF - Civilians,3
+1272,1078,Independent Nasserite Movement - Civilians,3
+1273,1079,NSF - Civilians,3
+1274,1080,LAA - Civilians,3
+1275,1081,Amal - Civilians,3
+1276,1082,NUF - Civilians,3
+1277,1083,Lebanese Forces - Hobeika faction - Civilians,3
+1278,1084,Forces of Michel Aoun - Civilians,3
+1279,1085,Lebanese Forces - Civilians,3
+1280,1086,Pathet Lao - Civilians,3
+1281,1087,Neutralists - Civilians,3
+1282,1088,LRM - Civilians,3
+1283,1089,NSH - Civilians,3
+1284,1090,SSIA - Civilians,3
+1285,1091,SNUF - Civilians,3
+1286,1092,SSA - Civilians,3
+1287,1093,SSNLO - Civilians,3
+1288,1094,SURA - Civilians,3
+1289,1095,SSRA - Civilians,3
+1290,1096,TRC - Civilians,3
+1291,1097,MTA - Civilians,3
+1292,1098,RCSS - Civilians,3
+1293,1099,NC - Civilians,3
+1294,1101,OAS - Civilians,3
+1295,1102,KDP - Civilians,3
+1296,1103,PUK - Civilians,3
+1297,1104,KDP-QM - Civilians,3
+1298,1105,North Kalimantan Liberation Army - Civilians,3
+1299,1106,CCO - Civilians,3
+1300,1107,FLOSY - Civilians,3
+1301,1108,OPM - Civilians,3
+1302,1109,MNF - Civilians,3
+1303,1110,Military faction (forces loyal to Nureddin Atassi and Youssef Zeayen) - Civilians,3
+1304,1111,Muslim Brotherhood - Civilians,3
+1305,1113,KNUFNS - Civilians,3
+1306,1114,KPNLF - Civilians,3
+1307,1115,FUNCINPEC - Civilians,3
+1308,1116,MIM - Civilians,3
+1309,1117,MNLF - Civilians,3
+1310,1120,MNLF - NM - Civilians,3
+1311,1121,MNLF - HM - Civilians,3
+1312,1122,Mukti Bahini - Civilians,3
+1313,1124,PIRA - Civilians,3
+1314,1125,RIRA - Civilians,3
+1315,1126,PFLO - Civilians,3
+1316,1128,BLF Should be changed - Civilians,3
+1317,1130,Baloch Ittehad - Civilians,3
+1318,1131,BRA - Civilians,3
+1319,1132,Fretilin - Civilians,3
+1320,1133,PDPA - Civilians,3
+1321,1134,Jam'iyyat-i Islami-yi Afghanistan - Civilians,3
+1322,1135,Harakat-i Inqilab-i Islami-yi Afghanistan  - Civilians,3
+1323,1136,Hizb-i Islami-yi Afghanistan - Khalis faction - Civilians,3
+1324,1137,Jabha-yi Nijat-i Milli-yi Afghanistan  - Civilians,3
+1325,1138,Mahaz-i Milli-yi Islami-yi Afghanistan  - Civilians,3
+1326,1139,Ittihad-i Islami Bara-yi Azadi-yi Afghanistan  - Civilians,3
+1327,1140,Harakat-i Islami-yi Afghanistan - Civilians,3
+1328,1141,Hizb-i Islami-yi Afghanistan - Civilians,3
+1329,1142,Hizb-i Wahdat - Civilians,3
+1330,1143,Military faction (forces of Shahnawaz Tanay) - Civilians,3
+1331,1144,Junbish-i Milli-yi Islami - Civilians,3
+1332,1148,TNV - Civilians,3
+1333,1151,MEK - Civilians,3
+1334,1152,PJAK - Civilians,3
+1335,1154,APCO - Civilians,3
+1336,1155,JSM - Civilians,3
+1337,1156,ETA - Civilians,3
+1338,1157,PLA - Civilians,3
+1339,1158,UNLF - Civilians,3
+1340,1159,KNF - Civilians,3
+1341,1160,KCP - Civilians,3
+1342,1161,PREPAK - Civilians,3
+1343,1164,TELO - Civilians,3
+1344,1165,EPRLF - Civilians,3
+1345,1167,Yemenite Socialist Party - Abdul Fattah Ismail faction - Civilians,3
+1346,1171,BRA - Civilians,3
+1347,1172,NSF - Civilians,3
+1348,1173,Republic of Armenia - Civilians,3
+1349,1174,APF - Civilians,3
+1350,1175,National Guard and Mkhedrioni - Civilians,3
+1351,1176,Zviadists - Civilians,3
+1352,1177,Devrimci Sol - Civilians,3
+1353,1178,MKP - Civilians,3
+1354,1179,Republic of Slovenia - Civilians,3
+1355,1180,Republic of Croatia - Civilians,3
+1356,1183,Serbian Republic of Krajina - Civilians,3
+1357,1186,Republic of South Ossetia - Civilians,3
+1358,1187,PMR - Civilians,3
+1359,1188,UTO - Civilians,3
+1360,1189,Forces of Khudoberdiyev - Civilians,3
+1361,1190,Military faction (forces of Suret Husseinov) - Civilians,3
+1362,1191,OPON Forces - Civilians,3
+1363,1192,Autonomous Province of Western Bosnia - Civilians,3
+1364,1194,Parliamentary Forces - Civilians,3
+1365,1196,Democratic Republic of Yemen - Civilians,3
+1366,1197,MQM - Civilians,3
+1367,1198,TNSM - Civilians,3
+1368,1200,UCK - Civilians,3
+1369,1201,Wahhabi movement of the Buinaksk district - Civilians,3
+1370,1202,IMU - Civilians,3
+1371,1203,JIG - Civilians,3
+1372,1204,UCK - Civilians,3
+1373,1205,ABSU - Civilians,3
+1374,1207,UWSA - Civilians,3
+1375,1209,Hezbollah - Civilians,3
+1376,1212,PULF - Civilians,3
+1377,1213,Croatian irregulars - Civilians,3
+1378,1214,Serbian irregulars - Civilians,3
+1379,1215,Supporters of Awami League - Civilians,3
+1380,1217,Supporters of BNP - Civilians,3
+1381,1218,Forces of Abdul Rahman Khan  - Civilians,3
+1382,1219,Forces of Amanullah - Civilians,3
+1383,1220,Forces of Amanullah Khan  - Civilians,3
+1384,1221,Forces of Arbab Basir - Civilians,3
+1385,1222,Forces of Ismail Khan  - Civilians,3
+1386,1223,Forces of Rashid Abdul Dostum - Civilians,3
+1387,1224,Forces of Mohammad Atta Noor - Civilians,3
+1388,1230,Karbi - Civilians,3
+1389,1231,Kuki - Civilians,3
+1390,1233,LTTE - K - Civilians,3
+1391,1234,Lumad - Civilians,3
+1392,1235,Moro - Civilians,3
+1393,1243,Ansaar ul-Islam - Civilians,3
+1394,1244,Lashkar-e-Islam - Civilians,3
+1395,1245,Mau Mau - Civilians,3
+1396,1246,Istiqlal - Civilians,3
+1397,1247,National Liberation Army - Civilians,3
+1398,1248,FLN  - Civilians,3
+1399,1249,MNA - Civilians,3
+1400,1250,MPLA - Civilians,3
+1401,1251,State of Katanga - Civilians,3
+1402,1252,Independent Mining State of South Kasai - Civilians,3
+1403,1253,Military faction (forces of Mengistu Neway) - Civilians,3
+1404,1254,EPRP - Civilians,3
+1405,1255,TPLF - Civilians,3
+1406,1256,EDU - Civilians,3
+1407,1257,EPDM - Civilians,3
+1408,1258,Military faction (forces of Amsha Desta and Merid Negusie) - Civilians,3
+1409,1259,EPRDF - Civilians,3
+1410,1260,ELF - Civilians,3
+1411,1261,EPLF - Civilians,3
+1412,1263,PAIGC - Civilians,3
+1413,1264,SSLM - Civilians,3
+1414,1265,CNL - Civilians,3
+1415,1266,Military Faction (Forces of Jean Schramme) - Civilians,3
+1416,1267,FLNC - Civilians,3
+1417,1269,MLC - Civilians,3
+1418,1273,Military faction (forces loyal to Lon M'Ba) - Civilians,3
+1419,1274,Frelimo - Civilians,3
+1420,1275,Military faction (forces loyal to Gervais Nyangoma) - Civilians,3
+1421,1276,Palipehutu - Civilians,3
+1422,1277,CNDD - Civilians,3
+1423,1279,Frolina - Civilians,3
+1424,1281,Frolinat - Civilians,3
+1425,1282,First Liberation Army - Civilians,3
+1426,1283,Second Liberation Army - Civilians,3
+1427,1284,FAN - Civilians,3
+1428,1285,FAP - Civilians,3
+1429,1286,FAT - Civilians,3
+1430,1287,GUNT - Civilians,3
+1431,1288,Islamic Legion - Civilians,3
+1432,1289,Revolutionary Forces of 1 April  - Civilians,3
+1433,1290,MOSANAT - Civilians,3
+1434,1291,MPS - Civilians,3
+1435,1292,MDD - Civilians,3
+1436,1293,CNR - Civilians,3
+1437,1294,CSNPD - Civilians,3
+1438,1295,Military faction (forces of Maldoum Bada Abbas) - Civilians,3
+1439,1296,FNT - Civilians,3
+1440,1298,MDJT - Civilians,3
+1441,1299,FUCD - Civilians,3
+1442,1300,RAFD - Civilians,3
+1443,1301,CDR - Civilians,3
+1444,1302,UFDD - Civilians,3
+1445,1303,NLC - Civilians,3
+1446,1304,Military faction (forces of Jerry John Rawlings) - Civilians,3
+1447,1305,Military faction (forces of Ekow Dennis and Edward Adjei-Ampofo)  - Civilians,3
+1448,1306,Military faction (forces of Patrick Nzeogwu) - Civilians,3
+1449,1307,SWAPO - Civilians,3
+1450,1308,Republic of Biafra - Civilians,3
+1451,1309,RFDG - Civilians,3
+1452,1310,Sudanese Communist Party - Civilians,3
+1453,1311,Islamic Charter Front - Civilians,3
+1454,1314,NDA - Civilians,3
+1455,1317,NRF - Civilians,3
+1456,1319,SLM/A-Unity - Civilians,3
+1457,1320,Monima  - Civilians,3
+1458,1321,Military faction (forces of Mohamed Madbouh) - Civilians,3
+1459,1322,Military faction (forces of Idi Amin) - Civilians,3
+1460,1323,Kikosi Maalum - Civilians,3
+1461,1324,Military faction (forces of Charles Arube) - Civilians,3
+1462,1326,Fronasa - Civilians,3
+1463,1327,UNLF - Civilians,3
+1464,1328,FUNA - Civilians,3
+1465,1329,NRA - Civilians,3
+1466,1330,UNRF - Civilians,3
+1467,1331,HSM - Civilians,3
+1468,1332,UPDA - Civilians,3
+1469,1333,UFM - Civilians,3
+1470,1335,Lord's Army - Civilians,3
+1471,1338,WNBF - Civilians,3
+1472,1339,UNRF II - Civilians,3
+1473,1340,ZAPU - Civilians,3
+1474,1341,ZANU - Civilians,3
+1475,1342,PF - Civilians,3
+1476,1343,EIJM - AS - Civilians,3
+1477,1345,WSLF - Civilians,3
+1478,1349,SSDF - Civilians,3
+1479,1350,SNM - Civilians,3
+1480,1351,SPM - Civilians,3
+1481,1353,USC/SNA - Civilians,3
+1482,1354,SRRC - Civilians,3
+1483,1355,ARS/UIC - Civilians,3
+1484,1357,Military faction (forces of Samuel Doe) - Civilians,3
+1485,1361,MODEL - Civilians,3
+1486,1362,Rsistance Arme Tunisienne - Civilians,3
+1487,1363,NRC - Civilians,3
+1488,1364,ANC - Civilians,3
+1489,1365,Military faction (forces of Hezekiah Ochuka) - Civilians,3
+1490,1366,Military faction (forces of Ibrahim Saleh) - Civilians,3
+1491,1367,MTD - Civilians,3
+1492,1369,Popular Front - Civilians,3
+1493,1370,Presidential guard - Civilians,3
+1494,1371,ALF - Civilians,3
+1495,1372,ARDUF - Civilians,3
+1496,1373,MPA - Civilians,3
+1497,1375,ATNMC - Civilians,3
+1498,1376,FLAA - Civilians,3
+1499,1377,CRA - Civilians,3
+1500,1378,UFRA - Civilians,3
+1501,1382,FRUD - Civilians,3
+1502,1383,FRUD - AD - Civilians,3
+1503,1385,AFRC - Civilians,3
+1504,1386,Kamajors - Civilians,3
+1505,1387,WSB - Civilians,3
+1506,1388,Takfir wa'l Hijra - Civilians,3
+1507,1389,AIS - Civilians,3
+1508,1392,FLEC-R - Civilians,3
+1509,1393,FLEC-FAC - Civilians,3
+1510,1394,AIAI - Civilians,3
+1511,1395,FDR - Civilians,3
+1512,1397,MPA/Republic of Anjouan - Civilians,3
+1513,1399,Ninjas - Civilians,3
+1514,1400,Cocoyes - Civilians,3
+1515,1402,"Military Junta for the Consolidation of Democracy, Peace and Justice - Civilians",3
+1516,1403,Military faction - Civilians,3
+1517,1404,OLF - Civilians,3
+1518,1406,Military faction (forces of Andr Kolingba) - Civilians,3
+1519,1407,Forces of Francois Bozize - Civilians,3
+1520,1408,UFDR - Civilians,3
+1521,1409,MJP - Civilians,3
+1522,1412,FRCI - Civilians,3
+1523,1413,Ahlul Sunnah Jamaa - Civilians,3
+1524,1414,NDPVF - Civilians,3
+1525,1415,BDK - Civilians,3
+1526,1416,MNJ - Civilians,3
+1527,1417,POLISARIO - Civilians,3
+1528,1418,UPC - Civilians,3
+1529,1419,NLA - Civilians,3
+1530,1420,FNLA - Civilians,3
+1531,1422,Forces of Abdullahi Yusuf - Civilians,3
+1532,1423,Abtisame subclan of Galje'el clan (Hawiye) - Civilians,3
+1533,1424,Abudu  - Civilians,3
+1534,1425,Supporters of AD - Civilians,3
+1535,1426,Afar - Civilians,3
+1536,1427,Afi subclan of Galje'el clan (Hawiye) - Civilians,3
+1537,1429,Agon-Yar subclan of Abgal clan (Hawiye) - Civilians,3
+1538,1430,Ali-Gaf subclan of Abgal clan (Hawiye)  - Civilians,3
+1539,1431,Alur - Civilians,3
+1540,1432,Amaro - Civilians,3
+1541,1433,Anaguta - Civilians,3
+1542,1434,Supporters of ANPP - Civilians,3
+1543,1435,Anuak - Civilians,3
+1544,1436,Agar Dinka - Civilians,3
+1545,1437,Gok Dinka - Civilians,3
+1546,1438,ARPCT - Civilians,3
+1547,1439,Arrow Boys - Civilians,3
+1548,1441,Bachama - Civilians,3
+1549,1443,Birom - Civilians,3
+1550,1444,Bokora Karimojong - Civilians,3
+1551,1445,Borana - Civilians,3
+1552,1446,Burji - Civilians,3
+1553,1447,Dabare subclan of Digil clan (Digil-Mirifle) - Civilians,3
+1554,1448,Darsalim - Civilians,3
+1555,1449,Da'ud subclan of Abgal clan (Hawiye) - Civilians,3
+1556,1450,Dawa - Civilians,3
+1557,1451,Dimasa  - Civilians,3
+1558,1452,Dinka  - Civilians,3
+1559,1453,Dioula - Civilians,3
+1560,1454,Dir clan  - Civilians,3
+1561,1455,Dizi   - Civilians,3
+1562,1456,Duduble subclan of Gorgorte clan (Hawiye) - Civilians,3
+1563,1458,Fiqi Muhumud subclan (Dir) - Civilians,3
+1564,1459,FN - IC - Civilians,3
+1565,1461,Fulani - Civilians,3
+1566,1462,Hausa - Civilians,3
+1567,1463,Gabra - Civilians,3
+1568,1464,Galje'el clan (Hawiye) - Civilians,3
+1569,1465,Gamai - Civilians,3
+1570,1466,Garre subclan of Digil clan (Digil-Mirifle) - Civilians,3
+1571,1467,Guji - Civilians,3
+1572,1468,Gura - Civilians,3
+1573,1469,Habaniya  - Civilians,3
+1574,1470,Hema - Civilians,3
+1575,1472,Hotiya Baggara  - Civilians,3
+1576,1473,Huber subclan of Mirifle clan (Digil-Mirifle) - Civilians,3
+1577,1475,Supporters of IFP - Civilians,3
+1578,1476,Igbo - Civilians,3
+1579,1477,Ijaw - Civilians,3
+1580,1479,Issa - Civilians,3
+1581,1480,Itsekiri - Civilians,3
+1582,1481,Izzi  - Civilians,3
+1583,1482,Forces of Jama Ali Jama - Civilians,3
+1584,1483,Janjaweed - Moro faction - Civilians,3
+1585,1484,Janjaweed - Bin Kulaib faction - Civilians,3
+1586,1487,Jejele subclan of Jibedi clan (Hawiye) - Civilians,3
+1587,1488,Jiddo subclan of Digil clan (Digil-Mirifle) - Civilians,3
+1588,1489,Jie - Civilians,3
+1589,1490,JVA - Civilians,3
+1590,1491,Kereyou   - Civilians,3
+1591,1492,Tama - Civilians,3
+1592,1493,Kibete - Civilians,3
+1593,1495,Lendu - Civilians,3
+1594,1497,Luway subclan of Mirifle clan (Digil-Mirifle) - Civilians,3
+1595,1498,Ma'aliyah - Civilians,3
+1596,1499,Mahadade subclan of Abgal clan (Hawiye)  - Civilians,3
+1597,1500,Mambila - Civilians,3
+1598,1501,Marehan subclan of Sede clan (Darod) - Civilians,3
+1599,1503,Bena Nsimba - Civilians,3
+1600,1504,Bena Kapuya - Civilians,3
+1601,1508,MFDC Front Nord - MD - Civilians,3
+1602,1509,MFDC - S - Civilians,3
+1603,1510,MILOCI  - Civilians,3
+1604,1513,Mohamed Muse subclan of Abgal clan (Hawiye) - Civilians,3
+1605,1514,Murle - Civilians,3
+1606,1515,Murule subclan of Gugundabe clan (Hawiye) - Civilians,3
+1607,1516,NDV - Civilians,3
+1608,1517,Newiba - Civilians,3
+1609,1519,Nuer - Civilians,3
+1610,1520,Mahariba - Civilians,3
+1611,1521,Mahamid - Civilians,3
+1612,1522,Ogaden clan (Darod) - Civilians,3
+1613,1523,Oromo - Civilians,3
+1614,1525,Pan - Civilians,3
+1615,1526,PDF - Civilians,3
+1616,1527,Supporters of PDP - Civilians,3
+1617,1528,Pian Karimojong - Civilians,3
+1618,1529,Pokot - Civilians,3
+1619,1530,Puntland state of Somalia - Civilians,3
+1620,1532,FRF - Civilians,3
+1621,1535,Republic of Somaliland - Civilians,3
+1622,1536,Rizeigat Abbala - Civilians,3
+1623,1537,RRA - MH - Civilians,3
+1624,1540,Sa'ad subclan of Habar Gidir clan (Hawiye) - Civilians,3
+1625,1541,Sabiny - Civilians,3
+1626,1542,Sheikhal clan (Dir) - Civilians,3
+1627,1543,Rer Ahmad subclan (Hawiye) - Civilians,3
+1628,1544,Hawarsame Rer Hasan and Habar Ya'qub subclan of Marehan clan (Darod) - Civilians,3
+1629,1545,Somali (Ethiopia) - Civilians,3
+1630,1548,Suleiman subclan of Habar Gidir clan (Hawiye) - Civilians,3
+1631,1549,Suri - Civilians,3
+1632,1550,Tarok - Civilians,3
+1633,1551,Terjam - Civilians,3
+1634,1552,Falata - Civilians,3
+1635,1553,Toposa - Civilians,3
+1636,1554,Turkana - Civilians,3
+1637,1555,Ukele - Civilians,3
+1638,1559,USC/SSA - OMF - Civilians,3
+1639,1560,Warsangeli subclan of Abgal clan (Hawiye) - Civilians,3
+1640,1561,Yantar subclan of Mirifle clan (Digil-Mirifle) - Civilians,3
+1641,1562,Yoruba - Civilians,3
+1642,1563,Yugur - Civilians,3
+1643,1564,Rizeigat Baggara - Civilians,3
+1644,1566,Zaghawa - Civilians,3
+1645,1567,Lou Nuer - Civilians,3
+1646,1568,Didinga - Civilians,3
+1647,1569,Bor Dinka - Civilians,3
+1648,1570,Bi'idyahan subclan of Majerteen clan (Darod) - Civilians,3
+1649,1571,Ismail subclan of Makahil clan (Darod) - Civilians,3
+1650,1572,Majerteen subclan (Darod) - Civilians,3
+1651,1573,Nyangatom  - Civilians,3
+1652,1574,Dassanetch - Civilians,3
+1653,1577,AN  - Civilians,3
+1654,1579,Harakat Ras Kamboni - Civilians,3
+1655,1580,Popular Revolutionary Movement - Civilians,3
+1656,1581,MNR - Civilians,3
+1657,1582,ELN - Civilians,3
+1658,1583,"Opposition coalition (Febreristas, Liberals and Communists) - Civilians",3
+1659,1584,Military faction (forces of Alfredo Stroessner) - Civilians,3
+1660,1585,Military faction (forces of Andres Rodriguez) - Civilians,3
+1661,1586,National Liberation Army - Civilians,3
+1662,1587,Military faction - Civilians,3
+1663,1588,Forces of Carlos Castillo Armas - Civilians,3
+1664,1589,FAR I - Civilians,3
+1665,1590,FAR II - Civilians,3
+1666,1591,EGP - Civilians,3
+1667,1592,ORPA - Civilians,3
+1668,1593,URNG - Civilians,3
+1669,1594,Puerto Rican Nationalist Party - Civilians,3
+1670,1595,M-26-7 - Civilians,3
+1671,1596,Cuban Revolutionary Council - Civilians,3
+1672,1597,Military faction (forces of Eduardo A. Lonardi Doucet) - Civilians,3
+1673,1598,Military faction (colorados) - Civilians,3
+1674,1599,ERP - Civilians,3
+1675,1600,Montoneros - Civilians,3
+1676,1601,Military faction (navy) - Civilians,3
+1677,1602,Bandera Roja - Civilians,3
+1678,1603,Military faction (forces of Hugo Chvez)  - Civilians,3
+1679,1606,M-19 - Civilians,3
+1680,1607,EPL - Civilians,3
+1681,1608,Military faction (constitutionalists) - Civilians,3
+1682,1609,ELN - Civilians,3
+1683,1610,MIR - Civilians,3
+1684,1612,MRTA - Civilians,3
+1685,1613,Military faction (forces of Benjamin Mejia) - Civilians,3
+1686,1614,ERP - Civilians,3
+1687,1615,FPL - Civilians,3
+1688,1616,FMLN - Civilians,3
+1689,1617,MLN/Tupamaros - Civilians,3
+1690,1618,"Military faction (forces of Augusto Pinochet, Toribio Merino and Leigh Guzman)  - Civilians",3
+1691,1619,FSLN - Civilians,3
+1692,1620,Contras/FDN - Civilians,3
+1693,1621,SLA - Civilians,3
+1694,1622,Military faction (forces of Moiss Giroldi)  - Civilians,3
+1695,1623,Jamaat al-Muslimeen - Civilians,3
+1696,1624,Military faction (forces of Himmler Rebu and Guy Francois)  - Civilians,3
+1697,1625,Military faction (forces of Raol Cdras)  - Civilians,3
+1698,1626,FLRN - Civilians,3
+1699,1627,OP Lavalas (Chimres)  - Civilians,3
+1700,1628,EZLN - Civilians,3
+1701,1629,EPR - Civilians,3
+1702,1633,Comando Vermelho - Civilians,3
+1703,1634,Huaorani - Civilians,3
+1704,1636,Sinaloa Cartel - Civilians,3
+1705,1637,Mara 18 (Guatemala) - Civilians,3
+1706,1638,Mara Salvatrucha (Guatemala) - Civilians,3
+1707,1641,Tagaeri  - Civilians,3
+1708,1642,Terceiro Comando - Civilians,3
+1709,1643,Gulf Cartel - Civilians,3
+1710,1644,1920 Revolution Brigades - Civilians,3
+1711,1645,MJF - Civilians,3
+1712,1646,DKBA - Civilians,3
+1713,1647,Palipehutu-FNL - LP - Civilians,3
+1714,1648,Lashkhar of Wazir tribe - Civilians,3
+1715,1649,JVA faction - Civilians,3
+1716,1651,Bangesh - Civilians,3
+1717,1652,Turi - Civilians,3
+1718,1653,Forces of Shah Sahib - Civilians,3
+1719,1654,Juarez Cartel - Civilians,3
+1720,1655,Kachai sub-tribe of Bangesh - Civilians,3
+1721,1656,Mishti - Civilians,3
+1722,1657,Lashkar of Salarzai tribe - Civilians,3
+1723,1658,Mangal - Civilians,3
+1724,1659,NSCN-U - Civilians,3
+1725,1660,Tijuana Cartel - Civilians,3
+1726,1661,Tijuana Cartel - El Teo faction - Civilians,3
+1727,1662,Hizb-i Wahdat - Akbari faction - Civilians,3
+1728,1663,Jamiat-ul-Dawa - Civilians,3
+1729,1664,Shura-yi Nazar-i Shomali - Civilians,3
+1730,1665,BCP - Civilians,3
+1731,1666,PBCP - Civilians,3
+1732,1667,Qaqachaca - Civilians,3
+1733,1668,Laime - Civilians,3
+1734,1669,Hells Angels - Civilians,3
+1735,1670,Rock Machine - Civilians,3
+1736,1671,Cali Cartel - Civilians,3
+1737,1672,PEPES - Civilians,3
+1738,1673,Forest Brothers - Civilians,3
+1739,1674,White Legion - Civilians,3
+1740,1675,Bodo - Civilians,3
+1741,1676,Santhal - Civilians,3
+1742,1677,HuM - Civilians,3
+1743,1678,JKLF - Civilians,3
+1744,1679,Naga - Civilians,3
+1745,1680,Dayak - Civilians,3
+1746,1681,Madurese - Civilians,3
+1747,1682,Dereiat - Civilians,3
+1748,1683,al-Shaman - Civilians,3
+1749,1684,IMK - Civilians,3
+1750,1685,Supporters of JLP - Civilians,3
+1751,1686,Supporters of PNP - Civilians,3
+1752,1687,Fatah Revolutionary Council - Civilians,3
+1753,1688,SLA - Civilians,3
+1754,1689,Garcia clan - Civilians,3
+1755,1690,Pena Rojas clan - Civilians,3
+1756,1691,MDA - Civilians,3
+1757,1692,MDA - LM - Civilians,3
+1758,1693,MQM-H - Civilians,3
+1759,1696,Wagia subclan of Takima - Civilians,3
+1760,1697,Wayai subclan of Takima - Civilians,3
+1761,1698,Wogia-Tunjup - Civilians,3
+1762,1699,Unjamap - Civilians,3
+1763,1700,Hadji Faizal Abdulkarim clan - Civilians,3
+1764,1701,Hadji Masir Ahalul clan - Civilians,3
+1765,1702,Azeri - Civilians,3
+1766,1703,Armenian - Civilians,3
+1767,1704,Forces of Ruslan Labazanov - Civilians,3
+1768,1705,Provisional Council of the Chechen Republic - Civilians,3
+1769,1706,Republic of Georgia - Civilians,3
+1770,1708,PLOTE - Civilians,3
+1771,1710,Republic of Bosnia-Herzegovina - Civilians,3
+1772,1711,"SAO Eastern Slavonia, Baranja and Western Symria - Civilians",3
+1773,1712,SAO Krajina - Civilians,3
+1774,1713,Forces of Jing Caludtiag - Civilians,3
+1775,1714,Forces of Randy Karon - Civilians,3
+1776,1715,Supporters of Jean-Bertrand Aristide - Civilians,3
+1777,1716,Supporters of Roger Lafontant - Civilians,3
+1778,1717,Meskhetian Turk - Civilians,3
+1779,1718,Uzbek - Civilians,3
+1780,1719,Kyrgyz - Civilians,3
+1782,1721,Taleban - Ali Dad faction - Civilians,3
+1783,1722,Taleban - Mola Khel faction - Civilians,3
+1784,1723,Hindus (India) - Civilians,3
+1785,1724,Muslims (India) - Civilians,3
+1786,1725,Christians (Indonesia) - Civilians,3
+1787,1726,Muslims (Indonesia) - Civilians,3
+1788,1727,Erapo - Civilians,3
+1789,1728,Kurupi - Civilians,3
+1790,1729,Ataia - Civilians,3
+1791,1730,Kagu - Civilians,3
+1792,1731,Moife - Civilians,3
+1793,1732,Kemeyu - Civilians,3
+1794,1733,Fomu I - Civilians,3
+1795,1734,Fomu II - Civilians,3
+1796,1735,Avaninofi - Civilians,3
+1797,1736,Aganunofi - Civilians,3
+1798,1737,Christians (Philippines) - Civilians,3
+1799,1738,Muslims (Philippines) - Civilians,3
+1800,1739,Supporters of UNP - Civilians,3
+1801,1740,Supporters of PA - Civilians,3
+1802,1741,Santo Domingo Teojomulco - Civilians,3
+1803,1742,Santiago Xochiltepec - Civilians,3
+1804,1743,Paite - Civilians,3
+1805,1744,PSP - Civilians,3
+1806,1746,MNDAA - Civilians,3
+1807,1747,AQAP - Civilians,3
+1808,1753,Lashkar of Orakzai tribe - Civilians,3
+1809,1754,Forces of Turkestan Bhittani - Civilians,3
+1810,1756,LNUP - Civilians,3
+1811,1757,KNUP - Civilians,3
+1812,1758,Xawaadle clan (Hawiye) - Civilians,3
+1813,1759,Andani - Civilians,3
+1814,1760,Supporters of ACN - Civilians,3
+1815,1761,Ahlu Sunna Waljamaca - Civilians,3
+1816,1762,Bangadi Militia - Civilians,3
+1817,1764,Gaadsan subclan of Biimaal clan (Dir) - Civilians,3
+1818,1765,Ma'alin Weyne subclan of Mirifle clan (Digil-Mirifle) - Civilians,3
+1819,1766,Gumuz - Civilians,3
+1820,1767,Hol Dinka - Civilians,3
+1821,1768,Luo - Civilians,3
+1822,1769,MDF - Civilians,3
+1823,1770,GIA - El Ahd Battalion - Civilians,3
+1824,1771,GIA - El Forkane - Civilians,3
+1825,1772,Bafanji - Civilians,3
+1826,1773,Balikumbat  - Civilians,3
+1827,1774,Banya - Civilians,3
+1828,1775,Foulbe - Civilians,3
+1829,1776,Kotoko - Civilians,3
+1831,1780,Oulad Rachid - Civilians,3
+1832,1781,Khozam   - Civilians,3
+1833,1782,MPA - SOC - Civilians,3
+1834,1783,Hunde - Civilians,3
+1835,1784,Hutu - Civilians,3
+1836,1785,Amhara - Civilians,3
+1837,1786,Arbore - Civilians,3
+1838,1787,Degodia - Civilians,3
+1839,1788,Derashe - Civilians,3
+1840,1789,Zeyle - Civilians,3
+1841,1790,Gedeo - Civilians,3
+1842,1791,Rer Liban subclan (Issaq) - Civilians,3
+1843,1792,Rer Samatar subclan of Habr Awal (Issaq) - Civilians,3
+1844,1793,Ajuran - Civilians,3
+1845,1794,Samburu - Civilians,3
+1846,1795,Kikuyu - Civilians,3
+1847,1796,Kisii - Civilians,3
+1848,1797,Luhya - Civilians,3
+1849,1798,Marakwet - Civilians,3
+1850,1799,Nandi - Civilians,3
+1851,1800,Orma - Civilians,3
+1852,1801,Wardei - Civilians,3
+1853,1802,Pokomo - Civilians,3
+1854,1803,FPLA - Civilians,3
+1855,1804,ARLA - Civilians,3
+1857,1806,Touareg - Civilians,3
+1858,1807,Naparama - Civilians,3
+1859,1808,Adoni - Civilians,3
+1860,1811,Azara - Civilians,3
+1861,1812,Efik - Civilians,3
+1862,1813,Ibibio - Civilians,3
+1863,1814,Wurukum  - Civilians,3
+1864,1815,Afisare - Civilians,3
+1865,1816,Ninzam - Civilians,3
+1866,1817,Ife - Civilians,3
+1867,1818,Modakeke - Civilians,3
+1868,1819,Ilaje - Civilians,3
+1869,1820,Urhobo - Civilians,3
+1870,1821,Jukun - Civilians,3
+1871,1822,Karimjo - Civilians,3
+1872,1823,Kwala - Civilians,3
+1873,1824,Odtikas - Civilians,3
+1874,1825,Ndoki - Civilians,3
+1875,1826,Eleme - Civilians,3
+1876,1827,Umuleri - Civilians,3
+1877,1828,Aguleri - Civilians,3
+1878,1829,Abdalle subclan of Habar Awal clan (Isaaq) - Civilians,3
+1879,1830,Aidagalla subclan of Habar Garhadjis clan (Isaaq) - Civilians,3
+1880,1831,Abdalleh-Agon-Yar subclan of Abgal clan (Hawiye) - Civilians,3
+1881,1832,Eli-Agon-Yar subclan of Abgal clan (Hawiye) - Civilians,3
+1882,1833,Abdulleh-Galmaha subclan of Abgal clan (Hawiye) - Civilians,3
+1883,1834,Kabaloh subclan of Abgal clan (Hawiye) - Civilians,3
+1884,1835,Galgalo - Civilians,3
+1885,1837,Forces of Omar Jess - Civilians,3
+1886,1838,Ayr subclan of Habar Gidir clan (Hawiye) - Civilians,3
+1887,1839,Eli-Omar subclan of Abgal clan (Hawiye) - Civilians,3
+1888,1840,Abdalle-Aroneh subclan of Abgal clan (Hawiye) - Civilians,3
+1889,1841,Forces of Abdirizak Bihi - Civilians,3
+1890,1842,Forces of Ahmed Sheikh Buraleh - Civilians,3
+1891,1843,Forces of Hussein Ali Ahmed - Civilians,3
+1892,1846,Forces of Abdurahman Ahmed Ali 'Tur' - Civilians,3
+1893,1851,SNF - MSAB  - Civilians,3
+1894,1853,DSA  - Civilians,3
+1895,1854,USC/SNA - OA  - Civilians,3
+1896,1855,USC-PM  - Civilians,3
+1897,1856,ANC - 'Greens'  - Civilians,3
+1898,1857,ANC - 'Reds'  - Civilians,3
+2266,1858,Supporters of AZAPO  - Civilians,3
+2267,1859,Codeta - Civilians,3
+2268,1860,CATA  - Civilians,3
+2269,1861,Supporters of UDF  - Civilians,3
+2270,1862,Mangweni clan - Civilians,3
+2271,1863,Mgodini clan - Civilians,3
+2272,1864,Supporters of UDM  - Civilians,3
+2273,1865,Uwusa  - Civilians,3
+2274,1866,NUM  - Civilians,3
+2275,1867,Webta  - Civilians,3
+2276,1868,Lagunya  - Civilians,3
+2277,1869,Awlad Omran clan  - Civilians,3
+2278,1870,Jikany Nuer - Civilians,3
+2279,1871,Masalit  - Civilians,3
+2280,1872,Salamat Baggara - Civilians,3
+2281,1873,Beni Halba Baggara - Civilians,3
+2282,1874,Fur - Civilians,3
+2283,1875,SPLM/A - AH  - Civilians,3
+2284,1876,SPLM/A - WN - Civilians,3
+2285,1877,Tchokossi - Civilians,3
+2286,1878,Moba - Civilians,3
+2287,1879,Iteso - Civilians,3
+2288,1880,Afor - Civilians,3
+2289,1881,Supporters of Andry Rajoelina - Civilians,3
+2290,1882,Hizbul Islam - Civilians,3
+2291,1884,Ngok Dinka - Civilians,3
+2292,1885,Shiluk - Civilians,3
+2293,1886,Bari - Civilians,3
+2294,1887,Aliap Dinka  - Civilians,3
+2295,1888,Luac Jang Dinka - Civilians,3
+2296,1889,Awan Dinka - Civilians,3
+2297,1890,Pari - Civilians,3
+2298,1891,Arab - Civilians,3
+2299,1892,Kounta - Civilians,3
+2300,1893,Atyap - Civilians,3
+2301,1894,Supporters of Laurent Gbagbo - Civilians,3
+2302,1895,Supporters of Alassane Outtara - Civilians,3
+2303,1896,Supporters of Didier Ratsiraka - Civilians,3
+2304,1897,Mauritanian - Civilians,3
+2305,1898,Senegalese - Civilians,3
+2306,1899,Christians (Nigeria) - Civilians,3
+2307,1900,Muslims (Nigeria) - Civilians,3
+2308,1901,Bini - Civilians,3
+2309,1902,Supporters of UNPP  - Civilians,3
+2310,1903,Kalenjin - Civilians,3
+2311,1904,Misseriya - Civilians,3
+2312,1905,GIA - El Khadra Battalion - Civilians,3
+2313,1906,Geri - Civilians,3
+2314,1907,Abgal clan (Hawiye) - Civilians,3
+2315,1908,Matheniko Karimojong - Civilians,3
+2316,1909,Maasai - Civilians,3
+2317,1910,Ogoni - Civilians,3
+2318,1911,Tiv - Civilians,3
+2319,1912,Okrika (Ijaw) - Civilians,3
+2320,1914,Habar Gidir clan (Hawiye) - Civilians,3
+2321,1918,SNF  - Civilians,3
+2322,1919,Awlad al-Zuid clan - Civilians,3
+2323,1920,SSUM/A  - Civilians,3
+2324,1921,Dodoth - Civilians,3
+2325,1922,Konso - Civilians,3
+2326,1923,Karimojong - Civilians,3
+2327,1924,Supporters of Marc Ravalomanana - Civilians,3
+2328,1925,Mundari - Civilians,3
+2329,1932,ALP - Civilians,3
+2330,1933,ANLP - Civilians,3
+2331,1934,APLP - Civilians,3
+2332,1935,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Civilians,3
+2333,1936,CPA - Civilians,3
+2334,1937,CPJP - Civilians,3
+2335,1938,SALF - Civilians,3
+2336,1939,SLM - Civilians,3
+2337,1940,Ogaden Liberation Front - Civilians,3
+2338,1941,Kusasi - Civilians,3
+2339,1942,Mamprusi - Civilians,3
+2340,1943,Nyanga - Civilians,3
+2341,1944,Gonja - Civilians,3
+2342,1945,Nawuri - Civilians,3
+2343,1946,Konkomba - Civilians,3
+2344,1947,Nanumba - Civilians,3
+2345,1948,Dagomba - Civilians,3
+2346,1949,Mujahid Party - Civilians,3
+2347,1951,Rejectionist Front - Civilians,3
+2348,1952,RPF - Civilians,3
+2349,1953,UFR - Civilians,3
+2350,1955,Torma - Civilians,3
+2351,1956,Torma Manian - Civilians,3
+2352,1957,Highlanders - Civilians,3
+2353,1958,Banyarwanda - Civilians,3
+2354,1959,PUSIC - Civilians,3
+2355,1962,Tishana-Meen - Civilians,3
+2356,1963,Garre - Civilians,3
+2357,1964,Hamar - Civilians,3
+2358,1965,Makahin - Civilians,3
+2359,1966,Forces of General Morgan - Civilians,3
+2360,1968,Ari - Civilians,3
+2361,1969,Mursi - Civilians,3
+2362,1970,Malay - Civilians,3
+2363,1971,Supporters of ANC - Civilians,3
+2364,1972,Awlad Zeid - Civilians,3
+2365,1974,Beltrn Leyva Cartel - Civilians,3
+2366,1975,Beltrn Leyva Cartel - Valdez Villareal faction - Civilians,3
+2367,1976,Ansarallah - Civilians,3
+2368,1977,Atuot Dinka - Civilians,3
+2369,1978,Ciek Dinka - Civilians,3
+2370,1979,Boje - Civilians,3
+2371,1980,Nsadop - Civilians,3
+2372,1981,Mujahideen in the Golis Mountains - Civilians,3
+2373,1982,Rek Dinka - Civilians,3
+2374,1983,Qubeys subclan (Dir) - Civilians,3
+2375,1984,Mara 18 (Honduras) - Civilians,3
+2376,1985,Forces of Momin Afridi - Civilians,3
+2377,1986,TTP - TA - Civilians,3
+2378,1987,TTP - MR - Civilians,3
+2379,1988,TTP - MT - Civilians,3
+2380,1990,SNM - 'Calan cas'  - Civilians,3
+2381,1991,Somali (Kenya) - Civilians,3
+2382,1992,DKBA 5 - Civilians,3
+2383,1993,SSDM/A - Civilians,3
+2384,1994,Gur - Civilians,3
+2385,1995,Burkinab - Civilians,3
+2386,1996,Senufo - Civilians,3
+2387,1997,PFNR - Civilians,3
+2388,1998,Military faction (forces of Samuel Toranzo Caldern) - Civilians,3
+2389,2000,IGLF - Civilians,3
+2390,2001,LDF - Civilians,3
+2391,2002,IFP - Civilians,3
+2392,2003,Oleh - Civilians,3
+2393,2004,Olmoro - Civilians,3
+2394,2005,Forces of Yussuf Hajji Nur - Civilians,3
+2395,2006,Saleban-Abdalla subclan of Majerteen clan (Darod) - Civilians,3
+2396,2007,SSPP - Civilians,3
+2397,2008,SPLM/A-North - Civilians,3
+2398,2009,SSLM/A - Civilians,3
+2399,2010,FDSI-CI - Civilians,3
+2400,2011,NTC - Civilians,3
+2401,2012,Forces of Muammar Gaddafi - Civilians,3
+2402,2013,ALiR - Civilians,3
+2403,2014,Republic of South Sudan - Civilians,3
+2404,2015,FSA - Civilians,3
+2405,2016,AJPSN - Civilians,3
+2406,2017,Copts (Egypt) - Civilians,3
+2407,2018,Muslims (Egypt) - Civilians,3
+2408,2019,Ezilo - Civilians,3
+2409,2020,Ezza - Civilians,3
+2410,2021,FDC - Civilians,3
+2411,2022,Gony Dinka - Civilians,3
+2412,2023,Thiyic Dinka - Civilians,3
+2413,2024,Malink - Civilians,3
+2414,2025,Sayawa - Civilians,3
+2415,2026,Kpelle - Civilians,3
+2416,2027,Lashkar of Zakakhel tribe - Civilians,3
+2417,2028,Laskhar of Masozai Qaumi tribe - Civilians,3
+2418,2029,Opponents of al-Assad - Civilians,3
+2419,2030,Supporters of al-Assad - Civilians,3
+2420,2031,BIFM - Civilians,3
+2421,2032,SVA - Civilians,3
+2422,2033,Jur Beli - Civilians,3
+2423,2034,La Familia - Civilians,3
+2424,2035,Los Caballeros Templarios - Civilians,3
+2425,2036,Jalisco Cartel New Generation - Civilians,3
+2426,2037,Cartel Independiente de Acapulco - Civilians,3
+2427,2038,La Barredora - Civilians,3
+2428,2039,La Resistencia - Civilians,3
+2429,2040,Lashkar of Kukikhel clan - Civilians,3
+2430,2041,ETIM - Civilians,3
+2431,2042,Ansar Dine - Civilians,3
+2432,2043,CMA - Civilians,3
+2433,2044,Seleka - Civilians,3
+2434,2045,M23 - Civilians,3
+2435,2046,MUJAO - Civilians,3
+2436,2047,SRF - Civilians,3
+2437,2048,GNLA - Civilians,3
+2438,2050,Military faction (Red Berets) - Civilians,3
+2439,2051,PBCP-J - Civilians,3
+2440,2053,BLF - Civilians,3
+2441,2054,Deebam - Civilians,3
+2442,2055,Deewell - Civilians,3
+2443,2056,Outlaws - Civilians,3
+2444,2057,Jabhat Fateh al-Sham (Nusra) - Civilians,3
+2445,2058,Alago - Civilians,3
+2446,2059,Eggon - Civilians,3
+2447,2060,Greenlanders - Civilians,3
+2448,2061,Akul Tribe - Civilians,3
+2449,2062,Kambrip Tribe - Civilians,3
+2450,2063,Pao clan of the Ambarep Tribe - Civilians,3
+2451,2064,Lashkar of Akakhel tribe  - Civilians,3
+2454,2067,Zeme Naga - Civilians,3
+2455,2068,Shia (Pakistan) - Civilians,3
+2456,2069,Sunni (Pakistan) - Civilians,3
+2457,2070,Supporters of al-Ahly football team  - Civilians,3
+2458,2071,Supporters of al-Masry football team - Civilians,3
+2459,2072,PCPA - Civilians,3
+2460,2073,PFT - Civilians,3
+2461,2074,PLFI - Civilians,3
+2462,2075,Mashashia - Civilians,3
+2463,2076,Isenasawo - Civilians,3
+2464,2077,Isongo-furo - Civilians,3
+2465,2078,Forces of Agala - Civilians,3
+2466,2079,Forces of Edu - Civilians,3
+2467,2080,FNDIC - Civilians,3
+2468,2081,Alawite (Lebanon) - Civilians,3
+2469,2082,Sunni (Lebanon) - Civilians,3
+2470,2083,Banyamulenge - Civilians,3
+2471,1405,Military faction (forces of Cyriac Souke) - Civilians,3
+2472,2089,Mayi Mayi Simba - Civilians,3
+2473,2090,Raia Mutomboki - Civilians,3
+2474,2091,APCLS - Civilians,3
+2475,1848,Issa Muse subclan of the Habr Awal clan (Isaaq) - Civilians,3
+2476,1844,Forces of Muse Sudi Yalahow - Civilians,3
+2477,1915,Hawadle clan (Hawiye) - Civilians,3
+2478,1494,Krou - Civilians,3
+2479,8002,BPLM - Civilians,3
+2480,8001,IFLO - Civilians,3
+2481,411,Government of Equatorial Guinea - Civilians,3
+2482,760,Government of Bhutan - Civilians,3
+2483,434,Government of Benin - Civilians,3
+2484,80,Government of Belize - Civilians,3
+2485,572,Government of Swaziland - Civilians,3
+2486,1836,Aulihan subclan of Ogaden clan (Darod) - Civilians,3
+2487,1368,Military faction of Togo (forces loyal to Gnassingbe Eyadema) - Civilians,3
+2488,2084,Military faction (Harar garrison) - Civilians,3
+2489,2085,Forces of Mullo Abdullo - Civilians,3
+2490,2086,Forces of Sanginov - Civilians,3
+2491,2087,JMB - Civilians,3
+2492,2088,Dogon - Civilians,3
+2493,2092,Bul Nuer - Civilians,3
+2497,2096,Balanda - Civilians,3
+2683,2132,Idoma - Civilians,3
+2986,2130,Konianke - Civilians,3
+3196,2131,Gimir - Civilians,3
+3218,2136,Beni Hussein - Civilians,3
+3570,2297,Tamil - Civilians,3
+3731,2460,Han Chinese - Civilians,3
+3732,2461,Uighur - Civilians,3
+4020,2750,USDA - Civilians,3
+4035,2765,Supporters of Jamaat-e-Islami - Civilians,3
+4117,2847,Pashtun - Civilians,3
+4118,2848,Mohajir - Civilians,3
+4119,2849,Sindhi - Civilians,3
+4133,2863,Meher - Civilians,3
+4134,2864,Jatoi - Civilians,3
+4200,2930,Supporters of PPP - Civilians,3
+4205,4205,Shia (Pakistan) - Civilians,3
+4211,2941,Supporters of MQM - Civilians,3
+4221,2951,Oatizai - Civilians,3
+4222,2952,Khadadkhel - Civilians,3
+4223,2953,Supporters of Yousaf Ali Khan Magsi - Civilians,3
+4224,2954,Supporters of Zulfikar Ali Khan Magsi - Civilians,3
+4257,2987,Lashkar of Mohmand tribe - Civilians,3
+4290,3020,Forces of Pir Samiullah - Civilians,3
+4307,3037,NDC - Civilians,3
+4310,3040,Nyatura - Civilians,3
+4316,549023,"Mayi Mayi Kifuafua, Raia Mutomboki - Civilians",3
+4317,2102,TTP-Islahi - Civilians,3
+4377,2114,Black Axe - Civilians,3
+4378,3108,Eyie - Civilians,3
+4576,4576,Supporters of Morsi - Civilians,3
+4577,4577,Opponents of Morsi - Civilians,3
+4602,2111,NURTW-Tokyo - Civilians,3
+4751,2120,Signed-in-Blood Battalion - Civilians,3
+4833,3563,SSDM/A - Cobra Faction - Civilians,3
+4838,3568,Amothnhon Dinka  - Civilians,3
+4839,3569,Panyon Dinka  - Civilians,3
+5064,547501,"Ijaw, Urhobo - Civilians",3
+5065,547502,"OPC, Yoruba - Civilians",3
+5066,547503,"Igbo, Yoruba - Civilians",3
+5067,547510,"Afisare, Anaguta, Birom - Civilians",3
+5068,547511,"Anaguta, Birom - Civilians",3
+5069,547520,"Fulani, Hausa - Civilians",3
+5070,547521,"Fulani, Jukun - Civilians",3
+5071,547101,"Foulbe, Hausa - Civilians",3
+5072,553001,"Borana, Guji - Civilians",3
+5073,553002,"Nyangatom , Toposa - Civilians",3
+5074,553003,"Gabra, Garre - Civilians",3
+5075,550110,"Samburu, Turkana - Civilians",3
+5076,550111,"Isiolo, Samburu, Turkana - Civilians",3
+5077,550120,"Kikuyu, Luhya, Luo - Civilians",3
+5078,550121,"Kikuyu, Kamba - Civilians",3
+5079,550122,"Kikuyu, Luhya - Civilians",3
+5080,550101,"Borana, Somali (Kenya) - Civilians",3
+5081,550102,"Pokot, Samburu - Civilians",3
+5082,550103,"Orma, Wardei - Civilians",3
+5083,550104,"Kisii, Luo - Civilians",3
+5084,550105,"Dodoth, Toposa - Civilians",3
+5085,545001,"NPFL, ULIMO - K - Civilians",3
+5086,545002,"AFL, LPC, ULIMO - J - Civilians",3
+5087,543201,"ARLA, FIAA, FPLA - Civilians",3
+5088,565101,"France, Israel, United Kingdom - Civilians",3
+5089,566601,"Egypt, Iraq, Jordan, Lebanon, Syria - Civilians",3
+5090,537201,"Forest Brothers, White Legion - Civilians",3
+5091,585001,"Dayak, Malay - Civilians",3
+5092,545101,"Kamajors, Donsos - Civilians",3
+5093,552001,"DSA, RSA - Civilians",3
+5094,552002,"DSA, RRA - Civilians",3
+5095,552004,"Eley, Haren - Civilians",3
+5096,552005,"Duduble subclan of Gorgorte clan (Hawiye), Forces of Muse Sudi Yalahow - Civilians",3
+5097,552006,"Guedi Issa clan, SNM - Civilians",3
+5098,562501,"Beni Halba Baggara, Salamat Baggara - Civilians",3
+5099,562502,"JEM, SLM - Civilians",3
+5100,562503,"Mahamid, Mahariba, Newiba - Civilians",3
+5101,550000,"Bokora Karimojong, Pian Karimojong - Civilians",3
+5102,550001,"Matheniko Karimojong, Pian Karimojong - Civilians",3
+5103,550002,"Bokora Karimojong, Jie - Civilians",3
+5104,550004,"Jie, Matheniko Karimojong, Turkana - Civilians",3
+5105,550005,"Toposa, Turkana - Civilians",3
+5106,550006,"Matheniko Karimojong, Tepeth - Civilians",3
+5107,550007,"Jie, Pian Karimojong - Civilians",3
+5108,550008,"Pokot, Tepeth - Civilians",3
+5109,550009,"Matheniko Karimojong, Turkana - Civilians",3
+5110,550010,"Jie, Matheniko Karimojong - Civilians",3
+5111,549001,"MLC, RCD-N - Civilians",3
+5112,549002,"FNI, FRPI, RCD-K-ML  - Civilians",3
+5113,549003,"FNI, FRPI - Civilians",3
+5114,549004,"FRPI, RCD-K-ML  - Civilians",3
+5115,549005,"FDLR, Mayi Mayi - Civilians",3
+5116,549006,"Lendu, Ngiti, RCD-K-ML - Civilians",3
+5117,549007,"MLC, RCD-N, UPC - Civilians",3
+5118,549008,"CNDD-FDD , FDLR - Civilians",3
+5119,549009,"FPJC, FRPI - Civilians",3
+5120,549010,"CNDD-FDD , Mayi Mayi - Civilians",3
+5121,549011,"Interahamwe, ex-FAR, Mayi Mayi - Civilians",3
+5122,549012,"Lendu, RCD-K-ML - Civilians",3
+5123,549013,"ALiR, Mayi Mayi - Civilians",3
+5124,549014,"FRF, Mayi Mayi - Civilians",3
+5125,549015,"FAPC, FNI - Civilians",3
+5126,549016,"Hunde, Nyanga - Civilians",3
+5127,591001,"Ataia, Erapo, Kagu, Kemeyu, Kurupi, Moife - Civilians",3
+5128,591002,"Aganunofi, Avaninofi, Fomu I, Fomu II - Civilians",3
+5129,534601,"Serbian irregulars, Serbian Republic of Bosnia-Herzegovina - Civilians",3
+5130,575001,"CPR (Chandra Pulla Reddu group), PVR (Pyla Vasudeva Rao group) - Civilians",3
+5131,547522,"Deewell, NDV - Civilians",3
+5132,547523,"Deewell, NDSF, Outlaws - Civilians",3
+5133,547524,"Forces of Ogonboss, NDV - Civilians",3
+5134,547525,"NDV, SVC - Civilians",3
+5135,547526,"NDSF, PLF - Civilians",3
+5136,547527,"Black Axe, Bush Boys, Deebam, KK, NDV - Civilians",3
+5137,543202,"AQIM, Jama'atu Ahlis Sunna Lidda'awati wal-Jihad, MUJAO - Civilians",3
+5138,543203,"MUJAO, Signed-in-Blood Battalion - Civilians",3
+5139,591003,"Kambrip Tribe, Pao Clan of the Ambarep Tribe - Civilians",3
+5140,591004,"ALiR, CNDD-FDD , Mayi Mayi - Civilians",3
+5141,562001,"Gontrar, Zintan - Civilians",3
+5142,562002,"Jamil fighters, Ragdalein fighters - Civilians",3
+5143,567803,"Al Sagra tribe, Al Abu Hussein tribe - Civilians",3
+5144,549018,"FDLR, FNL-Rwasa, FRF - Civilians",3
+5145,549019,"Bafulero, Bavira - Civilians",3
+5146,552201,"Afar, Oromo - Civilians",3
+5147,548201,"UFDR, FDPC - Civilians",3
+5148,556001,"Supporters of ANC, Supporters of UDF - Civilians",3
+5149,556002,"AWB, IFP - Civilians",3
+5150,556003,"Supporters of IFP, Supporters of UDF - Civilians",3
+5151,550011,"Bokora Karimojong, Jie, Matheniko Karimojong - Civilians",3
+5152,550012,"Chekwi, Matheniko Karimojong, Pian Karimojong - Civilians",3
+5153,550013,"Jie Karimojong, Matheniko Karimojong - Civilians",3
+5154,550014,"Dodoth, Dinka - Civilians",3
+5155,550015,"Pokot, Tepeth - Civilians",3
+5156,550016,"Bafumbira, Bakiga - Civilians",3
+5157,547528,"Owu, Egba (Agatu) - Civilians",3
+5158,550106,"Kikuyu, Embu, Boran - Civilians",3
+5159,553004,"Goldia, Mursi - Civilians",3
+5160,553005,"EDU, pro-government militia - Civilians",3
+5161,577001,"Kurram Hizbullah, Mahdi Militia - Civilians",3
+5162,570001,"Forces of Zaman, Ahmad - Civilians",3
+5163,570002,"Forces of Hasan, Musa Shajik - Civilians",3
+5164,570003,"Forces of Amir Lalai, Monsur Achakzai, Ustad Halim - Civilians",3
+5165,550017,"Kigezi College, Butobere - Civilians",3
+5166,549020,"Butembo Mayi Mayi, Mayi Mayi Ngilima - Civilians",3
+5167,549021,"FDLR, FNL-Rwasa, PARC-FAAL - Civilians",3
+5168,552007,"DSA, RRA - Civilians",3
+5169,552008,"DSA, RSA - Civilians",3
+5170,552009,"Duduble subclan of Gorgorte clan (Hawiye), Forces of Muse Sudi Yalahow - Civilians",3
+5171,552010,"Eley, Haren - Civilians",3
+5172,552011,"Guedi Issa clan, SNM - Civilians",3
+5173,562601,"Dinka, Nuer - Civilians",3
+5174,1,1920 Revolution Brigades - IS,2
+5175,2,Abgal clan (Hawiye) - Xawaadle clan (Hawiye),2
+5176,3,Abudu  - Andani,2
+5177,4,Supporters of ACN - Supporters of PDP,2
+5178,5,Supporters of AD - Supporters of PDP,2
+5179,6,Afar - Kereyou,2
+5180,7,Afar - Issa,2
+5181,8,Abtisame subclan of Galje'el clan (Hawiye) - Afi subclan of Galje'el clan (Hawiye),2
+5182,9,Agon-Yar subclan of Abgal clan (Hawiye) - Warsangeli subclan of Abgal clan (Hawiye),2
+5183,10,Ahlu Sunna Waljamaca - Al-Shabaab,2
+5184,11,Ali-Gaf subclan of Abgal clan (Hawiye)  - Mahadade subclan of Abgal clan (Hawiye),2
+5185,12,Alur - Lendu,2
+5186,13,Amaro - Guji,2
+5187,14,"Anaguta, Birom - Fulani, Hausa",2
+5188,15,Supporters of ANPP - Supporters of PDP,2
+5189,16,Ansaar ul-Islam - Lashkar-e-Islam,2
+5190,17,Ansar al-Islam - PUK,2
+5191,18,Anuak - Dinka,2
+5192,19,Anuak - Nuer,2
+5193,20,Agar Dinka - Gok Dinka,2
+5194,21,ARPCT - ARS/UIC,2
+5195,22,Arrow Boys - LRA,2
+5196,23,AUC - FARC,2
+5197,25,Bangadi Militia - LRA,2
+5198,26,Bangesh - Turi,2
+5199,27,Bena Kapuya - Bena Nsimba,2
+5200,28,Bi'idyahan subclan of Majerteen clan (Darod) - Ismail subclan of Makahil clan (Darod),2
+5201,29,Supporters of Awami League - Supporters of BNP,2
+5202,30,Bokora Karimojong - Jie,2
+5203,31,Bokora Karimojong - Pian Karimojong,2
+5204,32,Bor Dinka - Murle,2
+5205,33,Borana - Guji,2
+5206,34,Borana - Konso,2
+5207,35,"Borana - Gabra, Garre",2
+5208,36,Burji - Guji,2
+5209,37,CNDD-FDD  - Palipehutu-FNL,2
+5210,38,CNDP - PARECO,2
+5211,39,Comando Vermelho - Terceiro Comando,2
+5212,40,CPN-M - MJF,2
+5213,41,Dabare subclan of Digil clan (Digil-Mirifle) - Luway subclan of Mirifle clan (Digil-Mirifle),2
+5214,42,Darsalim - Kibete,2
+5215,43,Da'ud subclan of Abgal clan (Hawiye) - Warsangeli subclan of Abgal clan (Hawiye),2
+5216,44,Dawa - Gura,2
+5217,45,Derashe - Konso,2
+5218,46,Didinga - Toposa,2
+5219,50,Dir clan  - Marehan subclan of Sede clan (Darod),2
+5220,51,Dir clan  - Sa'ad subclan of Habar Gidir clan (Hawiye),2
+5221,52,Dizi   - Suri,2
+5222,53,DKBA - KNU,2
+5223,54,Nyangatom  - Turkana,2
+5224,55,Duduble subclan of Gorgorte clan (Hawiye) - Suleiman subclan of Habar Gidir clan (Hawiye),2
+5225,56,FAPC - FNI,2
+5226,57,Fatah - Hamas,2
+5227,58,FRCI - FN - IC,2
+5228,59,FRCI - MILOCI,2
+5229,60,Forces of Abdul Rahman Khan  - Forces of Amanullah,2
+5230,61,Forces of Abdullahi Yusuf - Forces of Jama Ali Jama,2
+5231,62,Forces of Amanullah Khan  - Forces of Arbab Basir,2
+5232,63,Forces of Amanullah Khan  - Forces of Ismail Khan,2
+5233,64,Forces of Rashid Abdul Dostum - Forces of Mohammad Atta Noor,2
+5234,66,Fulani - Yugur,2
+5235,67,Fulani - Mambila,2
+5236,68,Gaadsan subclan of Biimaal clan (Dir) - Ma'alin Weyne subclan of Mirifle clan (Digil-Mirifle),2
+5237,69,Gabra - Guji,2
+5238,70,Galje'el clan (Hawiye) - Jejele subclan of Jibedi clan (Hawiye),2
+5239,71,Gamai - Pan,2
+5240,72,Garre subclan of Digil clan (Digil-Mirifle) - Marehan subclan of Sede clan (Darod),2
+5241,73,Garre subclan of Digil clan (Digil-Mirifle) - Murule subclan of Gugundabe clan (Hawiye),2
+5242,74,Gumuz - Oromo,2
+5243,75,Falata - Habaniya,2
+5244,76,Habaniya  - Rizeigat Baggara,2
+5245,77,Hausa - Igbo,2
+5246,78,Hausa - Tarok,2
+5247,79,Hausa - Yoruba,2
+5248,80,Hema - Lendu,2
+5249,82,Hezbollah - PSP,2
+5250,83,"Hotiya Baggara  - Mahamid, Mahariba, Newiba",2
+5251,84,Huaorani - Tagaeri,2
+5252,85,Huber subclan of Mirifle clan (Digil-Mirifle) - Yantar subclan of Mirifle clan (Digil-Mirifle),2
+5253,86,Ijaw - Itsekiri,2
+5254,87,IMU - Lashkhar of Wazir tribe,2
+5255,88,IS - RJF,2
+5256,89,Izzi  - Ukele,2
+5257,90,Forces of Shah Sahib - TTP,2
+5258,91,Janjaweed  - JEM,2
+5259,92,Janjaweed  - SLM/A,2
+5260,93,Janjaweed - Bin Kulaib faction - Janjaweed - Moro faction,2
+5261,95,Jie - Turkana,2
+5262,96,Juarez Cartel - Sinaloa Cartel,2
+5263,97,JVA - JVA faction,2
+5264,98,Forces of General Morgan - JVA,2
+5265,99,Kachai sub-tribe of Bangesh - Mishti,2
+5266,100,Kalenjin - Kikuyu,2
+5267,102,Kalenjin - Kisii,2
+5268,103,Kusasi - Mamprusi,2
+5269,104,Lashkar of Salarzai tribe - TTP,2
+5270,105,Lou Nuer - Murle,2
+5271,106,Hol Dinka - Lou Nuer,2
+5272,107,LRA - SPLM/A,2
+5273,108,LTTE - LTTE - K,2
+5274,109,Lumad - Moro,2
+5275,110,Kikuyu - Luo,2
+5276,111,Ma'aliyah - Rizeigat Baggara,2
+5277,112,Mangal - Turi,2
+5278,113,Mara 18 (Guatemala) - Mara Salvatrucha (Guatemala),2
+5279,114,Fiqi Muhumud subclan (Dir) - Marehan subclan of Sede clan (Darod),2
+5280,115,Majerteen subclan (Darod) - Marehan subclan of Sede clan (Darod),2
+5281,116,Majerteen subclan (Darod) - Ogaden clan (Darod),2
+5282,117,Dassanetch - Turkana,2
+5283,118,MFDC Front Nord - MD - MFDC - S,2
+5284,119,Misseriya - Rizeigat Abbala,2
+5285,120,Mohamed Muse subclan of Abgal clan (Hawiye) - Warsangeli subclan of Abgal clan (Hawiye),2
+5286,121,MDF - SLDF,2
+5287,122,Murle - Nuer,2
+5288,123,NDPVF - NDV,2
+5289,124,NSCN-IM - NSCN-K,2
+5290,125,NSCN-IM - NSCN-U,2
+5291,127,"Nyangatom , Toposa - Turkana",2
+5292,128,Ogaden clan (Darod) - Sheikhal clan (Dir),2
+5293,129,Oromo - Somali (Ethiopia),2
+5294,130,Palipehutu-FNL - Palipehutu-FNL - LP,2
+5295,131,PDF - SSDF,2
+5296,132,Pian Karimojong - Pokot,2
+5297,133,Pokot - Sabiny,2
+5298,134,Puntland state of Somalia - Republic of Somaliland,2
+5299,135,Mayi Mayi - RCD,2
+5300,136,FRF - RCD,2
+5301,137,RCD-K-ML  - RCD-N,2
+5302,138,"RCD-K-ML  - MLC, RCD-N",2
+5303,139,Rizeigat Abbala - Terjam,2
+5304,140,RRA - RRA - MH,2
+5305,141,Sa'ad subclan of Habar Gidir clan (Hawiye) - Suleiman subclan of Habar Gidir clan (Hawiye),2
+5306,142,Gulf Cartel - Sinaloa Cartel,2
+5307,143,SLM/A - SLM/A - MM,2
+5308,144,Rer Ahmad subclan (Hawiye) - Hawarsame Rer Hasan and Habar Ya'qub subclan of Marehan clan (Darod),2
+5309,146,RCSS - UWSA,2
+5310,147,Sa'ad subclan of Habar Gidir clan (Hawiye) - Saleban-Abdalla subclan of Majerteen clan (Darod),2
+5311,148,Tama - Zaghawa,2
+5312,149,Tijuana Cartel - Tijuana Cartel - El Teo faction,2
+5313,150,Toposa - Turkana,2
+5314,151,Pokot - Turkana,2
+5315,152,USC/SSA - USC/SSA - OMF,2
+5316,153,Ma'aliyah - Zaghawa,2
+5317,154,Harakat-i Inqilab-i Islami-yi Afghanistan  - Ittihad-i Islami Bara-yi Azadi-yi Afghanistan,2
+5318,155,Hizb-i Wahdat - Hizb-i Wahdat - Akbari faction,2
+5319,156,Hizb-i Islami-yi Afghanistan - Hizb-i Wahdat,2
+5320,157,Hizb-i Islami-yi Afghanistan - Jamiat-ul-Dawa,2
+5321,158,Hizb-i Islami-yi Afghanistan - Jam'iyyat-i Islami-yi Afghanistan,2
+5322,159,Hizb-i Islami-yi Afghanistan - Junbish-i Milli-yi Islami,2
+5323,160,Hizb-i Islami-yi Afghanistan - Taleban,2
+5324,161,Jam'iyyat-i Islami-yi Afghanistan - Junbish-i Milli-yi Islami,2
+5325,162,Jam'iyyat-i Islami-yi Afghanistan - Mahaz-i Milli-yi Islami-yi Afghanistan,2
+5326,163,Jam'iyyat-i Islami-yi Afghanistan - Shura-yi Nazar-i Shomali,2
+5327,164,GIA - El Ahd Battalion - GIA - El Khadra Battalion,2
+5328,165,GIA - El Forkane - GIA - El Khadra Battalion,2
+5329,166,AIS - GIA,2
+5330,168,BCP - PBCP,2
+5331,169,Laime - Qaqachaca,2
+5332,170,ALiR - Palipehutu-FNL,2
+5333,171,Bafanji - Balikumbat,2
+5334,172,"Banya - Foulbe, Hausa",2
+5335,173,Choa Arab - Kotoko,2
+5336,174,Hells Angels - Rock Machine,2
+5337,176,Khozam   - Oulad Rachid,2
+5338,177,AUC - ELN,2
+5339,178,Cali Cartel - Medelln Cartel,2
+5340,179,Medelln Cartel - PEPES,2
+5341,180,MPA/Republic of Anjouan - MPA - SOC,2
+5342,181,AFDL - ALiR,2
+5343,182,AFDL - Mayi Mayi,2
+5344,183,Hunde - Hutu,2
+5345,184,"Banyarwanda - Hunde, Nyanga",2
+5346,188,"CNDD-FDD , Mayi Mayi - RCD",2
+5347,190,RCD-ML  - RCD-K-ML,2
+5348,191,Mayi Mayi - RCD-ML,2
+5349,193,Amhara - Oromo,2
+5350,194,Arbore - Borana,2
+5351,195,Borana - Degodia,2
+5352,197,Borana - Garre,2
+5353,198,"Borana, Guji - Garre",2
+5354,199,Derashe - Zeyle,2
+5355,200,Gedeo - Guji,2
+5356,202,Rer Liban subclan (Issaq) - Rer Samatar subclan of Habr Awal (Issaq),2
+5357,203,"Forest Brothers, White Legion - Republic of Abkhazia",2
+5358,204,Republic of Abkhazia - White Legion,2
+5359,205,"Gonja - Konkomba, Nawuri",2
+5360,208,"Dagomba, Gonja, Nanumba - Konkomba",2
+5361,209,Torma - Torma Manian,2
+5362,210,Bodo - Santhal,2
+5363,212,HuM - JKLF,2
+5364,213,Kuki - Naga,2
+5365,214,Dayak - Madurese,2
+5366,215,Dereiat - al-Shaman,2
+5367,216,IMK - PUK,2
+5368,217,KDP - PUK,2
+5369,218,KDP - PKK,2
+5370,219,Supporters of JLP - Supporters of PNP,2
+5371,220,Ajuran - Garre,2
+5372,221,Borana - Samburu,2
+5373,224,Kalenjin - Luhya,2
+5374,225,"Kalenjin - Kisii, Luo",2
+5375,226,Kisii - Maasai,2
+5376,227,Kikuyu - Maasai,2
+5377,228,Marakwet - Pokot,2
+5378,230,Nandi - Pokot,2
+5379,232,"Orma, Wardei - Pokomo",2
+5380,233,"Pokot, Samburu - Turkana",2
+5381,234,Amal - Hezbollah,2
+5382,235,Fatah - Fatah Revolutionary Council,2
+5383,236,Hezbollah - SLA,2
+5384,237,Forces of Michel Aoun - Lebanese Forces,2
+5385,238,INPFL - NPFL,2
+5386,239,LPC - NPFL,2
+5387,240,NPFL - ULIMO,2
+5388,241,"NPFL, ULIMO - K - AFL, LPC, ULIMO - J",2
+5389,242,ULIMO - J - ULIMO - K,2
+5390,243,"ARLA, FIAA, FPLA - MPA",2
+5391,244,Fulani - Touareg,2
+5392,245,Garcia clan - Pena Rojas clan,2
+5393,246,Naparama - Renamo,2
+5394,247,MDA - MDA - LM,2
+5395,248,MTA - UWSA,2
+5396,249,Adoni - Ogoni,2
+5397,251,Azara - Tiv,2
+5398,252,Efik - Ibibio,2
+5399,253,Fulani - Wurukum,2
+5400,254,"Afisare, Anaguta, Birom - Fulani, Hausa",2
+5401,255,Hausa - Ninzam,2
+5402,256,Ife - Modakeke,2
+5403,257,Ijaw - Ilaje,2
+5404,258,Ijaw - Urhobo,2
+5405,259,Jukun - Tiv,2
+5406,260,Fulani - Karimjo,2
+5407,261,Kwala - Tiv,2
+5408,262,Odtikas - Ogoni,2
+5409,263,Ndoki - Ogoni,2
+5410,264,Eleme - Okrika (Ijaw),2
+5411,265,Ogoni - Okrika (Ijaw),2
+5412,266,Igbo - Tiv,2
+5413,267,Aguleri - Umuleri,2
+5414,268,"Ijaw, Urhobo - Itsekiri",2
+5415,269,MQM - MQM-H,2
+5416,271,Wagia subclan of Takima - Wayai subclan of Takima,2
+5417,272,Unjamap - Wogia-Tunjup,2
+5418,273,Hadji Faizal Abdulkarim clan - Hadji Masir Ahalul clan,2
+5419,274,Armenian - Azeri,2
+5420,275,Chechen Republic of Ichkeria - Forces of Ruslan Labazanov,2
+5421,276,Chechen Republic of Ichkeria - Provisional Council of the Chechen Republic,2
+5422,278,Republic of Georgia - Republic of South Ossetia,2
+5423,279,Abdalle subclan of Habar Awal clan (Isaaq) - Aidagalla subclan of Habar Garhadjis clan (Isaaq),2
+5424,280,Abdalleh-Agon-Yar subclan of Abgal clan (Hawiye) - Eli-Agon-Yar subclan of Abgal clan (Hawiye),2
+5425,281,Abdulleh-Galmaha subclan of Abgal clan (Hawiye) - Kabaloh subclan of Abgal clan (Hawiye),2
+5426,282,Abgal clan (Hawiye) - Galgalo,2
+5427,283,SPM - Forces of Omar Jess,2
+5428,284,Ayr subclan of Habar Gidir clan (Hawiye) - Sa'ad subclan of Habar Gidir clan (Hawiye),2
+5429,285,Abdalle-Aroneh subclan of Abgal clan (Hawiye) - Eli-Omar subclan of Abgal clan (Hawiye),2
+5430,286,Forces of Abdirizak Bihi - Forces of Ahmed Sheikh Buraleh,2
+5431,287,Forces of Hussein Ali Ahmed - USC/SSA,2
+5432,288,Forces of Abdurahman Ahmed Ali 'Tur' - Republic of Somaliland,2
+5433,289,Garre subclan of Digil clan (Digil-Mirifle) - Jiddo subclan of Digil clan (Digil-Mirifle),2
+5434,290,Habar Gidir clan (Hawiye) - Xawaadle clan (Hawiye),2
+5435,291,Habar Gidir clan (Hawiye) - Marehan subclan of Sede clan (Darod),2
+5436,293,Galje'el clan (Hawiye) - Xawaadle clan (Hawiye),2
+5437,294,Republic of Somaliland - SNM - 'Calan cas',2
+5438,298,SNF  - USC/SNA,2
+5439,299,SNF - MSAB  - SNF,2
+5440,300,SPM - SPM/SNA,2
+5441,301,AIAI - SSDF,2
+5442,302,DSA  - USC/SNA,2
+5443,303,RRA - USC/SNA,2
+5444,306,SSDF - USC/SNA,2
+5445,307,USC/SNA - USC/SNA - OA,2
+5446,308,USC/SNA - USC-PM,2
+5447,309,ANC - 'Greens'  - ANC - 'Reds',2
+5448,310,Supporters of ANC - Supporters of AZAPO,2
+5449,311,CATA  - Codeta,2
+5450,312,Supporters of ANC - Supporters of IFP,2
+5451,313,Supporters of IFP - Supporters of UDF,2
+5452,314,Mangweni clan - Mgodini clan,2
+5453,315,Supporters of ANC - Supporters of UDM,2
+5454,316,NUM  - Uwusa,2
+5455,317,Lagunya  - Webta,2
+5456,318,EPRLF - LTTE,2
+5457,319,LTTE - PLOTE,2
+5458,320,Awlad Omran clan  - Awlad al-Zuid clan,2
+5459,321,Awlad Zeid - Zaghawa,2
+5460,322,Dinka  - Nuer,2
+5461,323,Jikany Nuer - Lou Nuer,2
+5462,324,Masalit  - Rizeigat Abbala,2
+5463,325,Rizeigat Abbala - Zaghawa,2
+5464,326,"Beni Halba Baggara, Salamat Baggara - Fur",2
+5465,327,SPLM/A - SPLM/A - AH,2
+5466,328,SPLM/A - SPLM/A - WN,2
+5467,329,SPLM/A - SSDF,2
+5468,330,SPLM/A - SSUM/A,2
+5469,331,SPLM/A - UNRF II,2
+5470,332,SPLM/A - WNBF,2
+5471,333,SSDF - SSUM/A,2
+5472,334,Moba - Tchokossi,2
+5473,335,"Bokora Karimojong - Jie, Matheniko Karimojong",2
+5474,336,Bokora Karimojong - Matheniko Karimojong,2
+5475,337,"Bokora Karimojong - Matheniko Karimojong, Turkana",2
+5476,338,Dodoth - Jie,2
+5477,339,"Dodoth - Toposa, Turkana",2
+5478,340,Iteso - Karimojong,2
+5479,341,Karimojong - Pokot,2
+5480,342,Matheniko Karimojong - Pokot,2
+5481,343,Republic of Bosnia-Herzegovina - Serbian Republic of Bosnia-Herzegovina,2
+5482,344,"Republic of Croatia - SAO Eastern Slavonia, Baranja and Western Symria",2
+5483,345,Republic of Croatia - SAO Krajina,2
+5484,346,Republic of Croatia - Serbian Republic of Krajina,2
+5485,347,Forces of Jing Caludtiag - Forces of Randy Karon,2
+5486,348,Afor - Fulani,2
+5487,349,Supporters of Andry Rajoelina - Supporters of Marc Ravalomanana,2
+5488,350,Al-Shabaab - Hizbul Islam,2
+5489,353,Ngok Dinka - Shiluk,2
+5490,355,Bari - Mundari,2
+5491,356,Bor Dinka - Mundari,2
+5492,357,Aliap Dinka  - Mundari,2
+5493,358,Luac Jang Dinka - Awan Dinka,2
+5494,360,Fulani - Tarok,2
+5495,361,"Bachama - Fulani, Hausa",2
+5496,362,Pari - Toposa,2
+5497,363,Al-Shabaab - ONLF,2
+5498,365,Arab - Kounta,2
+5499,366,Atyap - Hausa,2
+5500,368,"Hausa - Igbo, Yoruba",2
+5501,369,Jie - Matheniko Karimojong,2
+5502,370,Supporters of Laurent Gbagbo - Supporters of Alassane Outtara,2
+5503,371,Supporters of Didier Ratsiraka - Supporters of Marc Ravalomanana,2
+5504,372,Mauritanian - Senegalese,2
+5505,373,Christians (Nigeria) - Muslims (Nigeria),2
+5506,374,Bini - Urhobo,2
+5507,375,Supporters of PDP - Supporters of UNPP,2
+5508,376,Supporters of Jean-Bertrand Aristide - Supporters of Roger Lafontant,2
+5509,377,Meskhetian Turk - Uzbek,2
+5510,378,Kyrgyz - Uzbek,2
+5511,379,Taleban - Ali Dad faction - Taleban - Mola Khel faction,2
+5512,380,Hindus (India) - Muslims (India),2
+5513,381,Christians (Indonesia) - Muslims (Indonesia),2
+5514,382,Akibu - Tonakau,2
+5515,383,Christians (Philippines) - Muslims (Philippines),2
+5516,384,Supporters of PA - Supporters of UNP,2
+5517,385,Santiago Xochiltepec - Santo Domingo Teojomulco,2
+5518,386,Kuki - Paite,2
+5519,387,Dimasa  - Karbi,2
+5520,388,PKK - PUK,2
+5521,389,Forces of Michel Aoun - PSP,2
+5522,390,Lashkar of Orakzai tribe - TTP,2
+5523,391,Forces of Turkestan Bhittani - TTP,2
+5524,393,CNDD - Palipehutu-FNL,2
+5525,394,Dodoth - Turkana,2
+5526,395,Anuak - Highlanders,2
+5527,396,FNI - PUSIC,2
+5528,397,FNI - UPC,2
+5529,398,"FNI, FRPI - UPC",2
+5530,399,RCD-K-ML  - UPC,2
+5531,401,Suri - Tishana-Meen,2
+5532,402,Borana - Hamar,2
+5533,403,Geri - Makahin,2
+5534,404,Borana - Gabra,2
+5535,405,Pokot - Samburu,2
+5536,406,Samburu - Turkana,2
+5537,408,Ari - Mursi,2
+5538,409,"Dassanetch - Nyangatom , Toposa",2
+5539,410,"Dayak, Malay - Madurese",2
+5540,411,Samburu - Somali (Kenya),2
+5541,412,"Bokora Karimojong - Jie, Matheniko Karimojong, Turkana",2
+5542,413,Forces of General Morgan - Forces of Omar Jess,2
+5543,414,Gulf Cartel - Los Zetas,2
+5544,415,Beltrn Leyva Cartel - Beltrn Leyva Cartel - Valdez Villareal faction,2
+5545,416,Ansarallah - AQAP,2
+5546,417,Los Zetas - Sinaloa Cartel,2
+5547,418,Lashkar-e-Islam - TTP,2
+5548,419,Forces of Momin Afridi - TTP - TA,2
+5549,420,TTP - MR - TTP - MT,2
+5550,421,Bangesh - Mangal,2
+5551,422,Mara 18 (Honduras) - Mara Salvatrucha (Honduras),2
+5552,423,Suleiman subclan of Habar Gidir clan (Hawiye) - Qubeys subclan (Dir),2
+5553,424,Gok Dinka - Rek Dinka,2
+5554,425,Mujahideen in the Golis Mountains - Puntland state of Somalia,2
+5555,426,Boje - Nsadop,2
+5556,427,Atuot Dinka - Ciek Dinka,2
+5557,428,Ahlu Sunna Waljamaca - Hizbul Islam,2
+5558,429,Birom - Fulani,2
+5559,430,Dassanetch - Gabra,2
+5560,432,Burkinab - Gur,2
+5561,433,Dioula - Gur,2
+5562,434,Gur - Senufo,2
+5563,435,Degodia - Garre,2
+5564,436,Itsekiri - Urhobo,2
+5565,437,"Dodoth - Jie, Matheniko Karimojong",2
+5566,438,Oleh - Olmoro,2
+5567,439,Abgal clan (Hawiye) - Garre subclan of Digil clan (Digil-Mirifle),2
+5568,440,Forces of Abdullahi Yusuf - Forces of Yussuf Hajji Nur,2
+5569,441,Hamar - Nyangatom,2
+5570,442,Copts (Egypt) - Muslims (Egypt),2
+5571,443,Al-Shabaab - SVA,2
+5572,444,Gur - Malink,2
+5573,445,FDC - FDLR,2
+5574,446,BIFM - MILF,2
+5575,447,Opponents of al-Assad - Supporters of al-Assad,2
+5576,448,Kpelle - Malink,2
+5577,449,Lashkar-e-Islam - Lashkar of Zakakhel tribe,2
+5578,450,Lashkar-e-Islam - TTP - TA,2
+5579,451,CPJP - UFDR,2
+5580,452,Borana - Turkana,2
+5581,453,Hausa - Sayawa,2
+5582,454,Ezilo - Ezza,2
+5583,455,Fulani - Tiv,2
+5584,456,Misseriya - Ngok Dinka,2
+5585,457,Gony Dinka - Thiyic Dinka,2
+5586,458,Atuot Dinka - Jur Beli,2
+5587,459,Laskhar of Masozai Qaumi tribe - TTP,2
+5588,460,La Familia - Los Caballeros Templarios,2
+5589,461,Jalisco Cartel New Generation - Los Zetas,2
+5590,462,Cartel Independiente de Acapulco - La Barredora,2
+5591,463,Jalisco Cartel New Generation - La Resistencia,2
+5592,464,Lashkar of Kukikhel clan - TTP,2
+5593,466,RUF - ULIMO,2
+5594,467,Kamajors - RUF,2
+5595,468,Deebam - Deewell,2
+5596,469,"Black Axe, Bush Boys, Deebam, KK, NDV - Outlaws",2
+5597,470,Alago - Eggon,2
+5598,471,Greenlanders - NDV,2
+5600,473,Lashkar-e-Islam - Lashkar of Akakhel tribe,2
+5602,476,Dimasa  - Zeme Naga,2
+5604,478,Supporters of al-Ahly football team  - Supporters of al-Masry football team,2
+5605,479,PFT - UTO,2
+5606,480,"Gontrar, Zintan - Mashashia",2
+5607,481,Isenasawo - Isongo-furo,2
+5608,482,Forces of Agala - Forces of Edu,2
+5609,483,Alawite (Lebanon) - Sunni (Lebanon),2
+5610,484,"ALiR, Mayi Mayi - RCD",2
+5611,189,"ALiR, CNDD-FDD , Mayi Mayi - RCD",2
+5612,485,"Bafulero, Bavira - Banyamulenge",2
+5648,486,Orma - Pokomo,2
+5649,487,Dogon - Fulani,2
+5650,488,"AQIM, Jama'atu Ahlis Sunna Lidda'awati wal-Jihad, MUJAO - CMA",2
+5651,489,"CMA - MUJAO, Signed-in-Blood Battalion",2
+5652,491,APCLS - M23,2
+5653,492,Bul Nuer - Luac Jang Dinka,2
+5655,494,Balanda - Dinka,2
+5656,495,FDLR - Raia Mutomboki,2
+10006,811,Government of Ethiopia - IGLF,1
+10180,223,"Kalenjin - Kikuyu, Luhya, Luo",2
+10247,10247,Konianke - Kpelle,2
+10301,10301,Northern Sudanese - Southern Sudanese,2
+10509,858,Government of DR Congo (Zaire) - APCLS,1
+10516,10516,Government of Turkey - TAK,1
+10589,10589,Government of Kenya - Al-Shabaab,1
+10676,10676,Hizb-i Wahdat - Junbish-i Milli-yi Islami,2
+10682,10682,Forces of Sayed Mansur Naderi - Hizb-i Islami-yi Afghanistan,2
+10792,8900,Government of Azerbaijan - Government of Iran,2
+10842,820,Government of Ivory Coast - FDSI-CI,1
+10855,10855,Government of Yemen (North Yemen) - Ansarallah,1
+10885,825,Government of Libya - Forces of Muammar Gaddafi,1
+10899,504,NSCN-K - NSCN-K-K,2
+10920,10920,Han Chinese - Uighur,2
+10961,874,Government of Pakistan - IMU,1
+10985,838,Government of Bangladesh - PBCP,1
+11018,853,Government of Myanmar (Burma) - NSCN-K,1
+11054,497,Buddhists (Myanmar) - Muslims (Myanmar),2
+11123,11123,Supporters of Awami League - Supporters of Jamaat-e-Islami,2
+11199,11199,"Government of Afghanistan - Government of United Kingdom, Government of United States of America",1
+11210,11210,Government of Philippines - MLPP,1
+11230,11230,Mohajir - Pashtun,2
+11231,11231,Mohajir - Sindhi,2
+11241,11241,Jatoi - Meher,2
+11246,834,Government of Philippines - BIFM,1
+11286,11286,Assamese - Bodo,2
+11295,477,Shia (Pakistan) - Sunni (Pakistan),2
+11299,11299,Government of India - NLFT-B,1
+11301,11301,Supporters of MQM - Supporters of PPP,2
+11308,11308,Khadadkhel - Oatizai,2
+11309,11309,Supporters of Yousaf Ali Khan Magsi - Supporters of Zulfikar Ali Khan Magsi,2
+11336,844,Government of Pakistan - Lashkar-e-Islam,1
+11338,866,Government of Pakistan - Marri Ittehad Group,1
+11342,11342,Lashkar of Mohmand tribe - TTP,2
+11377,814,Government of DR Congo (Zaire) - PARC-FAAL,1
+11380,11380,FDLR - NDC,2
+11383,11383,Lashkar-e-Islam - Tawheed ul-Islam,2
+11390,503,Bangladeshi Immigrants - Bodo,2
+11391,11391,Government of DR Congo (Zaire) - Mayi Mayi Simba,1
+11392,11392,Bafulero - Barundi,2
+11433,11433,Black Axe - Eyie,2
+11441,11441,Black Axe - Maphite,2
+11497,843,Government of Pakistan - TTP - TA,1
+11548,496,Khatumo administration - Republic of Somaliland,2
+11558,472,Akul - Kambrip,2
+11559,11559,Government of Syria - Government of Turkey,1
+11662,507,Jalisco Cartel New Generation - Los Caballeros Templarios,2
+11663,11663,Beltrn Leyva Cartel - Sinaloa Cartel,2
+11668,11668,Guerreros Unidos - Los Rojos,2
+11682,11682,Opponents of Morsi - Supporters of Morsi,2
+11704,508,Los Zetas - Los Zetas - Velazquez Caballero faction,2
+11735,11735,"Birom - Fulani, Hausa",2
+11736,855,Government of India - Janashakti Group,1
+11798,11798,Government of Burundi - FNL-Ubugabo-Burihabwa,1
+11801,11801,Christians (CAR) - Muslims (CAR),2
+11805,860,Government of South Sudan - SSDM/A - Cobra Faction,1
+11810,11810,Amothnhon Dinka  - Panyon Dinka,2
+11821,11821,Al-Zayadia - Berti,2
+11868,549017,"Interahamwe, ex-FAR, MAGRIVI  - Civilians",3
+11869,1883,Riezeigat - Civilians,3
+11870,781,Government of Maldives - Civilians,3
+11871,110,Government of Guyana - Civilians,3
+11872,553,Government of Malawi - Civilians,3
+11932,11932,Government of India - CPI-ML-J,1
+11942,505,FLC - Mayi Mayi,2
+11947,500,CPI-ML-VM - PWG,2
+11957,11957,Ansar Dine - CMA,2
+11959,11959,Ganda Iso - CMA,2
+11971,842,Government of India - GNLA,1
+11972,826,Government of Myanmar (Burma) - SSPP,1
+11973,867,Government of Syria - Syrian insurgents,1
+11974,529,Government of Egypt - Government of Israel,1
+11975,812,Government of Sudan - SPLM/A-North,1
+11976,813,Government of Sudan - SSLM/A,1
+11977,815,Government of Sudan - Republic of South Sudan,1
+11978,818,Government of South Sudan - SSDM/A,1
+11979,819,Government of South Sudan - SSLM/A,1
+11980,823,Government of Libya - NTC,1
+11982,831,Government of DR Congo (Zaire) - M23,1
+11983,847,Government of Syria - Jabhat Fateh al-Sham (Nusra),1
+11984,845,Government of Algeria - MUJAO,1
+11985,836,Government of Mali - CMA,1
+11986,835,Government of Mali - Ansar Dine,1
+11987,837,Government of Mali - Military faction (Red Berets),1
+11988,833,Government of Sudan - SRF,1
+11989,817,Government of South Sudan - Government of Sudan,1
+11990,830,Government of China - ETIM,1
+11991,839,Government of Bangladesh - PBCP-J,1
+12004,502,Tripura Non-Tribal Communities - Tripura Tribal Communities,2
+12009,856,Government of DR Congo (Zaire) - Kata Katanga,1
+12033,2109,FLC - Civilians,3
+12046,3967,Kata Katanga - Civilians,3
+12070,506,NURTW-Auxiliary - NURTW-Tokyo,2
+12074,2110,NURTW-Auxiliary - Civilians,3
+12079,551,Government of Zambia - Civilians,3
+12080,403,Government of Sao Tome and Principe - Civilians,3
+12087,590,Government of Mauritius - Civilians,3
+12088,832,Government of Central African Republic - Seleka,1
+12090,501,BNLF - NLFT,2
+12091,12091,Government of Ivory Coast - AJPSN,1
+12092,12092,Ansar al-Sharia  - Civilians,3
+12093,12093,Government of Tunisia - Unclear islamists,1
+12094,12094,Government of Tunisia - Ansar al-Sharia,1
+12095,12095,Government of Tunisia - Katibat Okba Ibn Nafa,1
+12096,3993,ECOMOG (Sierra Leone) - Civilians,3
+12097,12097,Government of Central African Republic - Supporters of Boziz,1
+12098,12098,Government of Libya - Fighting Islamic Group,1
+12099,12099,Government of Libya - Islamic Movement of Martyrs,1
+12100,12100,Government of Libya - Salvation Front for the Liberation of Libya,1
+12101,12101,al-Toubou  - Zawiyah Militiamen,2
+12102,828,Government of Rwanda - FDLR,1
+12103,114,Government of Niger - FARS,1
+12104,852,Government of Ethiopia - Military faction (Harar garrison),1
+12128,12128,BLTF - NSCN-IM,2
+12129,12129,Ombatse - Civilians,3
+12130,12130,Fulani - Ombatse,2
+12131,12131,Government of Nigeria - Ombatse,1
+12132,12132,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Yan Gora,2
+12133,12133,Fulani - Unclear Christian group,2
+12134,12134,Supporters of People's Alliance - Supporters of UNF,2
+12135,12135,Muslims (Sri Lanka) - Sinhalese (Sri Lanka),2
+12136,12136,Muslims (Sri Lanka) - Tamil,2
+12137,12137,AQAP - Southern Movement,2
+12138,12138,KIM - Civilians,3
+12139,861,Government of Malaysia - Sultanate of Sulu,1
+12140,12140,EPRLF - PLO,2
+12141,12141,LTTE - PLO,2
+12142,12142,FPRC - Supporters of Boziz,2
+12143,12143,Happy-Go-Lucky - Sputnik,2
+12144,12144,Sabal - Buisan,2
+12145,12145,Forces of Mukamad Andoy - Forces of Buto and Bigkong,2
+12146,12146,Erinle community - Offa community,2
+12147,12147,Kolo villagers (CAR) - Bororo,2
+12148,12148,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Sambisa Reserve Park Rangers,2
+12149,12149,Akugbe ventures - Rtean,2
+12150,12150,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Ngelzarma vigilante group,2
+12151,12151,B-Dere (Ogoni) - K-Dere (Ogoni),2
+12152,12152,Atakar - Fulani,2
+12153,12153,Aguleri - Ashonwo/Odeke,2
+12154,12154,Hausa - Jukun,2
+12155,12155,Ajah - Olumegbon,2
+12156,12156,ERG - Civilians,3
+12157,12157,VSO - Civilians,3
+12175,12175,Assamese - Bihari,2
+12284,12284,Agatu - Tiv,2
+12295,12295,Prakanong Pittayalai School gang - Kaen Thong Uppathum School gang,2
+12296,12296,Hausa - Tiv,2
+12297,12297,Angbaaye youths - Aturuku youths,2
+12298,848,Government of Tajikistan - PFT,1
+12299,851,Government of Tajikistan - Forces of Sanginov,1
+12300,849,Government of Tajikistan - Forces of Mullo Abdullo,1
+12302,12302,Government of DR Congo (Zaire) - UFRC,1
+12303,12303,Alago - Ombatse,2
+12304,12304,Government of DR Congo (Zaire) - Mayi Mayi Mandefu,1
+12305,12305,Nyale - Omo,2
+12306,12306,M23 - M23-R,2
+12307,12307,FDLR - Mayi Mayi (Aigle Rouge),2
+12308,12308,Kata Katanga - Simba Moto,2
+12309,12309,M23 - Nyatura,2
+12310,12310,M23 - MPA (Nyatura),2
+12312,12312,Farmers in Jigawa - Herders in Jigawa,2
+12313,12313,Government of Ethiopia - EUFF,1
+12314,12314,Benishangul - Oromo,2
+12315,12315,EUFF - Civilians,3
+12316,12316,FIDPC - M23,2
+12317,12317,Government of Central African Republic - LRA,1
+12318,12318,Garamba Park Rangers - LRA,2
+12319,12319,Akossa and Pipidemotro villagers - LRA,2
+12320,12320,Congolese hunters - LRA,2
+12321,12321,Government of India - ITA,1
+12322,12322,Government of India - ULFA-I,1
+12323,12323,Raia Mutomboki - Raia Mutomboki faction,2
+12324,12324,Government of India - KPLT,1
+12325,12325,Government of India - Gorkha Janamukti Morcha (GJM),1
+12326,12326,Government of India - Pahari Cheetah,1
+12327,12327,Government of India - ANVC-B,1
+12328,12328,APCLS - NDC,2
+12329,12329,Government of DR Congo (Zaire) - ALPC,1
+12330,12330,"FDLR, FPLC, Nyatura - M23",2
+12331,12331,Opponents of Panchayat Elections (Goalpara) - Supporters of Panchayat Elections (Goalpara),2
+12332,12332,Government of India - Mohammad Iqbal Mafia,1
+12333,12333,Government of Lebanon - Jabhat Fateh al-Sham (Nusra),1
+12334,12334,Popular Nasserite Organisation - Resistance Brigades,2
+12335,12335,Fatah - Fatah al-Islam,2
+12336,12336,Government of Lebanon - Unclear,1
+12337,12337,Hezbollah - Jabhat Fateh al-Sham (Nusra),2
+12341,12341,Agatu - Fulani,2
+12342,12342,Fulani - Idoma,2
+12343,175,Baya - Yakoma,2
+12344,296,SDM  pro-Aideed faction - SDM  pro-Mahdi faction,2
+12345,499,"FSA, Jabhat Fateh al-Sham (Nusra) - PYD",2
+12346,498,"Ghuraba al-Sham, Jabhat Fateh al-Sham (Nusra) - PYD",2
+12347,12347,Arab militia - Dadjo communities,2
+12350,12350,Arab Brabich  - Tuareg Indinan,2
+12351,12351,Hajar family - al-Nashar family,2
+12352,12352,Hezbollah - Intima party,2
+12353,12353,Hezbollah - Supporters of Ahmad al-Assir,2
+12354,12354,Resistance Brigades - Supporters of Ahmad al-Assir,2
+12355,12355,Syrian Mujahideen Unit - Civilians,3
+12356,12356,Government of Lebanon - Supporters of Ahmad al-Assir,1
+12357,12357,Efik - Fulani,2
+12358,12358,Ibagwa community - Ihakpu-Awka community,2
+12359,12359,Hezbollah - XXX660,2
+12360,12360,Government of Lebanon - XXX660,1
+12361,12361,Brigade of the Four Martyrs - Civilians,3
+12362,12362,Brigades of Aisha - Hezbollah,2
+12363,12363,Hezbollah - Shiyyah family,2
+12364,12364,Government of Iran - XXX660,1
+12365,12365,Government of Iran - Abdullah tribe,1
+12366,12366,Government of Iran - Abdullah Azzam Brigades,1
+12367,12367,Hamas - PIJ,2
+12368,12368,Government of Israel - Unclear islamist militants (Israel/Palestine),1
+12369,12369,Unclear Kenyan group - Civilians,3
+12370,12370,Government of Kenya - Unclear Kenyan group,1
+12371,12371,unclear gang (Kenya) - unclear gang 2 (Kenya),2
+12372,12372,Supporters of CORD - Supporters of Amani,2
+12373,12373,Unclear Somali clan A - Unclear Somali clan B,2
+12374,12374,Government of Kenya - Unclear,1
+12375,12375,unclear Kenyan group 1 - unclear Kenyan group 2,2
+12376,12376,Chouman family - Janbayn family,2
+12377,12377,Future Movement - XXX660,2
+12378,12378,anti-Balaka - FPRC,2
+12379,12379,anti-Balaka - Civilians,3
+12380,12380,Government of Central African Republic - anti-Balaka,1
+12381,12381,Government of France - Al-Shabaab,1
+12382,12382,FPRC - Civilians,3
+12383,12383,anti-Balaka - Bororo,2
+12384,12384,Beni Hussein - Rizeigat Abbala,2
+12385,12385,"Awlad Heiban (Misseriya)  - Awlad Metanin (Misseriya) , Awlad Serur (Misseriya)",2
+12386,12386,Beni Halba Baggara - Misseriya,2
+12387,12387,Misseriya - Nuer,2
+12388,12388,Beni Halba Baggara - Gimir,2
+12389,12389,Government of Sudan - SLM/A - Juba Unity,1
+12391,12391,Government of Central African Republic - FPRC,1
+12393,12393,Ansaar ul-Islam - TTP,2
+12394,12394,Ansaar ul-Islam - TTP - TA,2
+12395,12395,Macacua - Ukra,2
+12396,12396,Government of Pakistan - Jaish-e-Islami,1
+12397,12397,Al-Shabaab - Puntland state of Somalia,2
+12398,12398,Lashkar of Kamarkhel tribe - Lashkar-e-Islam,2
+12399,12399,Marehan - Ogadeni clan,2
+12400,12400,Misseriya - Salamat Baggara,2
+12401,12401,JEM - JEM - Bashar,2
+12402,12402,Bul Nuer - Jageay Nuer,2
+12403,12403,Lith (DInka) - Nam (Dinka),2
+12404,12404,Murle - Dinka,2
+12405,12405,Government of Sudan - SLMJ,1
+12406,12406,Supporters of Raja Bhaiyya - Supporters of Samajwadi Party,2
+12407,12407,Government of Sudan - LJM-Wafi,1
+12408,12408,Leek (Nuer) - Jikany Nuer,2
+12409,12409,Kok (Dinka) - Paleu (Dinka),2
+12410,12410,Hamar - Ma'aliyah,2
+12411,12411,Supporters of Hindu Yuva Vahini - Supporters of Samajwadi Party,2
+12412,12412,Aslan Usoyan Mafia Group - Tarel Onyani Mafia Group,2
+12413,859,Government of South Sudan - SPLM/A In Opposition,1
+12414,12414,SPLM/A In Opposition - Civilians,3
+12415,12415,Residents of Morar Village - Residents of Rajawar Village,2
+12416,12416,Residents of Kudabeda Village - Residents of Mamarbeda Village,2
+12417,12417,African Union - Civilians,3
+12418,12418,Government of DR Congo (Zaire) - FALRP,1
+12419,12419,Government of Cameroon - FPRC,1
+12420,12420,ADP - Civilians,3
+12421,12421,Government of India - KLRA,1
+12422,12422,Government of Cameroon - Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,1
+12423,12423,Government of Niger - Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,1
+12424,12424,Yan Gora - Civilians,3
+12425,12425,Downtown Boys - Shaggy Boys,2
+12426,12426,EFCC Boys - Civilians,3
+12427,12427,Government of Nigeria - Eyie,1
+12428,12428,Government of Spain - EGPGC,1
+12429,12429,Government of Spain - GRAPO,1
+12430,12430,Forces of Ike Ikebordih - Forces of  Jonathan Imawa,2
+12431,12431,Black Axe - NURTW,2
+12432,12432,Alora - EFCC Boys,2
+12433,12433,Makoko Boys - Moshalangbe Boys,2
+12434,12434,TTP - Forces of Umer Adizai,2
+12435,12435,Akumoni - Ayamabele,2
+12436,12436,Agudama community - Akenfa community,2
+12437,12437,TTP - Lashkar of Adezai,2
+12438,12438,Oba Ile community - Oba Oke community,2
+12439,12439,Ekporo community - Ogu community,2
+12440,12440,KUF - White Chesea,2
+12441,12441,Eggon - Fulani,2
+12442,12442,Ganmo community - Ganna community,2
+12443,12443,Aguleri - Umuoba Anam community,2
+12444,12444,Adun community  - Inyima community,2
+12445,12445,Esit Urua community - Mkpanak community,2
+12446,12446,villagers of Bondaki in Budjala territory - villagers of Ndjeka in Gemena territory,2
+12447,12447,Oruku community - Umuode community,2
+12448,12448,Bambam community - Maitunku community,2
+12449,12449,Nyatura - Raia Mutomboki,2
+12450,12450,"Dadiya - Kaltungo , Shongom, Ture",2
+12451,12451,Dadiya - Waja,2
+12452,12452,Government of India - Kamtapur Liberation Organisation,1
+12453,12453,Kamtapur Liberation Organisation - Civilians,3
+12454,12454,UALF - Civilians,3
+12455,12455,Adadama community - Igbo Amabana community,2
+12456,12456,Enwang community - Uko-Nteghe community,2
+12457,12457,KNF-N - KNF-P,2
+12458,12458,Adadama community - Ndiagu Amagu community,2
+12459,12459,Supporters of ASWJ - Supporters of MWM,2
+12460,12460,GRAPO - Civilians,3
+12461,12461,EGPGC - Civilians,3
+12462,12462,Mbangur community - Mbawuar community,2
+12463,857,Government of DR Congo (Zaire) - Forces of Paul Joseph Mukungubila,1
+12464,12464,Kuteb - Tiv,2
+12465,12465,Ajasor community - Efraya community,2
+12466,12466,Fulani - Ogume community,2
+12467,12467,Ikpanaya - Ntan Obu-Ukpe,2
+12468,12468,Forces of Shaykh Ahmad Madobe - Forces of Iftin Hasan Baasto,2
+12469,12469,Kata Katanga - Popular self-defense force of Mbuyu,2
+12470,12470,"Al-Shabaab - Ahmad Abdi Godane - Al-Shabaab - Shaykh Hasan Dahir Aweys, Al-Shabaab - Sheikh Mukhtar Robow (Abu Mansur)",2
+12471,49,Dioula - Krou,2
+12472,12472,Marehan - Harakat Ras Kamboni,2
+12473,12473,Pahari Cheetah - PLFI,2
+12474,12474,Government of Egypt - al-Qaida Organisation in the Sinai Peninsula,1
+12475,12475,Onitsha Ado Vigilance Group - Civilians,3
+12476,12476,CDA - CDA-vice chairman faction,2
+12477,12477,Ede community - Ido-osun community,2
+12478,12478,Mount Zion youths - White Sand youths,2
+12479,12479,Umusadege Ogbe community - Umuseti Ogbe community,2
+12480,12480,"Iva Awinotogbe community, Iva Ibetono community, Iva Obeten community, Va-Egba community - Va-Egbe community",2
+12481,12481,"APCLS, Nyatura - NDC",2
+12482,12482,Marehan subclan of Sede clan (Darod) - Harakat Ras Kamboni,2
+12483,12483,Harakat Ras Kamboni - Forces of colonel Bare Hirale,2
+12484,12484,FDDH - Nyatura,2
+12485,12485,Bamate - Batangi,2
+12486,12486,Ramel Thappa Clan - Sankheswar Majhi Family,2
+12487,877,Government of Egypt - Ansar Bayt al-Maqdis,1
+12488,12488,Comandos - Sputnik,2
+12489,12489,ASG - MNLF - HM,2
+12490,12490,Al-Shabaab - Forces of colonel Bare Hirale,2
+12491,12491,Government of India - NSLA,1
+12492,12492,Al-Shabaab - Ahmad Abdi Godane - Al-Shabaab - Sheikh Mukhtar Robow (Abu Mansur),2
+12493,12493,NSCN-IM - NSCN-K-K,2
+12494,12494,Gontrar - Mashashia,2
+12495,12495,Government of United Kingdom - UVF,1
+12496,12496,Ahlu Sunna Waljamaca - Sangub villagers,2
+12497,12497,Government of United Kingdom - INLA,1
+12498,12498,Frelimo - Government of Mozambique,2
+12499,12499,Government of Mozambique - MDM,1
+12500,12500,Government of United Kingdom - UFF,1
+12501,12501,TMC-K - TMC-M,2
+12502,12502,TMC-M - Civilians,3
+12503,12503,Government of United Kingdom - CIRA,1
+12504,12504,LRA - Mouka villagers,2
+12505,12505,Government of Turkey - Al-Shabaab,1
+12506,12506,UFF - Civilians,3
+12507,12507,IPLO - Civilians,3
+12508,12508,Jharkhand Prastuti Committee - Tritiya Prastuti Committee (TPC),2
+12509,12509,UVF - Civilians,3
+12510,12510,LRDG - Civilians,3
+12511,12511,RHC - Civilians,3
+12512,12512,LVF - Civilians,3
+12513,12513,White wolves - Civilians,3
+12514,12514,RHD - Civilians,3
+12515,12515,UDA - Civilians,3
+12516,12516,MNRF - NSCN-IM,2
+12517,12517,PIRA - UVF,2
+12518,12518,PIRA - UFF,2
+12519,12519,UDA - UFF,2
+12520,12520,IPLO - PIRA,2
+12521,12521,PIRA - UDA,2
+12522,12522,Government of Malaysia - Joe Mafia gang,1
+12523,12523,Government of Malaysia - Aime gang,1
+12524,12524,INLA - IPLO,2
+12525,12525,IPLO - UVF,2
+12526,12526,Government of Malaysia - Gang 04,1
+12527,12527,INLA - Civilians,3
+12528,12528,INLA - LVF,2
+12529,12529,UDA - UVF,2
+12530,12530,Government of Malaysia - Gang 36,1
+12531,12531,Government of Malaysia - Ah Fatt gang,1
+12532,12532,Government of Malaysia - Tuhan Harun,1
+12533,12533,Opponents of Yingluck Shinawatra - Opponents of Abhisit,2
+12534,12534,Juarez Cartel - Lebanese Forces,2
+12535,12535,Military faction (forces of Andr Kolingba) - NSF,2
+12536,12536,IPLO - UDA,2
+12537,12537,Opponents of President Maduro - Supporters of President Maduro,2
+12538,12538,Supporters of Rashtriya Lok Dal - Supporters of Samajwadi Party,2
+12539,12539,Supporters of Aboro Suraksha Samity (ABSS) - Supporters of Bodoland People's Progressive Front (BPPF),2
+12540,12540,Supporters of Aboro Suraksha Samity (ABSS) - Supporters of Janagostiya Sangram Samiti,2
+12541,12541,UALA - Civilians,3
+12545,12545,Government of Iraq - JRTN,1
+12546,12546,DHD-AD - Civilians,3
+12547,12547,Government of India - RNLF,1
+12548,12548,Government of Thailand - Opponents of Yingluck Shinawatra,1
+12549,12549,Supporters of Bharatiya Janata Party - Supporters of Congress Party,2
+12550,12550,Government of India - UALA,1
+12551,12551,Supporters of Bharatiya Janata Party - Supporters of CPI-Marxist,2
+12552,12552,Government of Somalia - Ahlu Sunna Waljamaca,1
+12553,12553,INLA - UVF,2
+12554,12554,Government of India - KNF-N,1
+12555,12555,Government of India - DHD-AD,1
+12556,12556,Government of Iran - Jaish al-Adl,1
+12558,12558,Government of Ireland - PIRA,1
+12559,12559,Government of Ireland - INLA,1
+12560,12560,INLA - UDA,2
+12561,12561,Government of United Kingdom - RHD,1
+12562,12562,Government of Ireland - RIRA,1
+12563,12563,RHC - UVF,2
+12564,12564,LVF - UVF,2
+12565,12565,UFF - UVF,2
+12566,12566,LVF - RHC,2
+12567,12567,KPLT - NRHPF,2
+12568,12568,NSCN-IM - Sumi Hoho,2
+12569,12569,RAAD - Civilians,3
+12570,12570,CIRA - Civilians,3
+12571,862,Government of Mali - MUJAO,1
+12572,12572,Government of Libya - Benghazi Revolutionaries Shura Council,1
+12573,12573,Awlad Suleiman  - Gaddadfa tribe,2
+12574,12574,Government of Libya - Zawiya Martyrs' Brigade,1
+12575,863,Government of Mali - AQIM,1
+12576,12576,Abgal clan (Hawiye) - Shidle clan,2
+12577,12577,Government of India - ZUF,1
+12578,865,Government of Mali - Signed-in-Blood Battalion,1
+12579,12579,Government of Mali - Forces of Ould Badi,1
+12580,12580,Government of Mali - MIA,1
+12581,12581,Government of Algeria - Ansar Dine,1
+12582,880,Government of Mali - al-Murabitun,1
+12583,12583,Government of Somalia - Forces of Abdullahi Wafow,1
+12584,12584,Government of Algeria - Signed-in-Blood Battalion,1
+12585,12585,NSCN-IM - UMLA,2
+12586,12586,Government of Somalia - forces of Mr. Mohamed Yusuf Jama (Indhosheel),1
+12587,12587,Government of Brazil - Comando Vermelho,1
+12588,12588,CMA - MUJAO,2
+12589,12589,MAA - CMA,2
+12590,12590,Government of India - NRHPF,1
+12591,12591,Government of Brazil - Terceiro Comando,1
+12592,12592,"CMA, MIA - MUJAO",2
+12593,12593,Burkinab - Malians,2
+12594,12594,CMA - Signed-in-Blood Battalion,2
+12595,12595,Baluba - State of Katanga,2
+12596,12596,Al-Shabaab - herders in Maxaas District,2
+12597,12597,ANVC-B - UALA,2
+12598,12598,"Government of Mali - Ansar Dine, AQIM, Signed-in-Blood Battalion",1
+12599,12599,Government of Brazil - FARC,1
+12600,12600,"Government of Mali - Ansar Dine, AQIM, MUJAO, Signed-in-Blood Battalion",1
+12601,12601,Biyomal clan - Habar Gidir clan (Hawiye),2
+12602,12602,Islamic Traditionalists (Caucasus) - Wahabbis (Caucasus),2
+12603,12603,Al-Shabaab - residents of Goobaale locality,2
+12604,12604,Sangharsh Jan Mukti Morcha (SJMM) - TPC,2
+12605,12605,Government of Indonesia - MIT,1
+12606,12606,Buddhists (Indonesia) - Muslims (Indonesia),2
+12607,12607,FPI - Civilians,3
+12608,12608,Golden Dawn - Civilians,3
+12609,12609,UDLA-ZB - Civilians,3
+12610,12610,ALPC - Civilians,3
+12611,12611,NNC-NA - Civilians,3
+12612,12612,ATF - GNLA,2
+12613,12613,JKP - PLFI,2
+12614,12614,Raia Mutomboki - UFRC,2
+12615,12615,Government of Egypt - Jund al-Islam,1
+12616,12616,Government of India - SGIMA,1
+12617,12617,Government of Central African Republic - Front for the Restoration of Unity and Democracy in the Central African Republic,1
+12618,756,Government of Hyderabad - CPI,1
+12619,12619,Government of Japan - Revolutionary Workers' Council (Kakurokyo),2
+12620,12620,Comanchero - Hells Angels,2
+12621,12621,Chechens in Kazakhstan - Kazakhs in Kazakhstan,2
+12622,12622,Ambrym Islanders - Tannese Islanders,2
+12623,12623,Forces of Asif Khan - Forces of Maulana Hanfi,2
+12624,12624,GLF - Civilians,3
+12625,12625,GLF - MEF,2
+12627,12627,Government of Burundi - FNL-Rwasa,1
+12628,12628,Government of Tanzania - Al-Shabaab,1
+12630,12630,Government of Fiji - Civilians,3
+12631,12631,Government of Turkmenistan - Civilians,3
+12632,12632,Government of Fiji - Forces of George Speight,1
+12633,12633,Government of Tanzania - Ansar Sunnah,1
+12634,12634,Government of Bangladesh - Supporters of Jamaat-e-Islami,1
+12635,12635,Amigos dos Amigos - Comando Vermelho,2
+12636,12636,"Supporters of Awami League - Supporters of BNP, Supporters of Jamaat-e-Islami",2
+12637,12637,Supporters of Awami League - Supporters of Hefajat-e-Islam,2
+12638,12638,Government of Sudan - Forces of Gatluak Gai,1
+12639,12639,Government of South Sudan - Forces of Gatluak Gai,1
+12640,12640,Government of Bangladesh - Supporters of Hefajat-e-Islam,1
+12641,12641,Government of Sudan - Forces of David Yauyau,1
+12642,12642,Government of Sudan - Forces of Ulony Johnsson,1
+12643,12643,Government of Sudan - Forces of Gabriel Tang,1
+12644,12644,Government of Sudan - Forces of Gordon Kong,1
+12645,12645,Government of Sudan - LJM,1
+12646,12646,Government of Brazil - MST,1
+12647,12647,MST - Land-owners,2
+12648,12648,Jorge Luiz gang - Parazao gang,2
+12649,12649,Dote gang - Murilo gang,2
+12650,12650,Ansarullah Bangla Team - Civilians,3
+12651,12651,Comando Vermelho - Comando Vermelho Jovem,2
+12652,12652,Government of Bangladesh - Supporters of BNP,1
+12653,12653,Comando Vermelho Jovem - Terceiro Comando,2
+12654,12654,Barriga gang - Sujeirinha gang,2
+12655,12655,Government of Bangladesh - Myanmar Communist Party,1
+12656,12656,PCJSS - UPDF,2
+12657,12657,Government of Afghanistan - Forces of Jan Mohammad,1
+12658,12658,Government of Afghanistan - Mahaz-e Feda'ee-ye Tahreek-e Eslami Afghanistan,1
+12660,12660,Government of India - Mahaz-e Feda'ee-ye Tahreek-e Eslami Afghanistan,1
+12661,12661,Panjwayi residents - Taleban,2
+12662,12662,Forces of Abdol Hadi  - Forces of Mullah Esmatollah,2
+12663,12663,Rabat residents - Taleban,2
+12664,12664,Forces of Besmellah - Forces of Ghawsodin,2
+12665,12665,Forces of Mir Gol - Forces of Nabi,2
+12666,12666,Forces of Habibollah  - Forces of Mohammad Shah,2
+12667,12667,Garimpeiros - Tumucumaque Indians,2
+12668,12668,Cinta Larga Indians - Garimpeiros,2
+12669,12669,Amigos dos Amigos - Terceiro Comando,2
+12670,12670,Government of Brazil - Amigos dos Amigos,1
+12671,12671,Government of Ivory Coast - Supporters of Laurent Gbagbo,1
+12672,12672,Defenders of National Sovereignty - Civilians,3
+12673,12673,Kuki National Front- Military Council (KNF-MC) - Civilians,3
+12674,12674,Kuki National Front-Samuel (KNF-S) - Civilians,3
+12675,12675,Kuki National Front-Zougam (KNF-Z) - Civilians,3
+12676,12676,Venkatapuram Local Guerrilla Squad - Civilians,3
+12677,12677,Telangana Janavimukti Sena (TJS) - Civilians,3
+12678,12678,Jarawa Tribe - Civilians,3
+12679,12679,Government of China - Uighur,1
+12680,12680,Government of Congo - Forces of Marcel Tsourou,1
+12681,12681,ANVC-B - GNLA,2
+12682,12682,ANVC - GNLA,2
+12683,12683,Jalisco Cartel New Generation - Los Aliados,2
+12684,12684,Government of Bangladesh - KRA,1
+12685,12685,Supporters of PAN - Supporters of PRI,2
+12686,821,Government of Syria - FSA,1
+12687,12687,Al-Seraji tribe  - Da'an tribe,2
+12688,12688,Ansar al-Sunna - IS,2
+12689,12689,Kabwum settlers - Civilians,3
+12690,12690,Gang of Patrick Sira - Civilians,3
+12691,12691,PAD supporters - pro government demonstrators,2
+12692,12692,Muzers tribe - Yao tribe,2
+12693,12693,Comando Vermelho - Terceiro Comando Puro,2
+12694,12694,Amigos dos Amigos - Terceiro Comando Puro,2
+12695,12695,Government of Brazil - Terceiro Comando Puro,1
+12696,12696,"Borana - Burji, Gabra",2
+12697,12697,La Union de Insurgentes - La Union de Tepito,2
+12698,12698,Government of United States of America - Al-Qaida in Yemen,1
+12699,12699,Government of Guatemala - Guayo Cano gang,1
+12700,12700,"Kolo Ipiwin, Kolo Jigenia, Meki, Under Luni - Kolo Kongu",2
+12701,12701,Autodefensas Unidas de Michoacn - Los Caballeros Templarios,2
+12702,12702,Los Caballeros Templarios - Tancitaro self-defense group,2
+12703,12703,Al-Maraziq - Al-Saida,2
+12704,12704,Supporters of CPN-M - Supporters of NC,2
+12705,12705,Supporters of CPN-M - Supporters of CPN-UML,2
+12706,12706,Supporters of CPN-UML - Supporters of MRJP,2
+12707,12707,Government of Nepal - YF,1
+12708,12708,Jund al-Sham Organization - Civilians,3
+12709,12709,Government of Qatar - Jund al-Sham Organization,1
+12710,12710,Government of Kuwait - Peninsula Lions,1
+12711,12711,Government of Kuwait - The Brigade of martyr Fawaz al-Oteibi,1
+12712,12712,Gulf Cartel - Ramirez Trevio faction - Gulf Cartel - Villareal faction,2
+12713,12713,Government of Jordan - Ansar al-Islam,1
+12714,12714,"Fulani, Hausa - Yoruba",2
+12715,12715,Agege - Odimodi,2
+12716,12716,Supporters of Democratic Party Albania - Supporters of Socialist Party Albania,2
+12717,12717,Anaguta - Fulani,2
+12718,12718,La Mochomera - Sinaloa Cartel,2
+12719,12719,Supporters of Ibrahim Idris - Supporters of Abubakar Audu,2
+12720,12720,Government of Nepal - JTMM-Prithvi,1
+12721,12721,CPN-UML - JTMM-JS,2
+12722,12722,Chala - Fulani,2
+12723,12723,Supporters of BJP - Civilians,3
+12724,12724,Government of Malaysia - Al-Ma'unah,1
+12725,12725,Indian (Malaysia) - Malay,2
+12726,12726,Deewell - NDV,2
+12727,12727,Government of Nigeria - FNDIC,1
+12728,12728,NDV - Outlaws,2
+12729,12729,"NDSF, PLF - Outlaws",2
+12730,12730,Government of Nigeria - Outlaws,1
+12731,12731,NDSF - Outlaws,2
+12732,12732,Government of Solomon Islands - IFM,1
+12733,12733,Government of Solomon Islands - Civilians,3
+12734,12734,Government of Solomon Islands - MEF,1
+12735,12735,IFM - Civilians,3
+12736,12736,Government of Saudi Arabia - al-Qaida,1
+12737,12737,Organization of the Free Residents of the Arabian Peninsula - Civilians,3
+12738,12738,Generation of Arab Fury - Civilians,3
+12739,12739,OPM-AW - OPM-HB,2
+12740,12740,Andafo - Lindima Kanosa,2
+12741,12741,"Unjamap - Tubiri, Wogia-Tunjup",2
+12742,12742,Nen - Sem,2
+12743,12743,Forces of Kalisto Geniufaria - GLF,2
+12744,12744,Government of Solomon Islands - GLF,1
+12745,12745,MEF - Civilians,3
+12746,12746,NSCN-K - Pakan Revolutionary Army (PRA),2
+12747,12747,Roripa - Yakare,2
+12748,12748,Government of India - UTLA,1
+12749,12749,Supporters of CPI-Marxist - Supporters of TMC,2
+12750,12750,Government of Iraq - Kateb Hezbollah,1
+12751,12751,Black Sharks - BRA,2
+12752,12752,PNG LNG - Tabu,2
+12753,12753,Imawe Bogasi - Pawale,2
+12754,12754,PLA - UNLF,2
+12755,12755,Marau Eagle Force - Civilians,3
+12756,12756,"Black Sharks, BRA - Civilians",3
+12757,12757,LCSF - Civilians,3
+12758,12758,Government of Solomon Islands - LCSF,1
+12759,12759,East Sepik - Watut,2
+12760,12760,Biyangai - Watut,2
+12761,12761,Supporters of New South Wales Blues - Supporters of the Queensland Maroons,2
+12762,12762,BLF - Civilians,3
+12763,12763,BKI - Civilians,3
+12764,12764,Government of Papua New Guinea - Kingdom of Meekamui,1
+12765,12765,Singwa - Sip,2
+12766,12766,Al-Qaeda - Estados Unidos,2
+12767,12767,RSS - Civilians,3
+13767,13767,"IS, Jabhat Fateh al-Sham (Nusra) - PYD",2
+13768,13768,Jabhat Fateh al-Sham (Nusra) - PYD,2
+13769,13769,"FSA, Jabhat Fateh al-Sham (Nusra), Mish'al at Tammu Brigade - PYD",2
+13770,13770,FSA - IS,2
+13771,13771,FSA - PYD,2
+13772,13772,"FSA, Jabhat Fateh al-Sham (Nusra) - Jabhat al-Akrad",2
+13773,13773,Government of Iran - KDP,1
+13774,13774,Government of Iran - Al-Haraka al-Islamiya,1
+13775,13775,Government of France - FPRC,1
+13777,13777,Government of Iran - PKK,1
+13778,13778,FPR-BL - RJ,2
+13779,13779,anti-Balaka - Muslims (CAR),2
+13780,13780,anti-Balaka - MISCA,2
+13781,13781,FPRC - Bororo,2
+13782,13782,Al-Umma - Civilians,3
+13783,13783,Ghanbarzehi  - Sarani,2
+13784,13784,Government of Indonesia - KMF,1
+13785,13785,Hmar - Kuki,2
+13786,13786,Dimasa  - Hmar,2
+13787,13787,"KRA, Kuki Liberation Army (KLA) - KNF-Prithvi",2
+13788,13788,Batak Protestant Church - Anti-Government Faction - Batak Protestant Church - Pro-Government Faction,2
+13789,13789,Government of Australia - Government of Indonesia,1
+13790,13790,"Abu al Fadhil al 'Abbas brigade, Hezbollah - Ahrar al-Sham, IS, Jabhat Fateh al-Sham (Nusra)",2
+13791,13791,IS - Jabhat al-Akrad,2
+13792,13792,"Jabhat al-Akrad, PYD - IS, Jabhat Fateh al-Sham (Nusra)",2
+13793,13793,al-Tawhid Brigade  - PYD,2
+13794,13794,"FSA, IS - PYD",2
+13795,13795,"al-Tawhid Brigade , Salahadin Brigade, Yusuf al-Azimi Brigade - PYD",2
+13796,13796,"Islamic Kurdish Front, Ahfad al Rasoul Brigade, Ahrar al-Sham, IS, Jabhat Fateh al-Sham (Nusra) - PYD",2
+13797,13797,FSA - National Defence Army,2
+13798,13798,"Ahrar al-Sham, al-Tawhid Brigade , IS, Jabhat Fateh al-Sham (Nusra) - PYD",2
+13799,13799,Azadi - PYD,2
+13800,13800,Ahrar al-Sham - PYD,2
+13801,13801,IS - PYD,2
+13802,13802,Kurdish Union Party - PYD,2
+13803,13803,PYD - Sharabiyin tribe,2
+13804,13804,al-Tawhid Brigade  - PKK,2
+13805,13805,PYD - Supporters of Azadi,2
+13806,13806,Ahrar al-Sham - IS,2
+13807,13807,Ghuraba al-Sham - IS,2
+13808,13808,Ghuraba al-Sham - Judicial Council,2
+13809,13809,FSA - al-Tawhid Brigade,2
+13810,13810,al-Qa'qa Regiment - FSA,2
+13811,13811,Abu Wa'el Brigade - IS,2
+13812,13812,Ahfad al Rasoul Brigade - IS,2
+13813,13813,IS - Jabhat Fateh al-Sham (Nusra),2
+13814,13814,FSA - Islamic Front,2
+13815,13815,"al-Farouq Battalions, Nasr Battalion - IS",2
+13816,13816,FSA - Jabhat Fateh al-Sham (Nusra),2
+13817,13817,Jabhat Fateh al-Sham (Nusra) - Popular Committees,2
+13818,13818,Damascus Capital of the Umayyad Brigade - National Defence Army,2
+13819,13819,National Defence Army - Omar al-Farouq Brigade,2
+13821,13821,Government of Syria - PYD,1
+13822,13822,Black Cobras - Hells Angels,2
+13823,13823,Government of Germany - RAF,1
+13824,13824,East Berlin's squatter movement - Neo-Nazis,2
+13825,13825,Ndrangheta - Pelle Romeo clan - Ndrangheta - Strangio-Nirta clan,2
+13826,13826,RAF - Civilians,3
+13827,13827,Government of France - Cuncolta Naziunalista,1
+13828,13828,Government of France - FLNC Corsica,1
+13829,13829,Government of France - FLNKS,1
+13830,13830,ANC Corsica - Cuncolta Naziunalista,2
+13831,13831,Cuncolta Naziunalista - MPA Corsica,2
+13833,13833,ARB - Civilians,3
+13834,13834,Government of Greece - May First,1
+13835,13835,Government of Greece - November 17,1
+13836,13836,Government of Greece - Rebel Sect,1
+13837,13837,Supporters of AEK - Supporters of Olympiakos,2
+13838,13838,November 17 - Civilians,3
+13839,13839,Revolutionary Nucleus - Civilians,3
+13840,13840,Carbonaro-Dominante Mafia family - Civilians,3
+13841,13841,Red Brigades - Civilians,3
+13842,13842,Camorra - Civilians,3
+13843,13843,Government of Argentina - Seineldin faction,1
+13844,13844,Government of Argentina - MTP,1
+13845,13845,Al-Badir Shi'i Organization - IS,2
+13846,13846,Government of Kyrgyzstan - IMU,1
+13847,13847,Government of Philippines - Seva Brothers,1
+13848,13848,Colombian loggers - Huaorani,2
+13849,13849,Government of Guyana - Government of Venezuela,1
+13850,13850,"Kyrgyz - Russian, Turk",2
+13851,13851,Supporters of Interim Government - Supporters of Bakiyev,2
+13852,13852,BIFM - MNLF,2
+13853,13853,Government of Malaysia - ASG,1
+13854,13854,Ata- Manobo tribe - CPP,2
+13855,13855,CGT - CTA,2
+13856,13856,Matthew's Lane gang - Tel Aviv gang,2
+13857,13857,supporters of NDP - Supporters of LNU,2
+13858,13858,Government of Jamaica - Civilians,3
+13859,13859,Los Rastrojos - Los Urabeos,2
+13860,13860,FARC - Los Urabeos,2
+13861,13861,Government of Saint Kitts and Nevis - Civilians,3
+13862,13862,Government of Saint Lucia - Civilians,3
+13863,13863,Government of Colombia - Che Guevara Battalion,1
+13864,13864,Government of Colombia - AUC,1
+13865,13865,Government of Colombia - ERP,1
+13866,13866,Government of Chile - FADLC,1
+13869,13869,"AUC - ELN, FARC",2
+13870,13870,ELN - FARC,2
+13871,13871,Las Aguilas - Rastrojo,2
+13872,13872,"ELN, FARC - Civilians",3
+13873,13873,Government of Israel - DFLP,1
+13874,13874,Government of Israel - PA,1
+13875,13875,Government of Israel - Al-Qaida in Palestine,1
+13876,13876,Government of Israel - Army of Islam,1
+13877,13877,Government of Israel - Imad Mughniyya Brigades,1
+13878,13878,Babakarkhel - Kochi,2
+13879,13879,Forces of Abdul Ghaffar - Forces of Mohammad Yaqub Barakzai,2
+13880,13880,Jaysh al-Moslemin - Civilians,3
+13881,13881,Hizb-e Azadi-ye Afghanistan - Junbish-i Milli-yi Islami,2
+13882,13882,Government of Israel - Freedom Flotilla Martyrs,1
+13883,13883,Government of Paraguay - OCN,1
+13884,13884,Government of Israel - Ship to Gaza,1
+13885,13885,Arabs (Israel) - Jews (Israel),2
+13886,13886,PNA - PRC,2
+13887,13887,As-Sindi family - PNA,2
+13888,13888,Fatah - PNA,2
+13889,13889,Dugmush clan - Hamas,2
+13890,13890,Government of Iraq - al-Faruq Brigades,1
+13891,442,Government of Iraq - al-Mahdi Army,1
+13892,13892,Government of Iraq - Armed Islamic Movement for Al Qaeda - Fallujah Branch,1
+13893,13893,Government of Iraq - Fedayeen,1
+13894,13894,Abu Taha family - Al-Masri family,2
+13895,13895,Hamas - Hillis clan,2
+13896,13896,Fatah - Matariyah family,2
+13897,13897,Al-Majayda clan - Hamas,2
+13898,13898,Government of Indonesia - UNTAET,1
+13899,13899,Hamas - Jund Ansar Allah,2
+13900,13900,Hamas - PNA,2
+13902,13902,Ahrar Al Jalil Brigades - Civilians,3
+13903,13903,IS - The Mosul Battalions,2
+13904,13904,IS - PKK,2
+13905,13905,Government of Honduras - FMLN,1
+13906,13906,gang 1 - gang 2,2
+13907,13907,FMLN - ARENA,2
+13908,13908,Government of Iraq - Green Brigade of the Prophet,1
+13909,13909,Kurds (Iraq) - Arab tribes loyal to Saddam Hussein,2
+13910,13910,Arabs (Iraq) - Kurds (Iraq),2
+13911,13911,Kurds (Iraq) - Turkmen (Iraq),2
+13912,13912,Abdul Majid al-Khoei - Jimaat-e-Sadr Thani,2
+13913,13913,Jimaat-e-Sadr Thani - Supporters of Ayatollah Ali al-Sistani,2
+13914,13914,Ansar al-Islam - KDP,2
+13915,13915,Arabs (Iraq) - Turkmen (Iraq),2
+13916,13916,Al-Badir Shi'i Organization - SCIRI,2
+13917,13917,IS - SCIRI,2
+13918,13918,IS - Salvation Movement,2
+13919,13919,Jaish Mohammed - Civilians,3
+13920,13920,Planning and Follow-up organization - Civilians,3
+13921,13921,Abu-Bakr al-Siddiq Salafist Brigades - Civilians,3
+13922,13922,Jihadist Martyrs Brigades in Iraq - Civilians,3
+13923,13923,Jihadist Earthquake Brigades - Civilians,3
+13924,13924,Islamic Movement of Iraqi Mujahideen - Civilians,3
+13925,13925,IS - Yazidis (Iraq),2
+13926,13926,Ansarallah - Daham tribe,2
+13927,13927,Ansarallah - Hashid tribe,2
+13928,13928,Ansarallah - Sadiq al-Ahmar tribe,2
+13929,13929,Ansarallah - Arhab tribe,2
+13930,13930,supporters of Sharif Hassan Sheikh Aden - supporters of Madobe Nunow Mohamed,2
+13931,13931,Government of Afghanistan - Lashkar-e-Taiba,1
+13932,13932,Al-Qadri tribe - Al-Sharbah tribe,2
+13933,13933,Government of Iraq - Abu Bakr al-Seddiq al-Salafiya (Salafist) Brigades,1
+13934,13934,Government of Iraq - Al-Jihad Brigades,1
+13935,13935,Ansar al-Islam - Saad bin Abi Waqqas Brigade,2
+13936,13936,Government of Iraq - Imam Hussein Brigades,1
+13937,13937,Government of Iraq - Iraqi Resistance General Command,1
+13938,13938,Government of Iraq - Mujahidin Army,1
+13939,13939,Government of Iraq - Takfir wa Hijra,1
+13940,13940,IS - KDP,2
+13941,13941,Al-Hallaf tribe - Al-Karamshah tribe,2
+13942,13942,Albu-Mehel tribe - Karabilah tribe,2
+13943,13943,al-Mahdi Army - Civilians,3
+13944,13944,al-Mahdi Army - SCIRI,2
+13945,13945,Brigades of Imam al-Hassan al-Basri - Civilians,3
+13946,13946,Islamic Front for Iraqi Resistance-Salah-al-Din al-Ayyubi Brigades - Civilians,3
+13947,13947,Baqiyyatallah Movement - Civilians,3
+13948,13948,Mansuru Ahl-al-Sunnah - Civilians,3
+13949,13949,Government of Panama - FARC,1
+13951,13951,Government of Iraq - Al-Rashidin Army,1
+13952,13952,Government of Iraq - al-Hasani forces,1
+13953,13953,Government of Iraq - Forces of Saddam Shihab,1
+13954,13954,al-Mahdi Army - RJF,2
+13955,13955,al-Mahdi Army - IS,2
+13956,13956,IS - PUK,2
+13957,13957,Iraqi Revenge Brigades - Civilians,3
+13958,13958,Imam Hussein Brigades - Civilians,3
+13959,13959,Swords of Righteousness - Civilians,3
+13960,13960,M-20 - Civilians,3
+13961,13961,Government of United States of America - M-20,1
+13962,13962,'Yandaba' cult group of Dutse Hausa - Dutse-Gwari cult,2
+13963,13963,Government of Iraq - Jund al-Sama,1
+13964,13964,Government of Iraq - 1920 Revolution Brigades,1
+13965,13965,Government of Iraq - Government of Turkey,1
+13966,13966,Government of Iraq - League of the Righteous,1
+13967,13967,"Government of Poland - Imam Hussein Brigades, Imam Moussa al-Kadhim Brigades",1
+13968,13968,Government of Iraq - Leagues of the people of Right,1
+13969,13969,Government of Iraq - Forces of Qais al-Khazali,1
+13970,13970,al-Mahdi Army - Ansar al-Islam,2
+13971,13971,PJAK - PUK,2
+13972,13972,Bani-Malik tribe - Furayjat tribe,2
+13973,13973,Haria Village (Ambon) - Porto Village (Ambon),2
+13974,13974,Government of Iraq - Hamas al-Iraq,1
+13975,13975,Government of Iraq - Revenge of God,1
+13976,13976,Forces of Haydar Mehdi Khadum Al-Fawadi  - Civilians,3
+13977,13977,Turkoman Front - Civilians,3
+13978,13978,Ahrar al-Iraq - Civilians,3
+13979,13979,Government of Iraq - Government of United States of America,1
+13980,13980,Government of Iran - Ansar al-Islam,1
+13982,13982,Government of Iraq - The Dirty Squad,1
+13983,13983,Government of Iraq - Sahwa,1
+13984,13984,Government of Iraq - MKO,1
+13985,13985,PKK - PKK faction,2
+13986,13986,Christians (Iraq) - Shia (Iraq),2
+13987,13987,Ngas - Pai,2
+13988,13988,Government of Iraq - Kurdish Freedom Party,1
+13989,13989,Government of Iraq - SPKI,1
+13990,13990,Government of Iraq - KMA,1
+13991,13991,Government of Iraq - Movement of the Sons of the Armed Dulaym Tribes',1
+13992,13992,Government of Iraq - INC,1
+13993,13993,Government of Iraq - INSM,1
+13994,13994,Government of Iraq - Islamic Amal organization of Iraq,1
+13995,13995,Government of Iraq - INA,1
+13996,13996,Government of Iraq - ICP,1
+13997,13997,Government of Iraq - IAOSO,1
+13998,13998,Government of Iraq - Islamic Unity Party of Iraq,1
+13999,13999,Government of Iraq - Government of Saudi Arabia,1
+14000,14000,Egyptians - Iraqis,2
+14001,14001,KDP - KSP,2
+14002,14002,Gbagyi - Hausa,2
+14003,14003,KDP - Surchi tribe,2
+14004,14004,CPIK - KDP,2
+14005,14005,Islamic Movement forces - KDP,2
+14006,14006,PCDK - PUK,2
+14007,14007,Government of Afghanistan - Forces of Padshah Khan Zadran,1
+14008,14008,Government of Indonesia - Jemaah Islamiya,1
+14009,14009,Fulani - Jukun,2
+14010,14010,Amumgne - Dani,2
+14011,14011,Government of Somalia - Forces of Shaykh Ahmad Madobe,1
+14012,14012,Supporters of PKB - Supporters of PPP,2
+14013,14013,Damal - Dani,2
+14014,14014,Kobagu - Sani,2
+14015,14015,Horale - Saleman,2
+14016,14016,Tribals/Villagers - CPI-Maoist,2
+14017,14017,Government of Djibouti - Al-Shabaab,1
+14018,14018,Harakat-i Inqilab-i Islami-yi Afghanistan  - Hizb-i Islami-yi Afghanistan,2
+14019,14019,Hasanuddin - Civilians,3
+14020,14020,JI - Noordin - Civilians,3
+14021,14021,Al Hajer tribe - Al Odaiban tribe,2
+14022,14022,"Harakat-i Islami-yi Afghanistan, Hizb-i Wahdat - Civilians",3
+14023,14023,al-Qaida  - UIFSA,2
+14024,14024,Al-Butahif tribe - Belhareth tribe,2
+14025,14025,Forces of Jalalabad shura - The Oppressed,2
+14026,14026,Forces of Agung Abdul Hamid - Civilians,3
+14027,14027,Forces of Sayed Mansur Naderi - UIFSA,2
+14028,14028,Al-Qanis tribe - Al-Zaidi tribe,2
+14029,14029,CPI-Maoist - JKP,2
+14030,14030,Government of Nigeria - BZF,1
+14031,14031,One Million Boys - Civilians,3
+14033,14033,Jaish al-Adl - Jaish Al-Nasr,2
+14034,14034,Junbish-i Milli-yi Islami - Taleban,2
+14035,14035,Government of Egypt - Al-Tawhid and Jihad group,1
+14036,14036,Supporters of APC - Supporters of PDP,2
+14037,14037,ANLA - Civilians,3
+14038,14038,Government of Egypt - Muslim Brotherhood (Egypt),1
+14039,14039,Ansar Bayt al-Maqdis - Civilians,3
+14040,14040,Government of Egypt - Ansar al-Shariah Brigades,1
+14041,14041,FDC - FDDH,2
+14042,14042,Government of Egypt - Ajnad Misr,1
+14043,14043,GNLA - UALA,2
+14044,14044,Bani Hilal - Nubian Dabudiya,2
+14045,14045,Government of India - ANLA,1
+14046,14046,Government of India - UNELA,1
+14047,14047,Government of India - ASAK,1
+14048,14048,Israeli settlers - Palestinian insurgents,2
+14049,14049,CURC - Civilians,3
+14050,14050,"Fulani, Hausa - Jukun",2
+14051,14051,AMEF - GNLA,2
+14052,14052,AMEF - Civilians,3
+14053,14053,al-Toubou  - Awlad Suleiman,2
+14054,14054,Government of Libya - Martyrs of Qatrun Brigade,1
+14055,14055,Government of Libya - Islamic State Army,1
+14056,14056,Government of DR Congo (Zaire) - Nyatura,1
+14057,14057,Government of DR Congo (Zaire) - UNAFEC,1
+14058,14058,FDLR - FDLR-RUD,2
+14059,878,Government of Libya - Forces of the House of Representatives,1
+14060,14060,Government of Congo - Patriots-Resistance of Dongo or Enyele or Independent Movement of Liberation and Allies (MILIA),1
+14061,14061,Benghazi Revolutionaries Shura Council - Forces of the House of Representatives,2
+14062,14062,Government of Nicaragua - Recontras,1
+14063,14063,Recontras - Civilians,3
+14064,14064,"Government of Nicaragua - Recompas, Recontras",1
+14065,14065,Mahaz-e Feda'ee-ye Tahreek-e Eslami Afghanistan - Civilians,3
+14066,14066,Al-Rafallah Sahati - Forces of the House of Representatives,2
+14067,14067,Government of Libya - Al-Rafallah Sahati,1
+14068,14068,Los Urabeos - Civilians,3
+14069,14069,Government of Nicaragua - FUAC,1
+14070,14070,Government of Nicaragua - Recompas,1
+14071,14071,Hizb-i Wahdat - Akbari faction - Jam'iyyat-i Islami-yi Afghanistan,2
+14072,14072,Government of Colombia - Los Urabeos,1
+14073,14073,Operations Cell of Libyan Revolutionaries - Zintan,2
+14074,14074,Government of Libya - Zintan,1
+14075,14075,Benghazi Revolutionaries Shura Council - Civilians,3
+14076,14076,Government of Sudan - SLM/A (AW),1
+14077,14077,UADC - Civilians,3
+14078,14078,NSCN-IM - UADC,2
+14079,14079,Adivasi - Naga,2
+14081,14081,All Adivasi National Liberation Army (AANLA) - NBPF,2
+14082,14082,Government of India - MNPF,1
+14083,14083,NDC - UPCP,2
+14084,14084,ULTA-Robert Singson - UTLA-SK Thadou,2
+14085,868,Government of Ukraine - Maidan,1
+14086,14086,Ertosi  - Pinyanisi,2
+14087,14087,Government of Nicaragua - Yatama,1
+14088,14088,Raia Mutomboki - Bravo - Raia Mutomboki - Makombo,2
+14089,14089,Recontras - FSLN Supporters,2
+14090,14090,Recontras - FSLN,2
+14091,14091,Recontras - Recompas,2
+14092,14092,Baluba - Batwa,2
+14093,14093,MNRP - Civilians,3
+14094,14094,FRF - PARC-FAAL,2
+14095,14095,FDLR - PARC-FAAL,2
+14096,14096,UKRA - Zomi Revolutionary Army (ZRA),2
+14097,14097,NDFB-S - Civilians,3
+14098,14098,PLI Supporters - FSLN Supporters,2
+14099,14099,PLC Supporters - FSLN Supporters,2
+14100,14100,PLC Supporters - APRE Supporters,2
+14101,14101,UNO Supporters - FSLN Supporters,2
+14102,864,Government of India - NDFB-S,1
+14103,14103,NRHPF - Civilians,3
+14104,14104,NSCA - Civilians,3
+14105,14105,FPI (Nicaragua) - Civilians,3
+14106,14106,NSLA - Civilians,3
+14107,14107,Government of India - KNLA,1
+14108,14108,Government of Chad - FPR-BL,1
+14109,14109,AFISM-CAR - anti-Balaka,2
+14110,14110,Government of India - SULFA,1
+14111,14111,Government of India - UPLA,1
+14112,14112,Government of India - KLLA,1
+14113,14113,Supporters of independence for Eastern Ukraine - Supporters of Ukrainian unity,2
+14114,14114,Supporters of independence for Eastern Ukraine - Right Sector,2
+14115,14115,Government of Uganda - FPRC,1
+14116,14116,MISCA - Muslims (CAR),2
+14117,14117,Government of Russia (Soviet Union) - Government of Ukraine,1
+14118,14118,Government of Ukraine - Right Sector,1
+14119,14119,Government of India - KLPF,1
+14120,14120,Government of Nicaragua - UNO Supporters,1
+14121,14121,FSLN Supporters - Contras/FDN,2
+14122,14122,Government of India - UPLF,1
+14123,14123,FUAC - Civilians,3
+14124,869,Government of Ukraine - DPR,1
+14125,14125,South Sudanese - Ugandans,2
+14126,14126,Government of Turkmenistan - Taleban,1
+14127,14127,anti-Balaka - Seleka,2
+14128,14128,FPRC - Seleka - AD,2
+14129,14129,anti-Balaka - MINUSCA,2
+14130,14130,Hizb-e Azadi-ye Afghanistan - Taleban,2
+14131,14131,Mahaz-e Feda'ee-ye Tahreek-e Eslami Afghanistan - Taleban,2
+14132,14132,BLA - BMDT,2
+14133,14133,Government of France - Seleka,1
+14134,873,Government of Sudan - SARC,1
+14136,14136,Ghaffar Zikri - Uzair Baloch,2
+14137,14137,"Anti-Balaka led by Koudmon `""Gbangouma"" - CLPC",2
+14138,14138,MISCA - RJ,2
+14139,14139,FPRC - RJ,2
+14140,14140,"Al-Qa'qa Battalion, Al-Sawa'iq Battalion - Tribes' army",2
+14141,14141,Government of Libya - Misrata fighters,1
+14142,14142,Government of Libya - Libya Dawn,1
+14143,14143,Government of Bahrain - Muqawama 'Resistance' Group,1
+14144,14144,Government of Iran - AQAP,1
+14145,14145,Government of Sudan - Popular Front of Sudan,1
+14146,14146,TTP - TTP-KM,2
+14147,14147,TTP-KM - TTP-SM,2
+14148,14148,Government of Colombia - Usuga Clan,1
+14149,14149,Government of Uganda - Dinka,1
+14150,872,Government of Sudan - Darfur Joint Resistance Forces,1
+14151,14151,Jatav - Thakur,2
+14152,14152,IS - JRTN,2
+14153,14153,AAH - IS,2
+14154,14154,Government of India - Communist Party of India (Marxist) (CPM),1
+14155,14155,ANLA - GNLA,2
+14156,14156,Aqtash - Taleban,2
+14157,14157,Government of Sudan - JEM - Bashar,1
+14158,14158,al-Murabitun - Civilians,3
+14159,14159,al-Murabitun - CMA,2
+14160,14160,Jund al-Khilafah - Civilians,3
+14162,14162,Arab - UNAMID,2
+14163,14163,ANLCA - Civilians,3
+14164,14164,Maguindanaon - Teduday,2
+14165,14165,Forces of Kagui Said (MILF) - Forces of Mohammad Batuh (MILF),2
+14166,14166,Government of Algeria - Jund al-Khilafah,1
+14167,14167,Ilchamus - Pokot,2
+14168,14168,Bagumbayan - BIFM,2
+14170,14170,Concepcion Gang  - Civilians,3
+14171,14171,Government of France - GIA,1
+14172,14172,Nandi - Luhya,2
+14173,14173,Government of Philippines - KIM,1
+14174,14174,Forces of Ammanoddin  - Forces of Mohammad Ali,2
+14175,14175,MDF - SPLM/A In Opposition,2
+14176,14176,MDF - Civilians,3
+14177,14177,Government of Pakistan - Abdullah Azzam Brigades,1
+14179,14179,Maachi tribe - Peecho tribe,2
+14180,14180,DPR - Civilians,3
+14181,14181,Sons of Allah or Protection of the Islamic Religion - Civilians,3
+14182,14182,Government of United States of America - Lashkar-e-Islam,1
+14183,14183,Orakzai Freedom Movement - Tehrik-i-Taleban Islami Pakistan,2
+14184,14184,Government of Ukraine - LPR,1
+14185,14185,Supporters of Ahmad Murghabi - Taleban,2
+14186,14186,Supporters of Anant Singh - Supporters of Surajbhan Singh,2
+14187,14187,Government of Pakistan - Ghaffar Zikri,1
+14188,14188,Al-Shabaab - Farmers in Baradaale village,2
+14189,14189,Jaish-ul-Islam - Civilians,3
+14190,14190,Forces of Iftin Hasan Baasto - militias loyal to Barre Hiiraale,2
+14191,14191,Government of Pakistan - PAT,1
+14192,14192,Kipsigis tribesmen - Luo,2
+14193,14193,Government of Somalia - forces of Ahmed Dai,1
+14194,14194,Kok Awac - Kok Keer,2
+14195,14195,Government of United States of America - Punjabi Taleban,1
+14196,14196,IS - Various Syrian rebels,2
+14197,14197,Government of South Sudan - Pakam pastoralist youth,1
+14198,14198,Government of Saudi Arabia - AQAP,1
+14199,14199,LPR - Civilians,3
+14200,14200,Syrian insurgents - Civilians,3
+14201,14201,Maasai - Somali (Kenya),2
+14202,14202,Bakonzo - Basongora,2
+14203,14203,Government of Pakistan - TTP-KM,1
+14204,14204,FDLR-RUD - Civilians,3
+14205,14205,Kurdish rebels - Syrian rebels,2
+14206,14206,UBF - Civilians,3
+14207,870,Government of Lithuania - LPR,1
+14209,14209,Muslims (India) - Sikhs (India),2
+14210,871,Government of Ukraine - United Armed Forces of Novorossiya,1
+14211,14211,Grand Theft Auto / Jaamat - Civilians,3
+14212,14212,Government of DR Congo (Zaire) - JUFERI,1
+14213,14213,Hindu Rashtra Sena - Civilians,3
+14214,14214,"Ansarallah - Forces of General Ali Mohsen al-Ahmar, Supporters of Islah party",2
+14215,14215,Government of Pakistan - Government of Iran,1
+14216,14216,Supporters of BJP - Supporters of TMC,2
+14217,14217,Iregwe - Rukuba,2
+14218,14218,Government of Armenia - Dashnak,1
+14219,14219,Government of South Sudan - Agar Dinka,1
+14220,14220,Jharkhand Janmukti Parishad (JJP) - Tritiya Prastuti Committee (TPC),2
+14221,14221,Adamawa hunters - Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,2
+14222,14222,Eggon - Kambari,2
+14223,14223,Supporters of PML - Supporters of PTI,2
+14224,14224,Government of Pakistan - Supporters of PTI,1
+14225,14225,Supporters of Telugu Desam Party - Supporters of YSRCP,2
+14226,14226,Erunmu community - Lalupon community,2
+14227,875,Government of Pakistan - Jamaat-ul-Ahrar,1
+14228,14228,Government of Azerbaijan - Forest Brothers Azerbaijan,1
+14229,14229,Buddhists (Malaysia) - Muslims (Malaysia),2
+14230,14230,ASWJ - SSP,2
+14231,14231,Government of Kyrgyzstan - JIG,1
+14232,14232,Rom Sai Foundation ambulance crew - Por Tek Tung Foundation ambulance crew,2
+14233,14233,Government of Cameroon - FDPC,1
+14234,14234,Rizeigat arab tribe - SRF,2
+14235,14235,Government of Malaysia - Mamak gang,1
+14236,14236,Government of Kyrgyzstan - Government of Tajikistan,1
+14237,14237,Hezbollah - IS,2
+14238,14238,Hezbollah - Al-Nusra Front in Lebanon,2
+14240,14240,PLFI - Shanti Sena,2
+14241,14241,Government of Pakistan - ETIM,1
+14242,14242,Government of Lebanon - Liwa Ahrar al-Sunna in Baalbek,1
+14243,14243,SARC - Civilians,3
+14244,876,Government of Lebanon - IS,1
+14245,14245,Khazam - Misseriya,2
+14246,14246,Government of Sudan - Arab,1
+14247,14247,Government of Sudan - Ma'aliyah,1
+14248,14248,Gimir - Rizeigat Abbala,2
+14249,879,Government of Libya - Zintan Brigades,1
+14250,14250,Libya Shield - Sa'iqah Special Forces,2
+14251,14251,Libya Dawn - Zintan Brigades,2
+14252,14252,Dani - Timika,2
+14253,14253,MIT - Civilians,3
+14254,14254,Government of Libya - al-Toubou,1
+14256,14256,Government of Honduras - Espinoza gang,1
+14257,14257,FPRC - LRA,2
+14258,14258,Rakhine (Myanmar) - Rohingya (Myanmar),2
+14259,14259,Government of Honduras - Mara 18 (Honduras),1
+14260,14260,Government of Myanmar (Burma) - MHH,1
+14261,14261,FPRC - MINUSCA,2
+14262,14262,ex-Seleka (Fulani ethnic group)  - ex-Seleka (Goula ethnic group),2
+14263,14263,"anti-Balaka, RJ - FPRC",2
+14264,14264,RJ - Civilians,3
+14265,14265,Government of India - Taleban,1
+14266,14266,Opponents of President Joyce Banda - Supporters of President Banda,2
+14267,14267,Government of Gambia - Military faction (forces of Lamin Sanneh),1
+14268,14268,Buddhists (Sri Lanka) - Muslims (Sri Lanka),2
+14269,14269,Kii tribe - Talyulu tribe,2
+14270,14270,Ambusi tribe  - Paipan clan,2
+14271,14271,Kal tribe  - Kii tribe,2
+14272,14272,"Bimoba - Konkomba, Mamprusi",2
+14273,881,Government of Myanmar (Burma) - PSLF,1
+14274,14274,Christians (CAR) - FPRC,2
+14275,14275,GNLA - ULFA-I,2
+14276,14276,anti-Balaka - Operation Sangaris France?,2
+14277,14277,FPRC - Operation Sangaris France?,2
+14278,14278,ASAK - Civilians,3
+14279,14279,Followers of Arabul Islam - Supporters of Satyajit Mondal,2
+14284,14284,villagers of Oppele - villagers of Kiete and Miaba,2
+14285,14285,FALL - Civilians,3
+14286,14286,"Mayi Mayi Charles, Mayi Mayi Shetani - Civilians",3
+14287,14287,Hutu - Nande,2
+14288,14288,"Bafulero - Banyamulenge, Barundi",2
+14289,14289,Mayi Mayi Bede - Civilians,3
+14290,14290,RCD-ML  - RCD-ML-Lubanga,2
+14291,14291,RCD-ML  - Vurondo Mayi-Mayi,2
+14292,14292,Government of Azerbaijan - APF,1
+14293,14293,Anti Texas - Civilians,3
+14294,14294,Government of United States of America - DHKP-C,1
+14295,14295,Government of Mexico - Autodefensas Unidas de Michoacn,1
+14296,14296,URF-L - Civilians,3
+14297,14297,Adivasi - Bodo,2
+14298,14298,Bororo - RJ,2
+14299,14299,anti-Balaka - Anti-Balaka faction,2
+14300,14300,Government of India - AMEF,1
+14301,14301,Government of DR Congo (Zaire) - FNL-Ubugabo-Burihabwa,1
+14302,14302,Fulani - Owukpa,2
+14303,14303,Fulani - Umuachi-Afor community,2
+14304,14304,Communist Party of India (Marxist) (CPM) - RSS,2
+14305,14305,anti-Balaka - RJ,2
+14306,14306,FDLR - Mayi Mayi Simba (Jean Luc Yabili),2
+14307,14307,Government of DR Congo (Zaire) - Mayi Mayi Simba (Jean Luc Yabili),1
+14308,14308,Government of DR Congo (Zaire) - APLNC/Lumumba,1
+14309,14309,APLNC/Lumumba - Civilians,3
+14310,14310,Damal - Nduga,2
+14311,14311,Wainalut - Buru,2
+14312,14312,Bora - Watunonju,2
+14313,14313,Peresek - Pagutan,2
+14314,14314,Mayi Mayi (Kabale) - Civilians,3
+14315,14315,Mayi Mayi - Makabe - Civilians,3
+14316,14316,Government of DR Congo (Zaire) - Vurundo Mayi Mayi,1
+14317,14317,Guerreros Unidos - La Familia,2
+14318,14318,anti-Balaka - UPC (Ali Darass Fulani supporters),2
+14319,14319,Government of Pakistan - IS,1
+14320,14320,Government of Afghanistan - IS,1
+14321,14321,Government of India - AQIS,1
+14322,14322,Government of Myanmar (Burma) - AQIS,1
+14323,14323,Government of Bangladesh - AQIS,1
+14324,14324,Government of Afghanistan - AQIS,1
+14325,14325,AQIS - Civilians,3
+14326,14326,MINUSCA - UPC (Ali Darass Fulani supporters),2
+14327,14327,anti-Balaka - RPRC of Zoundeiko,2
+14328,14328,Government of United States of America - AQIS,1
+14329,14329,UPC (Ali Darass Fulani supporters) - Civilians,3
+14330,14330,Government of France - UPC (Ali Darass Fulani supporters),1
+14331,14331,Eggon - Gwandere,2
+14332,14332,Eggon - Hausa,2
+14333,14333,Gulf Cartel - Dragones de Sheyla faction - Gulf Cartel - Los Fresitas faction,2
+14334,14334,Supporters of Peoples' Conference (PC) - Supporters of Peoples' Democratic Party (PDP),2
+14335,14335,Government of Peru - SL-Quispe Palomino brothers,1
+14336,14336,Sinaloa Cartel - Los Chavez Matamoros faction - Sinaloa Cartel - Los Salgueiro faction,2
+14337,14337,Los Ardillos - Los Rojos,2
+14338,14338,Government of Afghanistan - LeJ,1
+14339,14339,Black Axe - VGN,2
+14340,14340,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - VGN,2
+14341,14341,IS - Islamic Front,2
+14342,14342,IS - SRF (Syria),2
+14343,14343,Islamic Front - SRF (Syria),2
+14344,14344,IS - Mujahideen Army,2
+14347,14347,Jabhat Fateh al-Sham (Nusra) - SRF (Syria),2
+14348,14348,"IS - Islamic Front, Mujahideen Army, SRF (Syria)",2
+14349,14349,Harkat Hazm - Jabhat Fateh al-Sham (Nusra),2
+14350,14350,Supporters of PRD - Supporters of PRI,2
+14351,14351,Supporters of PRI - Supporters of PRT,2
+14352,14352,San Martin Itunyoso residents - Santo Domingo Ixcatlan residents,2
+14353,14353,Sinaloa Cartel - Tijuana Cartel,2
+14354,14354,San Baltazar Chichicapam villagers - San Nicolas Yaxe villagers,2
+14355,14355,"IS, Islamic Front, Jabhat Fateh al-Sham (Nusra) - PYD",2
+14356,14356,San Lorenzo Texmelucan villagers - Santo Domingo Teojomulco,2
+14357,14357,Supporters of Jesus Tolentino - Supporters of La Loba,2
+14358,14358,"IS - Islamic Battalions, Jabhat Fateh al-Sham (Nusra)",2
+14359,14359,Hezbollah - Islamic Front,2
+14360,14360,"IS - Islamic Battalions, Jabhat al-Akrad",2
+14361,14361,"IS - Islamic Front, Jabhat al-Akrad, Jabhat Fateh al-Sham (Nusra), Mujahideen Army",2
+14362,14362,San Isidro residents -  San Miguel Aloapan residents,2
+14363,14363,El Ocotal residents - Santa Cruz Condoy residents,2
+14364,14364,"IS - IS, Islamic Front, Jabhat Fateh al-Sham (Nusra)",2
+14365,14365,"Hezbollah - IS, Islamic Front, Jabhat Fateh al-Sham (Nusra)",2
+14366,14366,IS - Islamic Battalions,2
+14367,14367,"Hezbollah - Islamic Battalions, Jabhat Fateh al-Sham (Nusra)",2
+14368,14368,"Abu al Fadhil al 'Abbas brigade - Islamic Battalions, Jabhat Fateh al-Sham (Nusra)",2
+14369,14369,"IS - Islamic Front, Jabhat Al-Kurd brigade, Jabhat Fateh al-Sham (Nusra), Mujahideen Army",2
+14370,14370,"Abu al Fadhil al 'Abbas brigade - IS, Islamic Front, Jabhat Fateh al-Sham (Nusra)",2
+14371,14371,Jabhat Fateh al-Sham (Nusra) - Mujahideen Army,2
+14372,14372,"Jabhat Fateh al-Sham (Nusra), Jund al-Aqsa - SRF (Syria)",2
+14373,14373,Supporters of EZLN - Supporters of PRI,2
+14374,14374,"IS - Islamic Front, Jabhat Fateh al-Sham (Nusra)",2
+14375,14375,FSA - Jabhat al-Asala wal Tanmiya,2
+14376,14376,SRF (Syria) - Civilians,3
+14377,2100,PYD - Civilians,3
+14378,14378,"IS - Jabhat Fateh al-Sham (Nusra), SRF (Syria)",2
+14379,14379,"IS - Islamic Front, Mujahideen Army",2
+14380,14380,Al-Rastan Martyrs Regiment - IS,2
+14381,14381,Khaider Khil  - Worza,2
+14382,14382,Government of United States of America - Ansar al-Islam,1
+14383,14383,Government of Egypt - Supporters of Morsi,1
+14384,14384,Government of Egypt - Opponents of Mubarak,1
+14385,14385,Government of Egypt - Supporters of Mubarak,1
+14386,14386,Government of Egypt - Opponents of Supreme Council of the Armed Forces,1
+14387,14387,Government of Egypt - Opponents of Morsi,1
+14388,14388,Government of Yemen (North Yemen) - Opponents of Saleh,1
+14389,14389,Forces of El Pepino - Sinaloa Cartel,2
+14390,14390,Cartel Independiente de Acapulco - La Familia,2
+14391,14391,San Juan Mixtepec residents - Santo Domingo Yosoama residents,2
+14392,14392,MRTA - Sendero Luminoso,2
+14393,14393,"IS - Islamic Front, Jabhat Fateh al-Sham (Nusra), Mujahideen Army",2
+14394,14394,IS - Syrian Revolutionary Command Council,2
+14395,14395,"IS - Jabhat Fateh al-Sham (Nusra), Syrian Revolutionary Command Council",2
+14396,14396,"IS - FSA, Islamic Front, Jabhat Fateh al-Sham (Nusra)",2
+14397,14397,"IS - Islamic Front, Mujahideen Army, PYD, SRF (Syria)",2
+14398,14398,Government of Zambia - Opponents of Kaunda,1
+14399,14399,Abu al Fadhil al 'Abbas brigade - IS,2
+14400,14400,IS - Islamic movement in Aqerbat,2
+14401,14401,"Abu al Fadhil al 'Abbas brigade - IS, Islamic Battalions",2
+14402,14402,Government of Israel - PLF,1
+14403,14403,Government of Israel - Fatah Uprising,1
+14404,14404,Government of Israel - LCP,1
+14405,14405,Government of Israel - Fatah Revolutionary Council,1
+14406,14406,Government of Israel - PSF,1
+14407,14407,Government of Israel - SSNP,1
+14408,14408,Government of Israel - Amal,1
+14409,14409,Government of Israel - Abu Rish Group,1
+14410,14410,Government of Israel - Munir Maqdah faction,1
+14411,14411,Government of Israel - Government of Lebanon,1
+14412,14412,Government of Israel - Islamic Revolutionary Army,1
+14413,14413,Government of Israel - Shebaa Liberation Brigades,1
+14414,14414,Government of Israel - al-Qaeda in Palestine,1
+14415,14415,al-Sa'adi family - al-Haj Hassan family,2
+14416,14416,Government of Togo - Opponents of Gnassingbe,1
+14417,14417,DFLP - Fatah,2
+14418,14418,PFLP - ALF,2
+14419,14419,PNA - PIJ,2
+14420,14420,PNA - Bilal al-Ghul Martyr Group,2
+14421,14421,Mussalam family - Fatah,2
+14422,14422,Forces of Muhammed Dahlan - Forces of Musa Arafan,2
+14423,14423,Palestinian clan 1 - Palestinian clan 2,2
+14424,14424,Abu Taha family - Abu-Hatab family,2
+14425,14425,PNA - al-Qaeda in Palestine,2
+14426,14426,Juweid family - Saqir family,2
+14427,14427,Fatah Uprising - Civilians,3
+14428,14428,Government of Burkina Faso - Opponents of Blaise Compaore,1
+14429,14429,Government of Thailand - Opponents of Krapayoon,1
+14430,14430,Beltrn Leyva Cartel - La Familia,2
+14431,14431,Tears of the Orphans - Civilians,3
+14432,14432,Government of Malawi - Opponents of Banda,1
+14433,14433,Catholic Traditionalists - Evangelical Christians,2
+14434,14434,DFLP - Civilians,3
+14435,14435,Imad Mughniyya Brigades - Civilians,3
+14436,14436,Bilal al-Ghul Martyr Group - Civilians,3
+14437,14437,Eyal - Civilians,3
+14438,14438,Keepers of the Holy Land Group - Civilians,3
+14439,14439,Palestinian Popular Resistance Forces - Civilians,3
+14440,14440,Return Brigades - Civilians,3
+14441,14441,The Committee for Safety on the Roads - Civilians,3
+14442,14442,Nobles of Jordan - Civilians,3
+14443,14443,PROCUP-PdlP - Civilians,3
+14444,14444,Forces of Toribio Gargallo Peralta - Civilians,3
+14445,14445,Los Chinchulines - Civilians,3
+14446,14446,ERPI - Civilians,3
+14447,14447,Government of East Timor - Forces of Alfredo Reinado,1
+14448,14448,EPRI - Civilians,3
+14449,14449,Government of Mexico - MPLN,1
+14450,14450,Government of Mexico - ERPI,1
+14451,14451,Government of Mexico - Tijuana Cartel,1
+14452,14452,Government of Mexico - Los Aztecas,1
+14453,14453,Government of Kyrgyzstan - Opponents of  Bakijev,1
+14454,14454,Government of Guinea - Opponents of Conte,1
+14455,14455,Red Path - Civilians,3
+14456,14456,Government of Uzbekistan - Opponents of Karimov,1
+14457,14457,Government of Lebanon - Fatah Revolutionary Council,1
+14458,14458,Government of Lebanon - Fatah al-Islam,1
+14459,14459,Government of Lebanon - Jund al-Sham,1
+14460,14460,Government of Guatemala - Mara 18 (Guatemala),1
+14461,14461,Fatah - Fatah Uprising,2
+14462,14462,Hungarians - Romanians,2
+14463,14463,Supporters of the NSF - Supporters of PNTCD,2
+14464,14464,Government of Haiti - Supporters of Jean-Bertrand Aristide,1
+14465,14465,Government of Haiti - Government of United States of America,1
+14466,14466,Government of Haiti - ARLA (Haiti),1
+14467,14467,Supporters of Lespwa movement - Supporters of OPL,2
+14468,14468,Government of Syria - Fatah al-Islam,1
+14469,14469,Government of Syria - Tanzim Jund ash-Sham,1
+14470,14470,Government of Syria - PLO,1
+14471,14471,Government of Rumania - Military faction (forces of Nicolae Ceausescu),1
+14472,14472,Government of United States of America - Republic of Texas,1
+14473,14473,Future Movement - SSNP,2
+14474,14474,Amal - Future Movement,2
+14475,14475,Fatah - Jund al-Sham,2
+14476,14476,Amal - SLA,2
+14477,14477,DFLP - SLA,2
+14478,14478,Fatah Revolutionary Council - SLA,2
+14479,14479,SLA - PFLP,2
+14480,14480,44 Blue Buds - Six Deuce East Coast Crips,2
+14481,14481,Flying Dragons - Ghost Shadows,2
+14482,14482,Colombo crime family - Carmine Persico faction - Colombo crime family - Victor Orena faction,2
+14483,14483,Jheri-Kurl Gang - Civilians,3
+14484,14484,Born to Kill gang - Civilians,3
+14485,14485,Flying Dragons - Fukinese,2
+14486,14486,Oriental Boys - Civilians,3
+14487,14487,Born to Kill gang - Ghost Shadows,2
+14488,14488,Canal Street Boys - Ghost Shadows,2
+14489,14489,Avenues - Civilians,3
+14490,14490,Government of Guatemala - Los Zetas,1
+14491,14491,Government of United States of America - Gulf Cartel,1
+14492,14492,Government of Russia (Soviet Union) - Latvia SSR,1
+14493,14493,Government of Russia (Soviet Union) - GKChP,1
+14494,14494,Government of Madagascar - Opponents of Ratsiraka,1
+14495,14495,Republic of Georgia - National Guard and Mkhedrioni,2
+14496,14496,Government of Bolivia - Opponents of Sanchez de Lozada,1
+14497,14497,Government of Turkey - Supporters of Kurdistan,1
+14498,14498,Gujba hunters - Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,2
+14499,14499,Gulf Cartel - La Familia,2
+14500,14500,Fulani - Kamantan,2
+14501,14501,Government of Sudan - Opponents of al-Bashir,1
+14502,14502,Morazanista Patriotic Front - Civilians,3
+14503,14503,Motagua fans - Olimpia fans,2
+14504,14504,Peasants - Private Security Guards,2
+14505,14505,Government of Honduras - Justa C Organization,1
+14506,14506,Opponents of Hugo Chavez - Supporters of Hugo Chavez,2
+14507,14507,El Dorado inmates - Guajiro Indians,2
+14508,14508,Government of United States of America - Juarez Cartel,1
+14509,14509,Supporters of AP - Supporters of APC,2
+14510,14510,Government of Mexico - Supporters of PRD,1
+14511,14511,Opponents of Evans Paul - Supporters of Evans Paul,2
+14512,14512,Supporters of Jean-Bertrand Aristide - Supporters of Haitian military regime,2
+14513,14513,Opponents of Jean-Bertrand Aristide - Supporters of Jean-Bertrand Aristide,2
+14514,14514,FRAPH - Supporters of Jean-Bertrand Aristide,2
+14515,14515,Brissard farmers - Jean Denis farmers,2
+14516,14516,Cite Boston gang - Pele gang,2
+14517,14517,Dominican - Haitian,2
+14518,14518,Supporters of Democratic Convergence - Supporters of Fanmi Lavalas,2
+14519,14519,Government of United States of America - Supporters of Jean-Bertrand Aristide,1
+14520,14520,MINUSTAH - Civilians,3
+14521,14521,MINUSTAH - Supporters of Jean-Bertrand Aristide,2
+14522,14522,Tonton Macoute - Civilians,3
+14523,14523,Bale Wouze - Civilians,3
+14524,14524,FDDH - Civilians,3
+14525,14525,Elements (Luba militia) - Civilians,3
+14526,14526,Elements (Luba militia) - Perci (Batwa militia),2
+14527,14527,Perci (Batwa militia) - Civilians,3
+14528,14528,Government of Burundi - Military faction (forces of Godefroid Niyombare),1
+14529,14529,Government of DR Congo (Zaire) - Mayi Mayi Werrason,1
+14530,14530,"NDC, Raiya Mutomboki Ngowa Bisiri's faction - Mayi Mayi Kifuafua Delphin Mbaenda's faction, NDC-Rnov , Raia Mutomboki Shebi Muisa's faction",2
+14531,14531,Forces of Mullah Abdol Rauf Khadim - Taleban,2
+14532,14532,Mayi Mayi Kara-Kara - Civilians,3
+14533,14533,Government of DR Congo (Zaire) - Mayi Mayi Bede,1
+14534,14534,Government of DR Congo (Zaire) - Mayi Mayi Simuzizi,1
+14535,14535,Mara 18 (Honduras) - Vatos Locos,2
+14536,14536,Government of Colombia - Medelln Cartel,1
+14537,14537,Supporters of Labour Party - Supporters of PDP,2
+14539,14539,Egba (Agatu) - Ologba (Agatu),2
+14540,14540,Abo Amarah battalions - Civilians,3
+14541,14541,Government of Colombia - Jaime Bateman force,1
+14542,14542,IS - Taleban,2
+14543,14543,Taleban - Sarhadi faction - Taleban - Mudassir faction,2
+14544,14544,Eyie - Maphite,2
+14545,14545,Government of Colombia - ERG (Colombia),1
+14547,14547,FARC - Autodefensas Campesinas del Magdalena Medio,2
+14548,14548,"FARC - Hope, Peace and Freedom",2
+14549,14549,Government of United States of America - Jabhat Fateh al-Sham (Nusra),1
+14550,14550,Ambalo Indians - Guambiano Indians,2
+14551,14551,AUC - Autodefensas Campesinas del Magdalena Medio,2
+14552,14552,MRN - Civilians,3
+14553,14553,Black Hand - Civilians,3
+14554,14554,Los Blancos - Civilians,3
+14555,14555,Taleban - Mullah Asmatullah faction - Taleban - Mullah Dawood faction,2
+14556,14556,COLSINGUE - Civilians,3
+14557,14557,Commandos for a Popular Alternative - Civilians,3
+14558,14558,Dignity for Colombia - Civilians,3
+14559,14559,GAN - Civilians,3
+14560,14560,Punjabi Taleban - TTP,2
+14561,14561,Hamas - Unclear islamist militants (Israel/Palestine),2
+14562,14562,Fulani - Nupe,2
+14563,14563,Falata - Salamat Baggara,2
+14565,14565,Akpa - Black Axe,2
+14566,14566,Government of Italy - Ansar Bayt al-Maqdis,1
+14567,14567,Muok - Thony,2
+14568,14568,Aguok - Apuk Giir,2
+14569,14569,Imdadullah Group - Muntazir Group,2
+14570,14570,PML (N) - Supporters of PTI,2
+14571,14571,Ajnad al-Sham - Jabhat Fateh al-Sham (Nusra),2
+14572,14572,Government of Sudan - Ngok Dinka,1
+14573,14573,Dhiei Dinka - Panyon Dinka,2
+14574,14574,"IS - battalions of Shams al- Shamal, brigade of al- Raqqa rebels, PYD",2
+14575,14575,MINUSCA - Civilians,3
+14576,14576,Government of DR Congo (Zaire) - Government of South Sudan,1
+14577,14577,Taleban - Abdorrahman faction - Taleban - Din Mohammad faction,2
+14578,14578,Misseriya - UNISFA,2
+14579,14579,Government of South Sudan - REMNASA,1
+14580,14580,Taleban - Amardin faction - Taleban - Mullah Nangyal faction,2
+14581,14581,Taleban - opponents of Mullah Mansoor faction - Taleban - supporters of Mullah Mansoor faction,2
+14582,14582,Taleban - Hafez Manan faction - Taleban - Mullah Abdorrauf faction,2
+14583,14583,YBT - Civilians,3
+14584,14584,Supporters of PML-F - Supporters of PPP,2
+14585,14585,Beni Halba Baggara - Borno,2
+14586,14586,Beni Omran - Berti,2
+14587,14587,"Al-Zayadia, Beni Omran - Berti",2
+14588,14588,Birgid - Ghuzam,2
+14589,14589,Beni Hussein - Salamat Baggara,2
+14590,14590,NATO - Civilians,3
+14591,14591,Masalit  - Rizeigat Baggara,2
+14592,14592,Taleban - Mullah Hassan faction - Taleban - Mullah Khodai Rahim faction,2
+14593,14593,Taleban - High Council of Afghanistan Islamic Emirate,2
+14594,14594,Government of Mali - Unclear rebels,1
+14595,14595,Government of Yemen (North Yemen) - Forces of Hadi,1
+14596,14596,AQAP - Forces of Hadi,2
+14597,14597,Government of Russia (Soviet Union) - The Islamic Province of the Caucasus,1
+14598,14598,Government of Yemen (North Yemen) - Opponents of Ansarallah,1
+14599,14599,Sako Gang - Civilians,3
+14600,14600,Christians (Niger) - Muslims (Niger),2
+14601,14601,al-Mathna Islamic movement -  al-Sunna lions battalion,2
+14603,14603,MINUSMA - Civilians,3
+14604,14604,GATIA - CMA,2
+14605,14605,Government of United States of America - AQAP,1
+14606,14606,MILF - BA - MILF - BB,2
+14607,14607,Guinean gold miners - Malian gold miners,2
+14608,14608,Ansarallah - IS,2
+14609,14609,Government of Yemen (North Yemen) - IS,1
+14610,14610,Government of Mali - FLM,1
+14611,14611,IS - Forces of Hadi,2
+14612,14612,Bagani Forces - Civilians,3
+14613,14613,Ayunan clan - Karim clan,2
+14614,14614,FLM - Civilians,3
+14615,14615,"al-Murabitun, FLM - Civilians",3
+14617,14617,GATIA - Civilians,3
+14618,14618,Government of United States of America - al-Murabitun,1
+14619,14619,Government of Russia (Soviet Union) - IS,1
+14620,14620,Government of Syria - IS,1
+14621,14621,Government of Tajikistan - Forces of Abduhalim Nazarzoda,1
+14622,14622,Aknaf Bait al-Maqdis - IS,2
+14623,14623,IS - PFLP-GC,2
+14624,14624,Government of Thailand - Grey Wolves,1
+14625,14625,Sabaneta - Pavilion I gang - Sabaneta - Re-education sector gang,2
+14626,14626,al-Murabitun - Al-Murabitun - Adnan Abu Waleed al-Sahrawi faction,2
+14627,14627,Mazza villagers - Tswachiko villagers,2
+14628,14628,Chaamba Arabs - Mozabite Berbers,2
+14629,14629,Government of Mali - Khalid Ibn Walid katiba,1
+14630,14630,PYD - Islamic Battalions,2
+14632,14632,Government of Philippines - Ansar al-Khilafah,1
+14633,14633,Katibat Okba Ibn Nafa - Civilians,3
+14634,14634,Jabhat Fateh al-Sham (Nusra) - Shohadaa al-Yarmouk,2
+14635,14635,Government of Azerbaijan - Movement for Muslim Unity,1
+14636,14636,Government of Nigeria - IPOB,1
+14637,14637,IS - SDF,2
+14638,14638,Jabhat Fateh al-Sham (Nusra) - SDF,2
+14639,14639,Awlaki tribe - IS,2
+14640,14640,Marehan subclan of Sede clan (Darod) - Murule subclan of Gugundabe clan (Hawiye),2
+14641,14641,Giriama - Wardei,2
+14642,14642,Amizero y'abarundi  - Imbonerakure,2
+14643,14643,Kipsigis tribesmen - Maasai,2
+14644,14644,Hamar (Ethiopia) - Nyangatom,2
+14645,14645,Borana - Hamar (Ethiopia),2
+14646,14646,Dassanetch - Hamar (Ethiopia),2
+14647,14647,Mwimbi - Tharaka,2
+14648,14648,Kamba - Somali (Kenya),2
+14649,14649,Government of Burundi - Forebu,1
+14650,14650,"FDLR, FDLR-RUD, UPCP - UPDI",2
+14651,14651,Aliwo Boys - Civilians,3
+14653,14653,"FSA, Islamic Front, Jabhat Fateh al-Sham (Nusra) - Jaysh al-Jihad (Saraya al- Jihad)",2
+14654,14654,Government of Nigeria - IMN,1
+14655,14655,Share community - Tsaragi community,2
+14656,14656,Security battalion in al- Dmeir area - Tahrir al- Sham Army,2
+14657,14657,IS - Jabhat al-Sham,2
+14658,14658,Government of India - DHNA,1
+14659,14659,Shohadaa al-Yarmouk - Civilians,3
+14666,14666,Government of Cameroon - IS,1
+14667,14667,Government of Chad - IS,1
+14668,14668,Government of Niger - IS,1
+14669,14669,Government of Nigeria - IS,1
+14670,14670,Government of Saudi Arabia - IS,1
+14671,14671,IS - Yan Gora,2
+14672,14672,IS - VGN,2
+14673,14673,Government of Indonesia - Din Minimi group,1
+14674,14674,Government of Indonesia - Murib group,1
+14675,14675,Government of Pakistan - Jaish-ul-Islam,1
+14676,14676,EUPOL Afghanistan - Taleban,2
+14677,14677,Government of Egypt - IS,1
+14678,14678,Luac Jang Dinka - Thiyic Dinka,2
+14679,14679,DHNA - Tongikro villagers,2
+14680,14680,Government of India - UDLF-O,1
+14681,14681,"High Council of Afghanistan Islamic Emirate, IS - Taleban",2
+14682,14682,Government of Turkey - PYD,1
+14683,14683,JPC - TPC,2
+14684,14684,Government of France - AQAP,1
+14685,14685,Government of India - UNLFW,1
+14686,14686,NSCN-K - NSCN-R,2
+14687,14687,Government of India - NNC-NA,1
+14688,14688,Government of Guinea - Opponents of President Conde,1
+14689,14689,Government of Bangladesh - Jamaat-e-Islami,1
+14690,14690,Government of Burkina Faso - Military faction (forces of Blaise Compaore),1
+14691,14691,Supporters of Cellou Dalein Diallo  - Supporters of President Alpha Conde,2
+14692,14692,Government of Congo - Opponents of President Nguesso,1
+14693,14693,Beni Halba Baggara - Salamat Baggara,2
+14694,14694,Arab Nomads - Erenga,2
+14695,14695,ASAK - GNLA,2
+14696,14696,Government of France - IS,1
+14697,14697,Government of India - URF-L,1
+14698,14698,KIO - Kuki National Army (KNA),2
+14699,14699,NSCN-IM - RPF,2
+14700,14700,KCP-N - KRF,2
+14701,14701,Government of Turkey - IS,1
+14702,14702,Government of India - MNRF,1
+14703,14703,Government of Myanmar (Burma) - XXX775,1
+14704,14704,Kuki National Army (KNA) - KNA-I,2
+14705,14705,NSCN-IM - UKLF,2
+14706,14706,Jabhat Fateh al-Sham (Nusra) - Shohadaa al- Bayyada Battalion,2
+14707,14707,Division 30 - Jabhat Fateh al-Sham (Nusra),2
+14708,14708,Darfur Joint Resistance Forces - Civilians,3
+14709,14709,KDPI - PKK,2
+14710,14710,IS - Southern Front,2
+14711,14711,CAR hunters - LRA,2
+14712,14712,Forces of the House of Representatives - Civilians,3
+14713,14713,RCSS - PSLF,2
+14714,14714,Dianda sub clan  - Kakanege sub clan,2
+14715,14715,DKBA 5 - XXX775,2
+14716,14716,Goilala clan - Wabag clan,2
+14717,14717,Government of Afghanistan - TTP,1
+14718,14718,Government of Bangladesh - IS,1
+14719,14719,MPA (Nyatura) - Civilians,3
+14720,14720,al-Toubou  - Wagna,2
+14721,14721,al-Toubou  - Zaghawa,2
+14722,14722,Adok Nuer - Bul Nuer,2
+14723,14723,Dinka  - Shiluk,2
+14724,14724,"Kuei Dinka, Pakam Dinka - Rup Dinka",2
+14725,14725,Government of Venezuela - Opponents of Chavez,1
+14726,14726,Government of Venezuela - Opponents of President Perez,1
+14727,14727,FPRC - RPRC of Zoundeiko,2
+14728,14728,Government of Chad - RJ,1
+14729,14729,Government of Venezuela - Opponents of President Maduro,1
+14730,14730,CMA - GATIA,2
+14731,14731,CMA - Platform,2
+14732,14732,FPLA - MPGK,2
+14733,14733,"CMA - CM-FPR, GATIA, MAA",2
+14734,14734,"CMA - GATIA, MAA",2
+14735,14735,FPRC - Supporters of referendum (CAR),2
+14736,14736,Farmers (CAR) - Herders (CAR),2
+14737,14737,MPC (Al Khatim rebels) - Civilians,3
+14738,14738,MINUSCA - MPC (Al Khatim rebels),2
+14739,14739,Government of Haiti - Opponents of President Martelly,1
+14740,14740,Government of Saudi Arabia - Opponents of Al-Saud,1
+14741,14741,Government of Jordan - IS,1
+14742,14742,Government of Mozambique - Opponents of Chissano,1
+14743,14743,Ajnad al-Khilafa - Civilians,3
+14744,14744,Government of Tunisia - Ajnad al-Khilafa,1
+14745,14745,Government of Libya - IS,1
+14746,14746,Forces of the House of Representatives - IS,2
+14747,14747,Government of Tunisia - IS,1
+14748,14748,"FSA, PYD - IS",2
+14749,14749,"FSA, Jabhat Fateh al-Sham (Nusra), Jaysh al-Islam, Levant Front - SDF",2
+14750,14750,Deebam - NDV,2
+14752,14752,Alexander - Deewell,2
+14753,14753,Baga - Dominion,2
+14754,14754,"IS - Jaysh al-Sanadid, Khabour Guards, MFS (Syriac Military Council), PYD",2
+14755,14755,Black Axe - man-Fight,2
+14756,14756,"IS - Jaysh al-Sanadid, MFS (Syriac Military Council), PYD",2
+14757,14757,Derna Mujahideen Shura Council - IS,2
+14758,14758,IS - Levant Front,2
+14759,14759,"Fulani, Kuteb - Tiv",2
+14760,14760,"IS - Jabhat Fateh al-Sham (Nusra), Levant Front",2
+14761,14761,"Aknaf Bait al-Maqdis, FSA, Jaysh al-Islam, PFLP-GC, PLO - IS",2
+14762,14762,"PLO - Aknaf Bait al-Maqdis, FSA, Jaysh al-Islam, PFLP-GC, PLO",2
+14763,14763,IS - Unified Military Command of Eastern Ghouta,2
+14764,14764,"Ahrar al-Sham, Ajnad al-Sham, Jabhat Fateh al-Sham (Nusra), Jaysh al-Sunna, Jund al-Aqsa, Liwa al-Haq Idlib, Sham Legion - IS",2
+14765,14765,Fulani - Igede,2
+14766,14766,"al-Murabitun, AQIM - Civilians",3
+14767,14767,al-Murabitun - MUJAO,2
+14768,14768,Government of United States of America - Jaysh al-Sunna,1
+14769,14769,Jund al-Aqsa - Siham al- Haq Islamic Brigade,2
+14770,14770,Ahrar al-Sham - Jabhat Fateh al-Sham (Nusra),2
+14771,14771,Jaysh al-Islam - Jaysh al-Umma,2
+14772,14772,Jaysh al-Islam - Tahrir al- Sham Army,2
+14773,14773,SDF - Civilians,3
+14774,14774,Ahrar al-Sham - al-Nemer battalion,2
+14775,14775,Government of Cameroon - Opponents of Biya,1
+14776,14776,Jabhat Fateh al-Sham (Nusra) - Southern Front,2
+14777,14777,"Ahrar al-Sham, Jabhat Fateh al-Sham (Nusra) - Shohadaa al-Yarmouk",2
+14778,14778,Eastern Qalamoun Operations Room - IS,2
+14779,14779,IS - Jaysh al-Islam,2
+14780,14780,Government of Serbia (Yugoslavia) - Supporters of Kosovo,1
+14781,14781,Bandidos - Cossacks,2
+14782,14782,Government of Nigeria - Opponents of Babangida,1
+14783,14783,Government of Nigeria - Opponents of Abacha,1
+14784,14784,Government of Syria - SDF,1
+14785,14785,Derna Mujahideen Shura Council - Forces of the House of Representatives,2
+14786,14786,Ajdabiya Revolutionaries Shura Council  - Forces of the House of Representatives,2
+14787,14787,al-Toubou  - Touareg,2
+14788,14788,IS - JAMWA,2
+14789,14789,al-Toubou  - Zwai,2
+14790,14790,Forces of the House of Representatives - Unclear Islamists (Benghazi),2
+14791,14791,Los Ardillos - Civilians,3
+14792,14792,Government of Libya - Opponents of Gaddafi,1
+14793,14793,Government of Kenya - Opponents of Moi,1
+14794,14794,Government of Mexico - Los Ardillos,1
+14795,14795,Government of Indonesia - Opponents of President Suharto,1
+14796,14796,Sinaloa Cartel - Los Memos faction - Sinaloa Cartel - Los Salazar faction,2
+14797,14797,Gulf Cartel - Los Ciclones faction - Gulf Cartel - Los Metros faction,2
+14798,14798,Government of Mexico - Gulf Cartel - Los Metros faction,1
+14799,14799,Jalisco Cartel New Generation - Sinaloa Cartel,2
+14800,14800,Sinaloa Cartel - Sinaloa Cartel - Forces of Damaso faction,2
+14801,14801,Sinaloa Cartel - El Pepillo faction - Sinaloa Cartel - Los 28 faction,2
+14802,14802,Government of Mexico - Sinaloa Cartel - El Pepillo faction,1
+14803,14803,Sinaloa Cartel - Sinaloa Cartel - El Pepillo faction,2
+14804,14804,Government of Iraq - MEK,1
+14805,14805,Jaysh al-Mukhtar - MEK,2
+14806,14806,Issele-Azagba community - Otulu-Ogwashi community,2
+14807,14807,Government of Burundi - Opponents of Nkurunziza,1
+14808,14808,Government of DR Congo (Zaire) - UPCP,1
+14809,14809,Government of DR Congo (Zaire) - Raia Mutomboki - Shurukutu,1
+14810,14810,NDC - NDC-Rnov,2
+14811,14811,Government of DR Congo (Zaire) - Raia Mutomboki - Shukuru,1
+14812,14812,Government of DR Congo (Zaire) - Raia Mutomboki - Lofombo,1
+14813,14813,"Islamic Front, Jaysh al-Qasas, Jaysh al-Thuwar, Kita'ib Shams al-Shamal, Liwa al-Jihad fi Sabeel Allah, Liwa Amna' ar-Raqqa, Liwa Thuwar ar-Raqqa, PYD, Saraya Jarablus, Tahrir Brigade - IS",2
+14814,14814,Fatah Halab / Aleppo Conquest - IS,2
+14815,14815,Fatah Halab / Aleppo Conquest - SDF,2
+14816,14816,"Fatah Halab / Aleppo Conquest, Jabhat Fateh al-Sham - IS",2
+14817,14817,"Ahrar al-Sham, Jabhat Fateh al-Sham (Nusra) - IS",2
+14818,14818,Government of Burkina Faso - AQIM,1
+14819,14819,Bakonzo - Bamba,2
+14820,14820,LRA - RPRC of Zoundeiko,2
+14821,14821,Government of Uganda - Rwenzururu kingdom royal guards,1
+14822,14822,Government of Uganda - NDA,1
+14823,14823,Cartel del Norte del Valle - Civilians,3
+14824,14824,Autodefensas del Palmor - Civilians,3
+14825,14825,ACC - Civilians,3
+14826,14826,Autodefensas de Santander y del Sur del Cesar - Civilians,3
+14827,14827,Government of Colombia - ACC,1
+14828,14828,Daoussak (Touareg) - Imghad (Touareg),2
+14829,14829,Autodefensas Campesinas de Meta y Vichada - Civilians,3
+14830,14830,Bloque Central Bolvar - Civilians,3
+14831,14831,Autodefensas de Puerto Boyac - Civilians,3
+14832,14832,MINUSCA - Unclear rebels,2
+14833,14833,FPRC - UPC (Ali Darass Fulani supporters),2
+14834,14834,Comandos Populares - Civilians,3
+14835,14835,Government of Iraq - Opponents of al-Maliki,1
+14836,14836,Autodefensas Campesinas del Magdalena Medio - Civilians,3
+14837,14837,Autodefensas Campesinas del Magdalena y La Guajira - Civilians,3
+14838,14838,ERP - Civilians,3
+14839,14839,ERG (Colombia) - Civilians,3
+14840,14840,Government of Syria - Opponents of al-Assad,1
+14841,14841,Government of Congo - Opponents of President Pascal Lissouba,1
+14842,14842,Government of Burundi - RED-TABARA,1
+14843,14843,RED-TABARA - Civilians,3
+14844,14844,Government of Ethiopia - Opponents of Zenawi,1
+14845,14845,FDLR - Virunga Park Rangers,2
+14846,14846,Government of DR Congo (Zaire) - Woudas,1
+14847,14847,Government of Algeria - IS,1
+14848,14848,Raia Mutomboki - Kabazimiya faction - Raia Mutomboki - Kazimoto and Kyakwama factions,2
+14849,14849,Harakat Muthanna al-Islamiya - Yarmouk Army,2
+14850,14850,Government of Ivory Coast - AQIM,1
+14851,14851,Government of DR Congo (Zaire) - Mayi Mayi Complet,1
+14852,14852,Mudundu 40 - Civilians,3
+14853,14853,Mayi Mayi Jackson - RCD - CP,2
+14854,14854,Government of India - Supporters of Kashmir,1
+14855,14855,Government of Nepal - Opponents of Birendra,1
+14856,14856,Government of Tunisia - Opponents of Ben Ali,1
+14857,14857,AA - ALP,2
+14858,14858,PSLF - Civilians,3
+14859,14859,Government of India - XXX750,1
+14860,14860,Beni Halba Baggara - Masalit,2
+14861,14861,Jharkhand Janmukti Parishad - XXX750,2
+14862,14862,Pancuer - Pandau,2
+14863,14863,People's Liberation Front of Meghalaya (PLF-M) - XXX750,2
+14864,14864,KRA - XXX750,2
+14865,14865,CPI-Maoist - PLFI,2
+14866,14866,Government of India - JSJM,1
+14867,14867,Government of Afghanistan - Government of Rumania,1
+14868,14868,Jharkhand Janmukti Parishad - TPC,2
+14869,14869,UNLFW - Civilians,3
+14870,14870,Forces of Mahmud - Forces of Nazar Gul,2
+14871,14871,UNLFW - XXX750,2
+14872,14872,HNA - XXX750,2
+14873,14873,NSCN-R - XXX750,2
+14874,14874,Burkina Faso - Mafia,2
+14875,14875,Burkina Faso - Maphite,2
+14876,14876,"Ahrar al-Sham, Jabhat Fateh al-Sham (Nusra), Southern Front - IS",2
+14877,14877,Government of Somalia - Opponents of Barre,1
+14878,14878,Government of Israel - Supporters of Palestine,1
+14879,14879,Fulani - Ndoro,2
+14880,14880,Mbagede community - Ukpe community,2
+14881,14881,Ebum community - Inyima community,2
+14882,14882,Akoku - Ebedei,2
+14883,14883,Government of Myanmar (Burma) - DKBA (reactivated),1
+14884,14884,Government of Nepal - Opponents of Koirala,1
+14885,14885,Government of Nigeria - JNDLF,1
+14886,14886,Ekpat - Marvians,2
+14887,14887,Gwari - Fulani,2
+14888,14888,Forces of Ghafor - Forces of Malik Tatar,2
+14889,14889,Nkwelle Ezunaka community - Osile community,2
+14890,14890,Government of Nigeria - NDA - Nigeria,1
+14891,14891,Government of Albania - Opponents of Berisha,1
+14892,14892,IS - NSA,2
+14893,14893,Bambara - Fulani,2
+14894,14894,Government of Indonesia - Opponents of President B.J. Habibie,1
+14895,14895,Government of Iran - IS,1
+14896,14896,Ahrar al-Sham - Jund al-Aqsa,2
+14897,14897,PLFI - XXX750,2
+14898,14898,Ganda Iso - GATIA,2
+14899,14899,Government of India - Azad Bharat Vidhik Vaicharik Kranti Satyagrahi,1
+14900,14900,Government of Iran - Opponents of Ahmadinejad,1
+14901,14901,"101st Infantry Division, al-Moutasem Brigade, Fistaqim Kama Umirat, Levant Front, Liwa Ahrar Souriya, Liwa al-Sultan Murad, Liwa Fursan al-Haqq, Sham Legion, Suqour al-Jabal - IS",2
+14902,14902,"Fatah Halab / Aleppo Conquest, Jabhat Fateh al-Sham - SDF",2
+14903,14903,"IS - Jabhat Fateh al-Sham (Nusra), Mare'a Operation Room",2
+14904,14904,Ali family - Youssef family,2
+14905,14905,Koussouma villagers - Mougna villagers,2
+14906,14906,Al-Shaitat tribe - IS,2
+14907,14907,IS - Shohadaa al- ShHil,2
+14908,14908,"Ahrar al-Sham, Furqan Brigades, Jabhat Fateh al-Sham (Nusra), Jaysh al-Islam, Yarmouk Army - Jaysh al-Jihad (Saraya al- Jihad)",2
+14909,14909,Los Zetas - Jorge Ivan Hernandez Cantu faction - Los Zetas - Juan Pedro Salvador Saldivar Farias faction,2
+14910,14910,Government of DR Congo (Zaire) - Opponents of Kabila,1
+14911,14911,Government of Ethiopia - Wolkayit committee,1
+14912,14912,Government of Egypt - Opponents of al-Sisi,1
+14913,14913,Government of Philippines - Maute group,1
+14914,14914,Maute group - Civilians,3
+14915,14915,MAS - Civilians,3
+14916,14916,Government of Syria - Supporters of Kurdistan,1
+14917,14917,"NDC, Raia Mutomboki - Civilians",3
+14918,14918,"Hutu - Kobo, Nande",2
+14919,14919,"MONUSCO - Kobo, Nande",2
+14920,14920,Jesus' Army - Civilians,3
+14921,14921,"APCLS, FDLR, Nyatura - NDC-Rnov",2
+14922,14922,Government of DR Congo (Zaire) - FNL-Nzabampema,1
+14923,14923,Government of DR Congo (Zaire) - RED-TABARA,1
+14924,14924,UPDI-Mazembe - Civilians,3
+14925,14925,FDLR - UPDI-Mazembe,2
+14926,14926,Government of DR Congo (Zaire) - Raia Mutomboki Simuzizi Laban,1
+14927,14927,APCLS - Raiya Tujutemeye Nyatura faction,2
+14928,14928,Nyatura - UPDI-Mazembe,2
+14929,14929,Government of DR Congo (Zaire) - Kamwina Nsapu,1
+14930,14930,Lotelama village - Okita Dimba village,2
+14931,14931,"101st Infantry Division, al-Moutasem Brigade, Fistaqim Kama Umirat, Levant Front, Liwa Ahrar Souriya, Liwa al-Sultan Murad, Liwa Fursan al-Haqq, Sham Legion, Suqour al-Jabal - SDF",2
+14932,14932,Government of South Sudan - SSDM/A - Johnson Olony faction,1
+14933,14933,"Bloque Central Bolvar - ELN, FARC",2
+14934,14934,Christians (DR. Congo) - Muslims (DR. Congo),2
+14935,14935,FDLR - NDC-Rnov,2
+14936,14936,MISCA - Civilians,3
+14937,14937,Government of DR Congo (Zaire) - Mayi Mayi Mesandu,1
+14938,14938,Mayi Mayi Mesandu - Civilians,3
+14939,14939,LRA - MINUSCA,2
+14940,14940,MPC (Al Khatim rebels) - UPC (Ali Darass Fulani supporters),2
+14941,14941,Government of Mexico - Los Rojos,1
+14943,14943,"al-Moutasem Brigade, Fistaqim Kama Umirat, Free Idlib Army, Hamza Division, Jaish al-Tahrir, Kita'ib al-Safwat al-Islamiya, Levant Front, Liwa al-Sultan Murad, Sham Legion - IS",2
+14944,14944,"al-Moutasem Brigade, Fistaqim Kama Umirat, Free Idlib Army, Hamza Division, Jaish al-Tahrir, Kita'ib al-Safwat al-Islamiya, Levant Front, Liwa al-Sultan Murad, Sham Legion - SDF",2
+14945,14945,Government of Turkey - SDF,1
+14946,14946,Sinaloa Cartel - El Pepillo faction - Sinaloa Cartel - Forces of Damaso faction,2
+14947,14947,Jaysh al-Islam - Rahman Corps,2
+14948,14948,"Jaysh al-Islam, Jaysh Asoud al-Sharqiya, Martyr Lieutenant Ahmed Abdou Brigades, Rahman Corps - Tahrir al- Sham Army",2
+14949,14949,Government of Egypt - Opponents of Mansour,1
+14950,14950,"CMA, MAA-Ould Sidatti - MAA",2
+14951,14951,Government of United States of America - Lashkar-e-Taiba,1
+14952,14952,Government of Burkina Faso - ISGS,1
+14953,14953,Government of Burkina Faso - IS,1
+14954,14954,Government of Azerbaijan - Forces of the Caucasus Emirate,1
+14955,14955,IS - Jaysh al-Ashaer,2
+14956,14956,Government of Bangladesh - Ansarullah Bangla Team,1
+14957,14957,Awlad Omran clan  - Awlad Serur (Misseriya),2
+14958,14958,Government of Venezuela - Los Rastrojos,1
+14959,14959,Ochon community - Ofutop community,2
+14960,14960,Djakana's vigilance committee  - IS,2
+14961,14961,Government of Nigeria - BSF,1
+14962,14962,Government of Tajikistan - Taleban,1
+14963,14963,Fulani - Gyabgyi,2
+14964,14964,Hunters' Association of Nigeria - IS,2
+14965,14965,Taleban - Hezbullah faction - Taleban - Zakirullah faction,2
+14966,14966,Government of Niger - ISGS,1
+14967,14967,Government of United States of America - zzxxyy,1
+14968,14968,Al-Shabaab - Galmuduug Administration,2
+14969,14969,Government of Burundi - RFB,1
+14970,14970,FNL-Rwasa - Imbonerakure,2
+14971,14971,Imbonerakure - Civilians,3
+14972,14972,LRA-Achaye  - Civilians,3
+14973,14973,Government of Egypt - Hasam Movement,1
+14974,14974,Government of Egypt - Liwa al-Thawra,1
+14975,14975,Government of Russia (Soviet Union) - Makhachkala Gang,1
+14976,14976,Congolese hunters - LRA-Achaye,2
+14977,14977,CAR hunters - LRA-Achaye,2
+14978,14978,Agoumar villagers - LRA-Achaye,2
+14979,14979,Kpokpo villagers - LRA,2
+14980,14980,Government of DR Congo (Zaire) - Mayi Mayi Corps du Christ,1
+14981,14981,Forces of Bitoy Edsda - Forces of Saib Abas Kuranding,2
+14982,14982,Forces of Ricky Husain - Forces of Mantol,2
+14983,14983,Government of Philippines - Concepcion Gang,1
+14984,14984,Maute group - MILF,2
+14985,14985,"IS - Jaysh Asoud al-Sharqiya, Martyr Lieutenant Ahmed Abdou Brigades",2
+14986,14986,"al-Moutasem Brigade, Fistaqim Kama Umirat, Free Idlib Army, Hamza Division, Jaish al-Tahrir, Kita'ib al-Safwat al-Islamiya, Levant Front, Liwa al-Sultan Murad, Sham Legion - Civilians",3
+14987,14987,Government of Russia (Soviet Union) - Mountainous Sector Jamaat,1
+14988,14988,"Forces of Ali Rajamuda, Kineg and Boboy - Forces of Medalya Tidong, Naki Laguib, Palao and Tahir",2
+14989,14989,Government of Germany - Reichsbuerger,1
+14990,14990,Government of Italy - IS,1
+14991,14991,Government of South Sudan - SSNLM/A,1
+14992,14992,Panyar Dinka - Waat Dinka,2
+14993,14993,"Panyar Dinka, Rek Dinka - Waat Dinka",2
+14994,14994,IS - Mora vigilantes,2
+14995,14995,SPLM/A In Opposition - SRF,2
+14996,14996,Government of Guinea - Opponents of Conde,1
+14997,14997,Government of Gabon - Opponents of Bongo,1
+14998,14998,Supporters of Akufo-Addo - Supporters of Mahama,2
+14999,14999,Government of Ethiopia - Oromo protestors,1
+15000,15000,Gimir - Tama,2
+15001,15001,Awlad Rashid - Borno,2
+15002,15002,3R - Civilians,3
+15003,15003,Government of Hungary - Magyar Arcvonal movement,1
+15004,15004,Government of Nepal - Opponents of Oli,1
+15005,15005,Kapshoi clan - Kapsiren clan,2
+15006,15006,Government of Haiti - Forces of Philippe,1
+15007,15007,Kreda - Zaghawa,2
+15008,15008,Government of Burkina Faso - Ansaroul Islam,1
+15009,15009,Government of Burundi - Government of DR Congo (Zaire),1
+15010,15010,Government of Uganda - Kirumira Mutima,1
+15011,15011,Government of Azerbaijan - Caucasus Jammat,1
+15012,15012,Government of Mali - ANSIPRJ,1
+15013,15013,Farmers (Nigeria) - Herders (Nigeria),2
+15014,15014,Mkpumekweoku community - Onweonweya community,2
+15015,15015,APC-Abdullahi Ganduje faction - APC-Rabi'u Musa Kwankwaso faction,2
+15016,15016,Government of Iran - Mokhtar Jahesh,1
+15017,15017,Government of Iran - Tawhid and Jihad,1
+15018,15018,Ikot-Offiong community - Oku Iboku community,2
+15019,15019,Igbo - Fulani,2
+15020,15020,Ashland - Civilians,3
+15021,15021,FDC - FDC-Tumusifu alias Tumu,2
+15022,15022,Hunters' Association of Nigeria - Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,2
+15023,15023,IS - Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,2
+15024,15024,Government of Angola - Light of the World,1
+15025,15025,Government of DR Congo (Zaire) - UPDI-Mazembe,1
+15026,15026,JPC - Civilians,3
+15027,15027,NDV - Sailors,2
+15028,15028,"Fulani - Koulango , Lobi, Malink",2
+15029,15029,Government of Nigeria - Red Scorpions,1
+15030,15030,"Bahamas , Batas  - Fulani",2
+15031,15031,Government of Ethiopia - Gonder militia,1
+15032,15032,Government of Niger - Movement for Justice and Rehabilitation of Niger,1
+15033,15033,Government of India - NSCN-U,1
+15034,15034,KCP - XXX750,2
+15035,15035,MNPF - Civilians,3
+15036,15036,Government of Ethiopia - Ginbot 7,1
+15037,15037,Government of Russia (Soviet Union) - Forces of Ali Demilkhanov,1
+15038,15038,"Government of Russia (Soviet Union) - ""Southern"" Armed gang (Dagestan)",1
+15039,15039,Anuak - Murle,2
+15040,15040,Degodia - Gabra,2
+15041,15041,Auliyan - Borana,2
+15042,15042,Jibrail subclan of Degodia - Rer Matan subclan of  Wabudan clan (Hawiye),2
+15043,15043,Forces of Hadi - Southern Movement,2
+15044,15044,Kalandja villagers - Tondo villagers,2
+15045,15045,Government of Mali - MJLTA,1
+15046,15046,CMA - ISGS,2
+15047,15047,FLM - GATIA,2
+15048,15048,AQIM - GATIA,2
+15049,15049,Ansar Dine - GATIA,2
+15050,15050,IPOB - Civilians,3
+15051,15051,Fulani - Ron-Kulere,2
+15052,15052,PKK - Tel Khamis Brigades,2
+15053,15053,Fulani - Nikyob,2
+15054,15054,Igbo - Yoruba,2
+15055,15055,Black Axe - Red Viper,2
+15056,15056,Elebe Boys - Eyie,2
+15057,15057,Djakana's vigilance committee  - Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,2
+15058,15058,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad - Mora vigilantes,2
+15059,15059,"APCLS, FDLR, Nyatura - NDC-Rnov , UPDI-Mazembe",2
+15060,15060,CNRD - FDLR,2
+15061,15061,Government of DR Congo (Zaire) - Mayi Mayi Charles,1
+15062,15062,Maban - Uduk,2
+15063,15063,FDLR-RUD - NDC-Rnov,2
+15064,15064,Government of DR Congo (Zaire) - Waminene,1
+15065,15065,Government of Turkey - YSK,1
+15066,15066,Government of United Kingdom - HuJI,1
+15067,15067,HuJI - Supporters of Awami League,2
+15068,15068,Government of Venezuela - ELN,1
+15069,15069,Government of Myanmar (Burma) - HaY,1
+15070,15070,Awlad Rahma - Gimir,2
+15071,15071,Dago - Masalit,2
+15072,15072,Mahadi - Rizeigat Abbala,2
+15073,15073,"Falata, Rizeigat Abbala - Masalit",2
+15074,15074,Falata - Masalit,2
+15075,15075,"Falata, Habaniya  - Salamat Baggara",2
+15076,15076,BDB - Forces of the House of Representatives,2
+15077,15077,Government of Somalia - IS,1
+15078,15078,"FPRC, MPC (Al Khatim rebels) - Civilians",3
+15079,15079,"FPRC, MPC (Al Khatim rebels) - MINUSCA",2
+15080,15080,"anti-Balaka, FPRC - UPC (Ali Darass Fulani supporters)",2
+15081,15081,SRF - Subol Al-Salam Brigade,2
+15082,15082,SDF - Various Syrian rebels,2
+15083,15083,Ahrar al-Sham - Nour al-Din al-Zenki,2
+15084,15084,Fistaqim Kama Umirat - Nour al-Din al-Zenki,2
+15085,15085,Ahrar al-Sham - Levant Front,2
+15086,15086,"Ahrar al-Sham, FSA, Jabhat Fateh al-Sham (Nusra), Jaysh al-Islam - IS",2
+15087,15087,Government of Indonesia - IS,1
+15088,15088,"101st Infantry Division, 16th Division, Ahrar al-Sham, First Regiment, Fistaqim Kama Umirat, Furqan Brigades, Jabhat Fateh al-Sham (Nusra), Jaysh al-Islam, Liwa al-Sultan Murad, Mujahideen Army, Nour al-Din al-Zenki, Sham Legion, Suqour al-Jabal - SDF",2
+15089,15089,"Ahrar al-Sham, Jabhat Fateh al-Sham (Nusra) - SDF",2
+15090,15090,BLA - UBA,2
+15091,15091,13th Division - Jabhat Fateh al-Sham (Nusra),2
+15092,15092,Gaddadfa tribe - IS,2
+15093,15093,Jalisco Cartel New Generation - La Nueva Familia,2
+15094,15094,Government of Kenya - Pokot,1
+15095,15095,Pastoralists (Tanzania) - Peasants (Tanzania),2
+15096,15096,Maasai (Tanzania) - SUMA JKT,2
+15097,15097,Furqan Brigades - SRF (Syria),2
+15098,15098,Jaysh al-Ashaer - NDF (Syria),2
+15099,15099,IS - Syrian National Coalition,2
+15100,15100,Government of Ukraine - DPR,1
+15101,15101,Government of Ukraine - LPR,1
