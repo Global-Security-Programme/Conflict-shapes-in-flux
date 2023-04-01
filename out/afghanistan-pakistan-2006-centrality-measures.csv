@@ -1,0 +1,6 @@
+id,label,nodes_n,degree,eigenvec,katz
+130,Government of Afghanistan,2,713,1,1.22
+3,Government of United States of America,1,19,0,1.11
+303,Taleban,1,707,1,1.12
+299,Hizb-i Islami-yi Afghanistan,1,6,0.01,1.12
+769,al-Qaida ,1,19,0,1.11
