@@ -1,5 +1,6 @@
 # Conflict-shapes-in-flux
-Repository for Conflict shapes in flux by Idler and Tkacova.
+Repository for Conflict shapes in flux by Idler and Tkacova (2023). We used R software version 4.1.2 “Bird Hippie” for all calculations.
+
 
 **R code**
 
