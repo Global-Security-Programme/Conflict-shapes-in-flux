@@ -1,8 +1,12 @@
-# Conflict-shapes-in-flux
-Repository for Conflict shapes in flux by Idler and Tkacova (2023). We used R software version 4.1.2 “Bird Hippie” for all calculations.
+# Conflict shapes in flux: Explaining spatial shift in conflict-related violence - Repository
 
 
 **R code**
+We used R software version 4.1.2 “Bird Hippie” for all calculations.
+
+<ins>Abstract:</ins> In contemporary armed conflict, the spatiality of violence and the constellation of actors involved in it change frequently, but how these changes affect one another remains poorly understood. What explains the spatial shift of areas affected by violence in multi-actor conflicts? We argue that the emergence of a new dominant conflict actor facilitates a shift in conflict-related violence. We theorize the causal mechanism as ‘low-risk/high-opportunity attraction’. It exists in territories where these actors can draw on a local support base and enhance capacities to engage in violence. To demonstrate our theory’s validity, we conduct two plausibility probes: on the conflict in Colombia paired with the conflict in the Lake Chad region, and on the conflict in the Afghan–Pakistani borderlands paired with the conflict in Iraq/Syria. We adopt a mixed-methods approach integrating visualizations, spatial analysis, network analysis and process tracing, drawing, inter alia, on interviews from remote regions of war-torn Colombia and Iraq.
+
+<ins>Abstract:</ins> Idler, A., & Tkacova, K. (2023). Conflict shapes in flux: Explaining spatial shift in conflict-related violence. <I>International Political Science Review</I>, DOI: [01925121231177445](https://doi.org/10.1177/01925121231177445).
 
 R code for replicating the primary data analysis, robustness checks, figures and tables. 
 - primary data analysis and robustness checks files: case_spatial_change.R
