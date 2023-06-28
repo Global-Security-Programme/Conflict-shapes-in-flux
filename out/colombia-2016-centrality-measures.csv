@@ -1,5 +1,0 @@
-id,label,nodes_n,degree,eigenvec,katz
-17,Government of Colombia,3,13,1,1.34
-744,ELN,1,10,0.98,1.13
-746,EPL,1,1,0.1,1.13
-743,FARC,1,2,0.2,1.13

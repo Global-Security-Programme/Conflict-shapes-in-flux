@@ -1,7 +1,0 @@
-id,label,nodes_n,degree,eigenvec,katz
-114,Government of Iran,1,7,0,1.11
-116,Government of Iraq,1,241,1,1.11
-115,Government of Turkey,1,59,0,1.11
-309,PJAK,1,7,0,1.11
-234,IS,1,241,1,1.11
-323,PKK,1,59,0,1.11
