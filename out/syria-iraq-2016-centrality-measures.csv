@@ -1,0 +1,37 @@
+id,label,nodes_n,degree,eigenvec,katz
+114,Government of Iran,3,18,0,1.74
+116,Government of Iraq,1,559,0.04,1.51
+115,Government of Turkey,2,261,0.01,1.62
+234,IS,25,2367,0.26,5.08
+120,Government of Jordan,1,4,0,1.51
+366,Hezbollah,3,3,0,1.8
+119,Government of Lebanon,1,4,0,1.51
+121,Government of Israel,1,1,0,1.18
+118,Government of Syria,3,4356,1,1.87
+6378,"Aknaf Bait al-Maqdis, Jaysh al-Islam, PFLP-GC",1,3,0,1.51
+6436,Fatah Halab,2,61,0,1.75
+6495,"Fatah Halab, Jabhat Fateh al-Sham",2,28,0,1.75
+6389,"Ahrar al-Sham, Jabhat Fateh al-Sham",2,13,0,1.75
+6532,"Ahrar al-Sham, Jabhat Fateh al-Sham, Southern Front",1,62,0,1.51
+5554,Ahrar al-Sham,1,17,0,1.11
+6564,Mare’ Operations Room,1,14,0,1.51
+6599,Hawar Kilis Operations Room,2,150,0.01,1.75
+6600,"Jaysh al-Islam, Jaysh Asoud al-Sharqiya, Martyr Lieutenant Ahmed Abdou Brigades, Rahman Corps",1,15,0,1.11
+6702,"Ahrar al-Sham, FSA, Jabhat Fateh al-Sham, Jaysh al-Islam",1,5,0,1.51
+7461,"Jabhat Fateh al-Sham, Rahman Corps",1,22,0,1.16
+7498,"Ahrar al-Sham, Jabhat Fateh al-Sham, Jaysh al-Islam, Jaysh Asoud al-Sharqiya, Martyr Lieutenant Ahmed Abdou Brigades, Rahman Corps",1,15,0,1.51
+164,KDPI,1,10,0,1.17
+309,PJAK,1,5,0,1.17
+323,PKK,1,191,0,1.16
+6333,Southern Front,1,4,0,1.51
+1170,Jabhat Fateh al-Sham,2,29,0,1.69
+4456,Syrian insurgents,1,3449,0.97,1.19
+5575,Islamic Front,1,1,0,1.51
+6014,"Islamic Front, Mujahideen Army, SRF",1,4,0,1.51
+6288,SDF,6,685,0.05,2.39
+6377,Jaysh al-Islam,2,27,0,1.62
+6553,NSA,1,8,0,1.51
+6037,Liwa al-Aqsa,1,17,0,1.11
+6306,Tahrir al- Sham Army,1,15,0,1.11
+6626,"Jaysh Asoud al-Sharqiya, Martyr Lieutenant Ahmed Abdou Brigades",1,2,0,1.51
+7477,"Nour al-Din al-Zenki, Sham Legion",1,1,0,1.51
