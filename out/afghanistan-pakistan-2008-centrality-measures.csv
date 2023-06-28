@@ -1,0 +1,16 @@
+id,label,nodes_n,degree,eigenvec,katz
+790,Bangesh,2,29,0,1.25
+142,Government of Pakistan,2,419,0,1.27
+796,Lashkar of Salarzai tribe,1,7,0,1.15
+797,Mangal,2,12,0,1.25
+398,Ansaar ul-Islam,1,11,0,1.12
+888,Forces of Turkestan Bhittani,1,1,0,1.15
+792,Forces of Shah Sahib,1,4,0,1.15
+3,Government of United States of America,1,31,0,1.11
+130,Government of Afghanistan,2,951,1,1.22
+791,Turi,2,39,0,1.25
+356,TTP,4,429,0,1.47
+399,Lashkar-e-Islam,2,13,0,1.24
+769,al-Qaida ,1,31,0,1.11
+303,Taleban,1,937,1,1.12
+299,Hizb-i Islami-yi Afghanistan,1,14,0.01,1.12
