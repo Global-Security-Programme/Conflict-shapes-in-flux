@@ -31,7 +31,7 @@ st_crs(world) <- 4326
 world_points<- st_centroid(world)
 world_points <- cbind(world, st_coordinates(st_centroid(world$geometry)))
 
-data <- readRDS("data/nigeria.rds")
+data <- readRDS("data/lake-chad-region.rds")
 
 points.sf <- st_as_sf(data, 
                       coords = c("longitude", "latitude"))
@@ -54,7 +54,7 @@ ggplot() +
   geom_sf(data = points.sf.2011,
           aes(color = dyad_name, show.legend = "point"), alpha = 0.6, shape = 1) +
   geom_sf(data = wzone.2011.sel.un.sf, alpha = 0.3,  fill = "grey", color = NA) +
-  ggtitle("Islamist insurgency, 2011: Wzone and conflict events") +
+  ggtitle("Armed conflict in the Lake Chad region, 2011: Wzone and conflict events") +
   theme_bw() +
   labs( x = "Longitude", y = "Latitude") +
   coord_sf(xlim = c(0, 20), ylim = c(3, 19), expand = FALSE) +
@@ -62,7 +62,7 @@ ggplot() +
             color = "gray20", fontface = "italic", check_overlap = T, size = 3) +
   theme(legend.position="right") +
   labs(color = "Conflict dyad")
-ggsave("figs/nigeria-2011-wzones-events.png", width = 8, height = 4)
+ggsave("figs/lake-chad-region-2011-wzones-events.png", width = 8, height = 4)
 
 
 
@@ -89,7 +89,7 @@ ggplot() +
   geom_sf(data = points.sf.2016,
           aes(color = dyad_name, show.legend = "point"), alpha = 0.6, shape = 1) +
   geom_sf(data = wzone.2016.sel.un.sf, alpha = 0.3,  fill = "grey", color = NA) +
-  ggtitle("Islamist insurgency, 2016: Wzone and conflict events") +
+  ggtitle("Armed conflict in the Lake Chad region, 2016: Wzone and conflict events") +
   theme_bw() +
   labs( x = "Longitude", y = "Latitude") +
   coord_sf(xlim = c(0, 20), ylim = c(3, 19), expand = FALSE) +
@@ -97,7 +97,7 @@ ggplot() +
             color = "gray20", fontface = "italic", check_overlap = T, size = 3) +
   theme(legend.position="right") +
   labs(color = "Conflict dyad")
-ggsave("figs/nigeria-2016-wzones-events.png", width = 8, height = 4)
+ggsave("figs/lake-chad-region-2016-wzones-events.png", width = 8, height = 4)
 
 
 # Figure 5.3 --------------------------------------------------------------

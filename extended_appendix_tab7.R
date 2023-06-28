@@ -15,9 +15,8 @@ library(tidyverse)
 
 
 # Nigeria -----------------------------------------------------------------
-rm(list= ls())
 
-data <- readRDS("data/nigeria.rds")
+data <- readRDS("data/lake-chad-region.rds")
 
 # Number of engagements 
 data.net <- data %>% 
@@ -38,7 +37,7 @@ engagements <- engagements %>% mutate(engagements_prop = round(N_engagements/tot
 engagements <- engagements %>% filter(Side == "Government of Nigeria", 
                                       Time >=2011 & Time <= 2016)
 
-write_csv(engagements, "out/nigeria-ext-app-tab7-engagements.csv")
+write_csv(engagements, "out/lake-chad-region-ext-app-tab7-engagements.csv")
 
 # Number of actors 
 data.net.uniq <- data.net %>% distinct(dyad_name, Time, .keep_all = T)
@@ -57,7 +56,7 @@ actors <- actors %>% mutate(actors_prop = round(N_actors/total_N_actors, 1))
 actors <- actors %>% filter(Side == "Government of Nigeria", 
                                       Time >=2011 & Time <= 2016)
 
-write_csv(actors, "out/nigeria-ext-app-tab7-actors.csv")
+write_csv(actors, "out/lake-chad-region-ext-app-tab7-actors.csv")
 
 
 # Colombia ----------------------------------------------------------

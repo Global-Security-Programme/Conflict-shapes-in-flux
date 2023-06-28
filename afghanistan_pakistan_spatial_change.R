@@ -81,13 +81,14 @@ set.seed(18)
 
 ggnet2(net.2006,
        mode = "fruchtermanreingold", 
-       layout.par = list(repulse.rad = 5, 
-                         area = 1000),
+       layout.par = list(repulse.rad = 10, 
+                         area = 100),
+       layout.exp = 0.5,
        label = paste(V(net.2006)$label,":", V(net.2006)$degree),
        label.size = 4,
        color = "blue",
        alpha = 0.3,
-       size = "degree", 
+       size = 5, 
        legend.position = "none",
        edge.size = 0.5,
        edge.color = "grey",
@@ -96,8 +97,8 @@ ggnet2(net.2006,
        edge.label.color = "blue",
        edge.label.alpha = 0.6) +
   ggtitle("Armed conflict in the Afghan-Pakistani borderlands, 2006")
-ggsave("figs/afghanistan-pakistan-2006.png", width = 8, height = 4)
 
+ggsave("figs/afghanistan-pakistan-2006-network.png", width = 10, height = 3)
 
 # 2006: Conflict shape and hotspots --------------------------------------------------------
 
@@ -208,13 +209,14 @@ set.seed(18)
 
 ggnet2(net.2008,
        mode = "fruchtermanreingold", 
-       layout.par = list(repulse.rad = 0.5, 
-                         area = 5000),
+       layout.par = list(repulse.rad = 10, 
+                         area = 100),
+       layout.exp = 0.5,
        label = paste(V(net.2008)$label,":", V(net.2008)$degree),
        label.size = 4,
        color = "blue",
        alpha = 0.3,
-       size = "degree", 
+       size = 5, 
        legend.position = "none",
        edge.size = 0.5,
        edge.color = "grey",
@@ -223,7 +225,7 @@ ggnet2(net.2008,
        edge.label.color = "blue",
        edge.label.alpha = 0.6) +
   ggtitle("Armed conflict in the Afghan-Pakistani borderlands,2008")
-ggsave("figs/afghanistan-pakistan-2008-network.png", width = 8, height = 4)
+ggsave("figs/afghanistan-pakistan-2008-network.png", width = 10, height = 4)
 
 
 # 2008: Conflict shape and hotspots --------------------------------------------------------
@@ -358,7 +360,7 @@ overl_shape.2006.2008 # 96.35396
 
 # spatial change
 spatial_ch.2006.2008 <- (overl_hotspot.2006.2008 + overl_shape.2006.2008)/2
-spatial_ch.2006.2008 # 76.22234(no shift)
+spatial_ch.2006.2008 # 76.22234 (no shift)
 
 
 # 2006.GRID75: Conflict shape and hotspots ----------------------------------------------------

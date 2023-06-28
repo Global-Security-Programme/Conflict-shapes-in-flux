@@ -15,15 +15,14 @@ library(stats)
 library(raster)
 library(MASS)
 library(rgeos)
-library(maptools)
-library(rgdal)
 library(rnaturalearth)
 library(sf)
 sf::sf_use_s2(FALSE)
-
 library(spdep)
 library(units)
 library(tidyverse)
+library(gridExtra)
+library(ggpolypath)
 
 # Data and map preparation ------------------------------------------------
 data <- readRDS("data/syria-iraq.rds")
@@ -43,6 +42,7 @@ world_points <- cbind(world, st_coordinates(st_centroid(world$geometry)))
 
 
 # 2010: Wzones and hotspots ----------------------------------------------------
+sf::sf_use_s2(TRUE)
 
 points.sf.2010 <- points.sf %>% filter(year == 2010)
 
@@ -62,6 +62,7 @@ grid.clip.2010 <- st_make_grid(wzone.2010.sel.un.sf,
   st_intersection(wzone.2010.sel.un.sf)
 
 points.count.2010 <- st_intersects(grid.clip.2010, points.sf.2010)
+
 grid.count.2010 <- st_sf(pt_count = lengths(points.count.2010), 
                          geometry = st_cast(grid.clip.2010, "MULTIPOLYGON"))
 
@@ -106,7 +107,7 @@ ggplot() +
   geom_sf(data = world, alpha = 0.1) +
   geom_sf(data = points.sf.2010,
           color = "red", alpha = 0.6, shape = 1) +
-  geom_sf(data = buffer.2010, alpha = 0.3,  fill = "grey", color = NA) +
+  geom_sf(data = wzone.2010.sel.un.sf, alpha = 0.3,  fill = "grey", color = NA) +
   ggtitle("Armed conflict in Syria and Iraq - Wzones, 2010: Conflict shape and conflict events") +
   theme_bw() +
   labs( x = "Longitude", y = "Latitude") +
@@ -229,7 +230,7 @@ one.perc.2010.2013 <- st_area(wzone.2010.sel.un.sf)/100
 new.perc.2010.2013 <- st_area(wzone.2013.sel.un.sf)/one.perc.2010.2013
 new.perc.2010.2013 <- drop_units(new.perc.2010.2013)
 perc.change.2010.2013 <- new.perc.2010.2013 - 100
-perc.change.2010.2013 #  41.00099 (expansion)
+perc.change.2010.2013 #  29.86264 (expansion)
 
 # overlap: hotspots
 hotspot.2010.sp <- as(st_geometry(hotspot.2010), "Spatial")
@@ -245,11 +246,11 @@ buffer.2013.sp <- as(st_geometry(wzone.2013.sel.un.sf), "Spatial")
 intersection.2010.2013 <- gIntersection(buffer.2010.sp, buffer.2013.sp)
 intersection.2010.2013.sf <- st_as_sf(intersection.2010.2013)
 overl_shape.2011.2013 <- st_area(intersection.2010.2013.sf)/(st_area(wzone.2010.sel.un.sf)/100)
-overl_shape.2011.2013 # 58.86652
+overl_shape.2011.2013 # 75.08904
 
 # spatial change
 spatial_ch.2011.2013 <- (overl_hotspot.2011.2013 + drop_units(overl_shape.2011.2013))/2
-spatial_ch.2011.2013 # 29.43326 (shift)
+spatial_ch.2011.2013 # 37.54452 (shift)
 
 
 # 2014: Wzones and hotspots --------------------------------------------------------
@@ -427,7 +428,7 @@ hotspot.2016.sp <- as(st_geometry(hotspot.2016), "Spatial")
 intersection.h.2014.2016 <- gIntersection(hotspot.2014.sp, hotspot.2016.sp)
 intersection.h.2014.2016.sf <- st_as_sf(intersection.h.2014.2016)
 overl_hotspot.2014.2016 <- st_area(intersection.h.2014.2016.sf)/(st_area(hotspot.2014)/100) 
-overl_hotspot.2014.2016  # 20.40743
+overl_hotspot.2014.2016  # 20.45896 
 
 # overlap: conflict shape
 buffer.2014.sp <- as(st_geometry(wzone.2014.sel.un.sf), "Spatial")

@@ -78,13 +78,14 @@ set.seed(18)
 
 ggnet2(net.2010,
        mode = "fruchtermanreingold", 
-       layout.par = list(repulse.rad = 5, 
-                         area = 1000),
+       layout.par = list(repulse.rad = 10, 
+                         area = 100),
+       layout.exp = 0.5,
        label = paste(V(net.2010)$label,":", V(net.2010)$degree),
        label.size = 4,
        color = "blue",
        alpha = 0.3,
-       size = "degree", 
+       size = 5, 
        legend.position = "none",
        edge.size = 0.5,
        edge.color = "grey",
@@ -93,7 +94,7 @@ ggnet2(net.2010,
        edge.label.color = "blue",
        edge.label.alpha = 0.6) +
   ggtitle("Armed conflict in Syria and Iraq, 2010")
-ggsave("figs/syria-iraq--2010-network.png", width = 8, height = 4)
+ggsave("figs/syria-iraq-2010-network.png", width = 10, height = 2)
 
 
 # 2010: Conflict shape and hotspots ----------------------------------------------------
@@ -205,13 +206,14 @@ set.seed(18)
 
 ggnet2(net.2013,
        mode = "fruchtermanreingold", 
-       layout.par = list(repulse.rad = 5, 
-                         area = 1000),
-       label = paste(V(net.2013)$label,":", V(net.2013)$degree),
+       layout.par = list(repulse.rad = 10, 
+                         area = 100),
+       layout.exp = 0.5,
+       label = paste(str_trunc(V(net.2013)$label, 40, "center"),":", V(net.2013)$degree),
        label.size = 4,
        color = "blue",
        alpha = 0.3,
-       size = "degree", 
+       size = 5, 
        legend.position = "none",
        edge.size = 0.5,
        edge.color = "grey",
@@ -220,7 +222,7 @@ ggnet2(net.2013,
        edge.label.color = "blue",
        edge.label.alpha = 0.6) +
   ggtitle("Armed conflict in Syria and Iraq, 2013")
-ggsave("figs/syria-iraq-2013-network.png", width = 8, height = 4)
+ggsave("figs/syria-iraq-2013-network.png", width = 10, height = 6)
 
 
 # 2013: Conflict shapes and hotspots --------------------------------------------------------

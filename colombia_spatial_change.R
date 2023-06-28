@@ -78,13 +78,14 @@ set.seed(18)
 
 ggnet2(net.2006,
        mode = "fruchtermanreingold", 
-       layout.par = list(repulse.rad = 0.1, 
-                         area = 5),
+       layout.par = list(repulse.rad = 10, 
+                         area = 100),
+       layout.exp = 0.5,
        label = paste(V(net.2006)$label,":", V(net.2006)$degree),
        label.size = 4,
        color = "blue",
        alpha = 0.3,
-       size = "degree", 
+       size = 5, 
        legend.position = "none",
        edge.size = 0.5,
        edge.color = "grey",
@@ -93,7 +94,7 @@ ggnet2(net.2006,
        edge.label.color = "blue",
        edge.label.alpha = 0.6) +
   ggtitle("Armed conflict in Colombia, 2006")
-ggsave("figs/colombia-2006-network.png", width = 8, height = 4)
+ggsave("figs/colombia-2006-network.png", width = 10, height = 3)
 
 
 # 2006: Conflict shape and hotspots ----------------------------------------------------
@@ -208,13 +209,14 @@ set.seed(18)
 
 ggnet2(net.2011,
        mode = "circle", 
-       layout.par = list(repulse.rad = 0.5, 
-                         area = 5),
+       layout.par = list(repulse.rad = 10, 
+                         area = 100),
+       layout.exp = 0.5,
        label = paste(V(net.2011)$label,":", V(net.2011)$degree),
-       label.size = 3,
+       label.size = 4,
        color = "red",
        alpha = 0.3,
-       size = 10, # manual
+       size = 5, # manual
        legend.position = "none",
        edge.size = 0.2,
        edge.color = "grey",
@@ -223,7 +225,7 @@ ggnet2(net.2011,
        edge.label.color = "red",
        edge.label.alpha = 0.6) +
   ggtitle("Armed conflict in Colombia, 2011")
-ggsave("figs/colombia-2011-network.png", width = 8, height = 4)
+ggsave("figs/colombia-2011-network.png", width = 10, height = 2.5)
 
 
 # 2011: Conflict shape and hotspots --------------------------------------------------------
